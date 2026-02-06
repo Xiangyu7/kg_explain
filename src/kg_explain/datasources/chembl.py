@@ -129,11 +129,9 @@ def _chembl_target(cache: HTTPCache, target_chembl_id: str) -> dict:
     return cached_get_json(cache, url)
 
 
-def _chembl_target_component_xref(cache: HTTPCache, target_component_id: str, limit: int = 1000) -> list[dict]:
-    """获取靶点组件交叉引用"""
-    url = f"{CHEMBL_API}/target_component_xref.json"
-    js = cached_get_json(cache, url, params={"target_component_id": str(target_component_id), "limit": limit})
-    return js.get("target_component_xrefs") or []
+# NOTE: The /target_component_xref.json endpoint has been removed from ChEMBL API.
+# Cross-references are now embedded in target detail responses under
+# target_components[].target_component_xrefs.
 
 
 def fetch_target_xrefs(
@@ -166,15 +164,12 @@ def fetch_target_xrefs(
         })
 
         for comp in t.get("target_components") or []:
-            tcid = comp.get("target_component_id")
+            tcid = comp.get("component_id")
             acc = comp.get("accession")
             if tcid is None:
                 continue
 
-            try:
-                xrefs = _chembl_target_component_xref(cache, str(tcid))
-            except Exception:
-                xrefs = []
+            xrefs = comp.get("target_component_xrefs") or []
 
             for xr in xrefs:
                 xref_rows.append({
@@ -193,21 +188,73 @@ def fetch_target_xrefs(
     return node_path, xref_path
 
 
-def target_to_ensembl(data_dir: Path) -> Path:
+def _uniprot_ensembl(cache: HTTPCache, accession: str) -> list[str]:
+    """从UniProt获取Ensembl基因ID列表"""
+    url = f"https://rest.uniprot.org/uniprotkb/{accession}.json"
+    try:
+        data = cached_get_json(cache, url)
+    except Exception:
+        return []
+    gene_ids: list[str] = []
+    for xr in data.get("uniProtKBCrossReferences") or []:
+        if xr.get("database") == "Ensembl":
+            for prop in xr.get("properties") or []:
+                val = prop.get("value", "")
+                if val.startswith("ENSG"):
+                    # strip version suffix (e.g. ENSG00000173198.7 → ENSG00000173198)
+                    gene_ids.append(val.split(".")[0])
+    return list(set(gene_ids))
+
+
+def target_to_ensembl(data_dir: Path, cache: HTTPCache | None = None) -> Path:
     """
     将靶点映射到Ensembl基因ID
+
+    优先从target_xref.csv的ChEMBL交叉引用中提取Ensembl；
+    若无Ensembl记录，则通过UniProt API用uniprot_accession查询。
 
     Returns:
         输出文件路径
     """
-    xref = read_csv(data_dir / "target_xref.csv", dtype=str)
-    m = xref[
-        (xref["xref_src_db"].fillna("").str.contains("Ensembl", case=False))
-        | (xref["xref_id"].fillna("").str.startswith("ENSG"))
-    ].copy()
-    m["ensembl_gene_id"] = m["xref_id"]
-
-    out = m[["target_chembl_id", "ensembl_gene_id"]].dropna().drop_duplicates()
     path = data_dir / "target_chembl_to_ensembl_all.csv"
+    empty = pd.DataFrame(columns=["target_chembl_id", "ensembl_gene_id"])
+
+    xref_path = data_dir / "target_xref.csv"
+    if not xref_path.exists() or xref_path.stat().st_size <= 1:
+        xref = pd.DataFrame()
+    else:
+        xref = read_csv(xref_path, dtype=str)
+
+    rows: list[dict] = []
+
+    # ---- Strategy 1: ChEMBL xref contains Ensembl directly ----
+    if not xref.empty:
+        m = xref[
+            (xref["xref_src_db"].fillna("").str.contains("Ensembl", case=False))
+            | (xref["xref_id"].fillna("").str.startswith("ENSG"))
+        ]
+        for _, r in m.iterrows():
+            gid = str(r["xref_id"]).split(".")[0]
+            if gid.startswith("ENSG"):
+                rows.append({"target_chembl_id": r["target_chembl_id"], "ensembl_gene_id": gid})
+
+    # ---- Strategy 2: UniProt → Ensembl via UniProt REST API ----
+    if not rows and cache is not None and not xref.empty:
+        # Build target→UniProt mapping from xref
+        pairs = (
+            xref[["target_chembl_id", "uniprot_accession"]]
+            .dropna()
+            .drop_duplicates()
+        )
+        for _, r in tqdm(pairs.iterrows(), total=len(pairs), desc="UniProt→Ensembl"):
+            acc = str(r["uniprot_accession"])
+            tid = str(r["target_chembl_id"])
+            for gid in _uniprot_ensembl(cache, acc):
+                rows.append({"target_chembl_id": tid, "ensembl_gene_id": gid})
+
+    if rows:
+        out = pd.DataFrame(rows).drop_duplicates()
+    else:
+        out = empty
     out.to_csv(path, index=False)
     return path

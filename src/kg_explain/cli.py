@@ -134,7 +134,7 @@ def run_pipeline(args, data_dir: Path, output_dir: Path, cache: HTTPCache):
         # Step 5: Target Xref
         print("\n[5/9] Target Xref...")
         datasources.fetch_target_xrefs(data_dir, cache)
-        datasources.target_to_ensembl(data_dir)
+        datasources.target_to_ensembl(data_dir, cache)
 
         # Step 6: Target-Pathway
         print("\n[6/9] Target→Pathway...")
