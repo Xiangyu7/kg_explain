@@ -1,0 +1,54 @@
+# ============================================
+# 疾病配置: 动脉粥样硬化 (Atherosclerosis)
+# ============================================
+#
+# 本项目聚焦于动脉粥样硬化及相关心血管疾病:
+#   - 冠状动脉疾病 (Coronary Artery Disease)
+#   - 外周动脉疾病 (Peripheral Artery Disease)
+#   - 颈动脉粥样硬化 (Carotid Atherosclerosis)
+#   - 动脉粥样硬化性心血管疾病 (ASCVD)
+#
+# 数据来源: ClinicalTrials.gov 失败/终止的临床试验
+# ============================================
+
+disease:
+  name: "Atherosclerosis"
+  name_cn: "动脉粥样硬化"
+
+  description: |
+    动脉粥样硬化是一种动脉壁内脂质沉积引起的慢性炎症性疾病。
+    本项目分析在该疾病领域失败的临床试验药物，通过构建
+    Drug→Target→Pathway→Disease 知识图谱，识别可能的
+    药物重定位机会。
+
+  # CT.gov 搜索条件
+  condition: "atherosclerosis"
+
+  # 相关ICD-10编码 (参考)
+  icd10_codes:
+    - "I70"    # Atherosclerosis
+    - "I25"    # Chronic ischemic heart disease
+    - "I73.9"  # Peripheral vascular disease
+
+  # 相关MeSH术语
+  mesh_terms:
+    - "Atherosclerosis"
+    - "Coronary Artery Disease"
+    - "Peripheral Arterial Disease"
+    - "Cardiovascular Diseases"
+    - "Arteriosclerosis"
+
+# 药物筛选
+drug_filter:
+  description: |
+    从CT.gov失败试验中提取的药物干预措施
+
+  include_types:
+    - DRUG
+    - BIOLOGICAL
+
+  exclude_types:
+    - DEVICE
+    - PROCEDURE
+    - BEHAVIORAL
+    - DIETARY_SUPPLEMENT

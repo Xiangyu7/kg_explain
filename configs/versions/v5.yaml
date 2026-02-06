@@ -1,0 +1,55 @@
+# ============================================
+# V5 排序配置: 完整可解释路径
+# ============================================
+#
+# 路径类型:
+#   1. DTPD: Drug → Target → Pathway → Disease (机制路径)
+#   2. Drug → AE (FAERS安全信号)
+#   3. Drug → Trial (失败试验证据)
+#   4. Disease → Phenotype (表型关联)
+#
+# 评分公式 (Drug Repurposing场景):
+#   final = mechanism × (1 - safety_pen - trial_pen) + phenotype_boost
+#
+# 说明:
+#   - 安全惩罚: FAERS中报告的不良事件越多，惩罚越高
+#   - 试验惩罚: 因安全原因停止的试验给更高惩罚
+#   - 表型加分: 疾病有更多已知表型时加分
+# ============================================
+
+mode: v5
+
+rank:
+  # 基础参数
+  topk_paths_per_pair: 10
+  topk_pairs_per_drug: 50
+  hub_penalty_lambda: 1.0
+  support_gene_boost: 0.15
+
+  # V5 安全相关权重
+  safety_penalty_weight: 0.3    # FAERS不良事件惩罚权重
+  trial_failure_penalty: 0.2    # 试验失败惩罚
+  phenotype_overlap_boost: 0.1  # 表型重叠加分
+
+# FAERS配置
+faers:
+  min_report_count: 5
+  min_prr: 1.5
+  max_drugs: 500
+  top_ae_per_drug: 50
+
+# 表型配置
+phenotype:
+  source: opentargets
+  min_score: 0.3
+  max_phenotypes_per_disease: 30
+
+# 严重不良事件关键词 (用于惩罚加倍)
+serious_ae_keywords:
+  - death
+  - fatal
+  - life-threatening
+  - hospitalisation
+  - hospitalization
+  - disability
+  - congenital anomaly

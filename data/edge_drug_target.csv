@@ -1,0 +1,100 @@
+drug_normalized,drug_raw,molecule_chembl_id,target_chembl_id,mechanism_of_action
+10 x 10^6 cells,10 x 10^6 cells,CHEMBL39541,CHEMBL2095182,Tubulin inhibitor
+2.25 mm xience v® everolimus eluting coronary stent system,2.25 mm XIENCE V® Everolimus Eluting Coronary Stent System,CHEMBL1908360,CHEMBL1902,FK506-binding protein 1A inhibitor
+alirocumab,Alirocumab,CHEMBL2109540,CHEMBL2929,Subtilisin/kexin type 9 inhibitor
+alirocumab 150 mg/ml subcutaneous injection,Alirocumab 150 MG/ML subcutaneous injection,CHEMBL2109540,CHEMBL2929,Subtilisin/kexin type 9 inhibitor
+angiotensin 1-7,Angiotensin 1-7,CHEMBL3545347,CHEMBL3559701,Proto-oncogene Mas agonist
+aspirin,Aspirin,CHEMBL25,CHEMBL2094253,Cyclooxygenase inhibitor
+aspirin + ticagrelor,Aspirin + Ticagrelor,CHEMBL398435,CHEMBL2001,Purinergic receptor P2Y12 negative allosteric modulator
+aspirin 25 mg bid,Aspirin 25 mg bid,CHEMBL25,CHEMBL2094253,Cyclooxygenase inhibitor
+aspirin tablet,Aspirin tablet,CHEMBL25,CHEMBL2094253,Cyclooxygenase inhibitor
+atenolol,Atenolol,CHEMBL24,CHEMBL213,Beta-1 adrenergic receptor antagonist
+axys ex device,Axys EX device,CHEMBL382277,CHEMBL4506,NAD-dependent deacetylase sirtuin 1 inhibitor
+bms-823778,BMS-823778,CHEMBL4297457,CHEMBL4235,11-beta-hydroxysteroid dehydrogenase 1 inhibitor
+biktarvy,Biktarvy,CHEMBL3989867,CHEMBL3471,Human immunodeficiency virus type 1 integrase inhibitor
+bupivacaine liposome,Bupivacaine liposome,CHEMBL1098,CHEMBL2072,Sodium channel protein type IV alpha subunit blocker
+canakinumab (acz885),Canakinumab (ACZ885),CHEMBL1201834,CHEMBL1909490,Interleukin-1 beta inhibitor
+cangrelor,Cangrelor,CHEMBL334966,CHEMBL2001,Purinergic receptor P2Y12 inhibitor
+cardiac rehabilitation,Cardiac Rehabilitation,CHEMBL4297517,CHEMBL3831286,Cardiac myosin inhibitor
+cellgram-cli,Cellgram-CLI,CHEMBL225157,CHEMBL5255,Toll-like receptor 4 inhibitor
+cholecalciferol,Cholecalciferol,CHEMBL1042,CHEMBL1977,Vitamin D receptor agonist
+cilostazol,Cilostazol,CHEMBL799,CHEMBL241,Phosphodiesterase 3A inhibitor
+cilostazol 100 mg,Cilostazol 100 mg,CHEMBL799,CHEMBL241,Phosphodiesterase 3A inhibitor
+cilostazol 200 mg,Cilostazol 200 mg,CHEMBL799,CHEMBL241,Phosphodiesterase 3A inhibitor
+colchicine,Colchicine,CHEMBL107,CHEMBL2095182,Tubulin inhibitor
+deb,DEB,CHEMBL1651956,CHEMBL1949,Cyclophilin A inhibitor
+dipyridamole 200 mg bid,Dipyridamole 200 mg bid,CHEMBL932,CHEMBL1997,Equilibrative nucleoside transporter 1 inhibitor
+dipyridamole 200 mg bid,Dipyridamole 200 mg bid,CHEMBL932,CHEMBL2363066,"3',5'-cyclic phosphodiesterase inhibitor"
+dipyridamole 200mg and aspirin 25mg bid:,Dipyridamole 200mg and Aspirin 25mg bid:,CHEMBL25,CHEMBL2094253,Cyclooxygenase inhibitor
+endurance evaluation,Endurance Evaluation,CHEMBL1467,CHEMBL1929,Xanthine dehydrogenase inhibitor
+everolimus eluting bvs,Everolimus Eluting BVS,CHEMBL1908360,CHEMBL1902,FK506-binding protein 1A inhibitor
+evolocumab,Evolocumab,CHEMBL2364655,CHEMBL2929,Subtilisin/kexin type 9 inhibitor
+exercise,Exercise,CHEMBL1082607,CHEMBL210,Beta-2 adrenergic receptor agonist
+exercise rehabilitation,Exercise Rehabilitation,CHEMBL1082607,CHEMBL210,Beta-2 adrenergic receptor agonist
+exercise oxymetry,Exercise oxymetry,CHEMBL1082607,CHEMBL210,Beta-2 adrenergic receptor agonist
+ezetimibe,Ezetimibe,CHEMBL1138,CHEMBL2027,Niemann-Pick C1-like protein 1 inhibitor
+ezetimibe 10mg,Ezetimibe 10mg,CHEMBL1138,CHEMBL2027,Niemann-Pick C1-like protein 1 inhibitor
+ezetrol (ezetimibe),Ezetrol (Ezetimibe),CHEMBL1138,CHEMBL2027,Niemann-Pick C1-like protein 1 inhibitor
+fentanyl injection,Fentanyl Injection,CHEMBL1201159,CHEMBL233,Mu opioid receptor agonist
+gains framed message,Gains Framed Message,CHEMBL24441,CHEMBL264,Histamine H3 receptor antagonist
+gains framed message,Gains Framed Message,CHEMBL24441,CHEMBL231,Histamine H1 receptor agonist
+gemfibrozil,Gemfibrozil,CHEMBL457,CHEMBL239,Peroxisome proliferator-activated receptor alpha agonist
+heparin,Heparin,CHEMBL4650299,CHEMBL1950,Antithrombin-III activator
+implantation of everolimus-eluting stent,Implantation of everolimus-eluting stent,CHEMBL1908360,CHEMBL1902,FK506-binding protein 1A inhibitor
+interwoven stent,Interwoven stent,CHEMBL428647,CHEMBL2095182,Tubulin inhibitor
+jardiance,Jardiance,CHEMBL2107830,CHEMBL3884,Sodium/glucose cotransporter 2 inhibitor
+leqvio,LEQVIO,CHEMBL5095052,CHEMBL4630662,PCSK9 mRNA rnai inhibitor
+laser-cut stent,Laser-cut stent,CHEMBL428647,CHEMBL2095182,Tubulin inhibitor
+lifestyle modification,Lifestyle modification,CHEMBL4298067,CHEMBL4163,Toll-like receptor 2 antagonist
+lomitapide,Lomitapide,CHEMBL2105662,CHEMBL2364681,Microsomal triglyceride transfer protein inhibitor
+mln1202,MLN1202,CHEMBL3707228,CHEMBL4015,C-C chemokine receptor type 2 inhibitor
+metoprolol,Metoprolol,CHEMBL2356097,CHEMBL213,Beta-1 adrenergic receptor antagonist
+midazolam injection,Midazolam injection,CHEMBL655,CHEMBL2093872,GABA-A receptor; anion channel positive allosteric modulator
+montelukast sodium,Montelukast Sodium,CHEMBL1200681,CHEMBL1798,Cysteinyl leukotriene receptor 1 antagonist
+myocardial perfusion imaging with 10 minute waiting period,Myocardial Perfusion imaging with 10 minute waiting period,CHEMBL3989695,CHEMBL251,Adenosine A2a receptor agonist
+nexlizet,Nexlizet,CHEMBL3545313,CHEMBL3720,ATP-citrate synthase inhibitor
+niacin/laropiprant combination,Niacin/Laropiprant combination,CHEMBL426559,CHEMBL4427,Prostanoid DP receptor antagonist
+nitroglycerin,Nitroglycerin,CHEMBL730,CHEMBL2111348,Soluble guanylate cyclase activator
+nitroglycerin 0.4 mg sublingual,Nitroglycerin 0.4 mg sublingual,CHEMBL730,CHEMBL2111348,Soluble guanylate cyclase activator
+pactimibe sulfate,Pactimibe sulfate,CHEMBL478858,CHEMBL2782,Acyl coenzyme A:cholesterol acyltransferase 1 inhibitor
+pactimibe sulfate,Pactimibe sulfate,CHEMBL478858,CHEMBL4465,Acyl coenzyme A:cholesterol acyltransferase 2 inhibitor
+percutaneous transluminal angioplasty,Percutaneous Transluminal Angioplasty,CHEMBL334966,CHEMBL2001,Purinergic receptor P2Y12 inhibitor
+placebo (for rimonabant),Placebo (for Rimonabant),CHEMBL111,CHEMBL218,Cannabinoid CB1 receptor antagonist
+placebo capsules - end of pci,Placebo capsules - end of PCI,CHEMBL2103863,CHEMBL2093865,Histone deacetylase inhibitor
+placebo matching with bms-823778,Placebo matching with BMS-823778,CHEMBL4297457,CHEMBL4235,11-beta-hydroxysteroid dehydrogenase 1 inhibitor
+"quantitative coronary angiography, intravascular imaging with percutaneous intervention","Quantitative coronary angiography, intravascular imaging with percutaneous intervention",CHEMBL334966,CHEMBL2001,Purinergic receptor P2Y12 inhibitor
+ranolazine,Ranolazine,CHEMBL1404,CHEMBL1980,Sodium channel protein type V alpha subunit blocker
+ranolazine,Ranolazine,CHEMBL1404,CHEMBL2072,Sodium channel protein type IV alpha subunit blocker
+remodulin (treprostinil sodium) injection,Remodulin (treprostinil sodium) Injection,CHEMBL561157,CHEMBL1995,Prostanoid IP receptor agonist
+remodulin® (treprostinil sodium) injection,Remodulin® (treprostinil sodium) Injection,CHEMBL561157,CHEMBL1995,Prostanoid IP receptor agonist
+repatha,Repatha,CHEMBL2364655,CHEMBL2929,Subtilisin/kexin type 9 inhibitor
+rimonabant,Rimonabant,CHEMBL111,CHEMBL218,Cannabinoid CB1 receptor antagonist
+rosiglitazone,Rosiglitazone,CHEMBL121,CHEMBL235,Peroxisome proliferator-activated receptor gamma agonist
+rosuvastatin,Rosuvastatin,CHEMBL1744447,CHEMBL402,HMG-CoA reductase inhibitor
+serine proteinase-1 (serp-1),Serine proteinase-1 (Serp-1),CHEMBL4297879,CHEMBL248,Leukocyte elastase inhibitor
+sildenafil,Sildenafil,CHEMBL1737,CHEMBL1827,Phosphodiesterase 5A inhibitor
+social network feedback,Social Network Feedback,CHEMBL514270,CHEMBL1800,Corticotropin releasing factor receptor 1 antagonist
+spironolactone,Spironolactone,CHEMBL1393,CHEMBL1994,Mineralocorticoid receptor antagonist
+temsirolimus,Temsirolimus,CHEMBL1201182,CHEMBL1902,FK506-binding protein 1A inhibitor
+temsirolimus and dexamethasone sodium phosphate,Temsirolimus and dexamethasone sodium phosphate,CHEMBL2021430,CHEMBL2034,Glucocorticoid receptor agonist
+ticagrelor,Ticagrelor,CHEMBL398435,CHEMBL2001,Purinergic receptor P2Y12 negative allosteric modulator
+ticagrelor 90mg,Ticagrelor 90mg,CHEMBL398435,CHEMBL2001,Purinergic receptor P2Y12 negative allosteric modulator
+treat-to-target strategy,Treat-to-target strategy,CHEMBL6068498,CHEMBL5498507,Polysaccharide conjugated to Tetanus toxoid vaccine antigen
+trilipix,TriLipix,CHEMBL981,CHEMBL239,Peroxisome proliferator-activated receptor alpha agonist
+yoga intervention,Yoga intervention,CHEMBL334966,CHEMBL2001,Purinergic receptor P2Y12 inhibitor
+angioplasty tibial arteries,angioplasty tibial arteries,CHEMBL563646,CHEMBL1881,Prostanoid EP2 receptor agonist
+"atorvastatin, aspirin, losartan, amlodipine","atorvastatin, aspirin, losartan, amlodipine",CHEMBL1200402,CHEMBL2095229,Voltage-gated L-type calcium channel blocker
+everolimus-eluting stents (promus®),everolimus-eluting stents (PROMUS®),CHEMBL1908360,CHEMBL1902,FK506-binding protein 1A inhibitor
+ezetimibe,ezetimibe,CHEMBL1138,CHEMBL2027,Niemann-Pick C1-like protein 1 inhibitor
+mycophenolate mofetil,mycophenolate mofetil,CHEMBL1456,CHEMBL2111369,Inosine-5'-monophosphate dehydrogenase (IMPDH) inhibitor
+niacin/laropiprant,niacin/laropiprant,CHEMBL426559,CHEMBL4427,Prostanoid DP receptor antagonist
+olmesartan medoxomil,olmesartan medoxomil,CHEMBL1200692,CHEMBL227,Type-1 angiotensin II receptor antagonist
+percutaneous transluminal angioplasty femoro-popliteal,percutaneous transluminal angioplasty femoro-popliteal,CHEMBL334966,CHEMBL2001,Purinergic receptor P2Y12 inhibitor
+pregabalin,pregabalin,CHEMBL1059,CHEMBL2363032,Voltage-gated calcium channel modulator
+rosiglitazone/placebo,rosiglitazone/placebo,CHEMBL121,CHEMBL235,Peroxisome proliferator-activated receptor gamma agonist
+rosuvastatin,rosuvastatin,CHEMBL1744447,CHEMBL402,HMG-CoA reductase inhibitor
+tacrolimus,tacrolimus,CHEMBL3989887,CHEMBL1902,FK506-binding protein 1A inhibitor
+urokinase,urokinase,CHEMBL1201420,CHEMBL3286,Urokinase-type plasminogen activator exogenous protein
+veliflapon (dg-031),veliflapon (DG-031),CHEMBL88712,CHEMBL4550,5-lipoxygenase activating protein inhibitor
+vonapanitase,vonapanitase,CHEMBL3545070,CHEMBL3713712,Elastin proteolytic enzyme
+zotarolimus-eluting stent (endeavor®),zotarolimus-eluting stent (ENDEAVOR®),CHEMBL219410,CHEMBL1902,FK506-binding protein 1A inhibitor

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod:*)",
+      "Bash(python -c:*)",
+      "Bash(python -m kg_explain:*)",
+      "Bash(PYTHONPATH=src python:*)",
+      "Bash(python -m src.kg_explain:*)"
+    ]
+  }
+}

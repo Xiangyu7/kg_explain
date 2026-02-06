@@ -1,0 +1,56 @@
+# KG Explain 基础配置
+# 所有版本共享的配置
+
+paths:
+  data_dir: ./data
+  output_dir: ./output
+  cache_dir: ./cache
+
+# API端点
+api:
+  ctgov: "https://clinicaltrials.gov/api/v2/studies"
+  rxnorm: "https://rxnav.nlm.nih.gov/REST/approximateTerm.json"
+  chembl: "https://www.ebi.ac.uk/chembl/api/data"
+  reactome: "https://reactome.org/ContentService"
+  opentargets: "https://api.platform.opentargets.org/api/v4/graphql"
+  faers: "https://api.fda.gov/drug/event.json"
+
+# HTTP请求设置
+http:
+  timeout: 60
+  max_retries: 5
+  page_size: 200
+
+# 临床试验筛选
+trial_filter:
+  statuses:
+    - TERMINATED
+    - WITHDRAWN
+    - SUSPENDED
+  max_pages: 20
+
+# 文件名映射
+files:
+  failed_trials: failed_trials_drug_rows.csv
+  drug_summary: failed_drugs_summary.csv
+  rxnorm_map: drug_rxnorm_map.csv
+  chembl_map: drug_chembl_map.csv
+  drug_target: edge_drug_target.csv
+  node_target: node_target.csv
+  target_xref: target_xref.csv
+  target_ensembl: target_chembl_to_ensembl_all.csv
+  target_pathway: edge_target_pathway_all.csv
+  gene_disease: edge_target_disease_ot.csv
+  gene_pathway: edge_gene_pathway.csv
+  pathway_disease: edge_pathway_disease.csv
+  # V5 新增
+  disease_phenotype: edge_disease_phenotype.csv
+  drug_ae: edge_drug_ae_faers.csv
+  trial_ae: edge_trial_ae.csv
+
+# 默认排序参数
+rank:
+  topk_paths_per_pair: 10
+  topk_pairs_per_drug: 50
+  hub_penalty_lambda: 1.0
+  support_gene_boost: 0.15
