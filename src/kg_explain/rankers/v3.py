@@ -48,7 +48,9 @@ def run_v3(cfg: Config) -> dict[str, Path]:
     pd_edge["support_genes_f"] = pd.to_numeric(pd_edge["support_genes"], errors="coerce").fillna(1.0)
 
     # 合并路径
-    dtp = dt.merge(tp, on="target_chembl_id", how="inner").dropna(
+    # 只保留路径核心列, 避免 drug_raw/mechanism_of_action 等额外列造成假性重复
+    dt_core = dt[["drug_normalized", "target_chembl_id"]].drop_duplicates()
+    dtp = dt_core.merge(tp, on="target_chembl_id", how="inner").dropna(
         subset=["drug_normalized", "target_chembl_id", "reactome_stid"]
     ).drop_duplicates()
 
@@ -61,7 +63,12 @@ def run_v3(cfg: Config) -> dict[str, Path]:
     dtp["w_hub_target"] = hub_penalty(dtp["target_deg"]).pow(lam)
 
     # 合并通路-疾病
-    paths = dtp.merge(pd_edge, on="reactome_stid", how="inner")
+    # tp 和 pd_edge 都有 reactome_name 列, 用后缀区分后保留 tp 侧的
+    paths = dtp.merge(pd_edge, on="reactome_stid", how="inner", suffixes=("", "_pd"))
+    # 优先使用 tp 侧的 reactome_name, 缺失时回退到 pd_edge 侧
+    if "reactome_name_pd" in paths.columns:
+        paths["reactome_name"] = paths["reactome_name"].fillna(paths["reactome_name_pd"])
+        paths.drop(columns=["reactome_name_pd"], inplace=True)
 
     # 计算路径分数
     sb = float(rank_cfg.get("support_gene_boost", 0.15))

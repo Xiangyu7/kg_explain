@@ -3,17 +3,9 @@ ENSG00000173198,R-HSA-391906,Leukotriene receptors
 ENSG00000173198,R-HSA-416476,G alpha (q) signalling events
 ENSG00000173198,R-HSA-9664535,LTC4-CYSLTR mediated IL4 production
 ENSG00000173198,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000120088,R-HSA-373080,Class B/2 (Secretin family receptors)
-ENSG00000278232,R-HSA-373080,Class B/2 (Secretin family receptors)
-ENSG00000276191,R-HSA-373080,Class B/2 (Secretin family receptors)
-ENSG00000120088,R-HSA-418555,G alpha (s) signalling events
-ENSG00000278232,R-HSA-418555,G alpha (s) signalling events
-ENSG00000276191,R-HSA-418555,G alpha (s) signalling events
 ENSG00000138735,R-HSA-418457,cGMP effects
 ENSG00000138735,R-HSA-445355,Smooth Muscle Contraction
 ENSG00000138735,R-HSA-9013422,RHOBTB1 GTPase cycle
-ENSG00000125384,R-HSA-391908,Prostanoid ligand receptors
-ENSG00000125384,R-HSA-418555,G alpha (s) signalling events
 ENSG00000088832,R-HSA-166208,mTORC1-mediated signalling
 ENSG00000088832,R-HSA-2025928,Calcineurin activates NFAT
 ENSG00000088832,R-HSA-2173789,TGF-beta receptor signaling activates SMADs
@@ -30,24 +22,6 @@ ENSG00000125538,R-HSA-9020702,Interleukin-1 signaling
 ENSG00000125538,R-HSA-9660826,Purinergic signaling in leishmaniasis infection
 ENSG00000125538,R-HSA-9960519,CASP4-mediated substrate cleavage
 ENSG00000125538,R-HSA-9960525,CASP5-mediated substrate cleavage
-ENSG00000158125,R-HSA-74259,Purine catabolism
-ENSG00000158125,R-HSA-8851680,Butyrophilin (BTN) family interactions
-ENSG00000158125,R-HSA-9748787,Azathioprine ADME
-ENSG00000196262,R-HSA-114608,Platelet degranulation 
-ENSG00000196262,R-HSA-162585,Uncoating of the HIV Virion
-ENSG00000196262,R-HSA-162588,Budding and maturation of HIV virion
-ENSG00000196262,R-HSA-162592,Integration of provirus
-ENSG00000196262,R-HSA-162594,Early Phase of HIV Life Cycle
-ENSG00000196262,R-HSA-164516,Minus-strand DNA synthesis
-ENSG00000196262,R-HSA-164525,Plus-strand DNA synthesis
-ENSG00000196262,R-HSA-173107,Binding and entry of HIV virion
-ENSG00000196262,R-HSA-175474,Assembly Of The HIV Virion
-ENSG00000196262,R-HSA-180689,APOBEC3G mediated resistance to HIV-1 infection
-ENSG00000196262,R-HSA-2025928,Calcineurin activates NFAT
-ENSG00000196262,R-HSA-210991,Basigin interactions
-ENSG00000196262,R-HSA-6798695,Neutrophil degranulation
-ENSG00000196262,R-HSA-8950505,Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation
-ENSG00000196262,R-HSA-9692916,SARS-CoV-1 activates/modulates innate immune responses
 ENSG00000117601,R-HSA-140837,Intrinsic Pathway of Fibrin Clot Formation
 ENSG00000117601,R-HSA-140875,Common Pathway of Fibrin Clot Formation
 ENSG00000117601,R-HSA-381426,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
@@ -80,743 +54,6 @@ ENSG00000113580,R-HSA-9679191,Potential therapeutics for SARS
 ENSG00000113580,R-HSA-9768777,Regulation of NPAS4 gene transcription
 ENSG00000007314,R-HSA-445095,Interaction between L1 and Ankyrins
 ENSG00000007314,R-HSA-5576892,Phase 0 - rapid depolarisation
-ENSG00000116478,R-HSA-1362277,Transcription of E2F targets under negative control by DREAM complex
-ENSG00000171720,R-HSA-1362277,Transcription of E2F targets under negative control by DREAM complex
-ENSG00000094631,R-HSA-1362277,Transcription of E2F targets under negative control by DREAM complex
-ENSG00000196591,R-HSA-1362277,Transcription of E2F targets under negative control by DREAM complex
-ENSG00000108840,R-HSA-1362277,Transcription of E2F targets under negative control by DREAM complex
-ENSG00000061273,R-HSA-1362277,Transcription of E2F targets under negative control by DREAM complex
-ENSG00000147099,R-HSA-1362277,Transcription of E2F targets under negative control by DREAM complex
-ENSG00000163517,R-HSA-1362277,Transcription of E2F targets under negative control by DREAM complex
-ENSG00000068024,R-HSA-1362277,Transcription of E2F targets under negative control by DREAM complex
-ENSG00000048052,R-HSA-1362277,Transcription of E2F targets under negative control by DREAM complex
-ENSG00000100429,R-HSA-1362277,Transcription of E2F targets under negative control by DREAM complex
-ENSG00000116478,R-HSA-1362300,Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1
-ENSG00000171720,R-HSA-1362300,Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1
-ENSG00000094631,R-HSA-1362300,Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1
-ENSG00000196591,R-HSA-1362300,Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1
-ENSG00000108840,R-HSA-1362300,Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1
-ENSG00000061273,R-HSA-1362300,Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1
-ENSG00000147099,R-HSA-1362300,Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1
-ENSG00000163517,R-HSA-1362300,Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1
-ENSG00000068024,R-HSA-1362300,Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1
-ENSG00000048052,R-HSA-1362300,Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1
-ENSG00000100429,R-HSA-1362300,Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1
-ENSG00000116478,R-HSA-1538133,G0 and Early G1
-ENSG00000171720,R-HSA-1538133,G0 and Early G1
-ENSG00000094631,R-HSA-1538133,G0 and Early G1
-ENSG00000196591,R-HSA-1538133,G0 and Early G1
-ENSG00000108840,R-HSA-1538133,G0 and Early G1
-ENSG00000061273,R-HSA-1538133,G0 and Early G1
-ENSG00000147099,R-HSA-1538133,G0 and Early G1
-ENSG00000163517,R-HSA-1538133,G0 and Early G1
-ENSG00000068024,R-HSA-1538133,G0 and Early G1
-ENSG00000048052,R-HSA-1538133,G0 and Early G1
-ENSG00000100429,R-HSA-1538133,G0 and Early G1
-ENSG00000116478,R-HSA-193670,p75NTR negatively regulates cell cycle via SC1
-ENSG00000171720,R-HSA-193670,p75NTR negatively regulates cell cycle via SC1
-ENSG00000094631,R-HSA-193670,p75NTR negatively regulates cell cycle via SC1
-ENSG00000196591,R-HSA-193670,p75NTR negatively regulates cell cycle via SC1
-ENSG00000108840,R-HSA-193670,p75NTR negatively regulates cell cycle via SC1
-ENSG00000061273,R-HSA-193670,p75NTR negatively regulates cell cycle via SC1
-ENSG00000147099,R-HSA-193670,p75NTR negatively regulates cell cycle via SC1
-ENSG00000163517,R-HSA-193670,p75NTR negatively regulates cell cycle via SC1
-ENSG00000068024,R-HSA-193670,p75NTR negatively regulates cell cycle via SC1
-ENSG00000048052,R-HSA-193670,p75NTR negatively regulates cell cycle via SC1
-ENSG00000100429,R-HSA-193670,p75NTR negatively regulates cell cycle via SC1
-ENSG00000116478,R-HSA-201722,Formation of the beta-catenin:TCF transactivating complex
-ENSG00000171720,R-HSA-201722,Formation of the beta-catenin:TCF transactivating complex
-ENSG00000094631,R-HSA-201722,Formation of the beta-catenin:TCF transactivating complex
-ENSG00000196591,R-HSA-201722,Formation of the beta-catenin:TCF transactivating complex
-ENSG00000108840,R-HSA-201722,Formation of the beta-catenin:TCF transactivating complex
-ENSG00000061273,R-HSA-201722,Formation of the beta-catenin:TCF transactivating complex
-ENSG00000147099,R-HSA-201722,Formation of the beta-catenin:TCF transactivating complex
-ENSG00000163517,R-HSA-201722,Formation of the beta-catenin:TCF transactivating complex
-ENSG00000068024,R-HSA-201722,Formation of the beta-catenin:TCF transactivating complex
-ENSG00000048052,R-HSA-201722,Formation of the beta-catenin:TCF transactivating complex
-ENSG00000100429,R-HSA-201722,Formation of the beta-catenin:TCF transactivating complex
-ENSG00000116478,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-ENSG00000171720,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-ENSG00000094631,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-ENSG00000196591,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-ENSG00000108840,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-ENSG00000061273,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-ENSG00000147099,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-ENSG00000163517,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-ENSG00000068024,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-ENSG00000048052,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-ENSG00000100429,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-ENSG00000116478,R-HSA-2173795,Downregulation of SMAD2/3:SMAD4 transcriptional activity
-ENSG00000171720,R-HSA-2173795,Downregulation of SMAD2/3:SMAD4 transcriptional activity
-ENSG00000094631,R-HSA-2173795,Downregulation of SMAD2/3:SMAD4 transcriptional activity
-ENSG00000196591,R-HSA-2173795,Downregulation of SMAD2/3:SMAD4 transcriptional activity
-ENSG00000108840,R-HSA-2173795,Downregulation of SMAD2/3:SMAD4 transcriptional activity
-ENSG00000061273,R-HSA-2173795,Downregulation of SMAD2/3:SMAD4 transcriptional activity
-ENSG00000147099,R-HSA-2173795,Downregulation of SMAD2/3:SMAD4 transcriptional activity
-ENSG00000163517,R-HSA-2173795,Downregulation of SMAD2/3:SMAD4 transcriptional activity
-ENSG00000068024,R-HSA-2173795,Downregulation of SMAD2/3:SMAD4 transcriptional activity
-ENSG00000048052,R-HSA-2173795,Downregulation of SMAD2/3:SMAD4 transcriptional activity
-ENSG00000100429,R-HSA-2173795,Downregulation of SMAD2/3:SMAD4 transcriptional activity
-ENSG00000116478,R-HSA-2173796,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
-ENSG00000171720,R-HSA-2173796,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
-ENSG00000094631,R-HSA-2173796,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
-ENSG00000196591,R-HSA-2173796,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
-ENSG00000108840,R-HSA-2173796,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
-ENSG00000061273,R-HSA-2173796,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
-ENSG00000147099,R-HSA-2173796,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
-ENSG00000163517,R-HSA-2173796,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
-ENSG00000068024,R-HSA-2173796,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
-ENSG00000048052,R-HSA-2173796,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
-ENSG00000100429,R-HSA-2173796,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
-ENSG00000116478,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-ENSG00000171720,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-ENSG00000094631,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-ENSG00000196591,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-ENSG00000108840,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-ENSG00000061273,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-ENSG00000147099,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-ENSG00000163517,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-ENSG00000068024,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-ENSG00000048052,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-ENSG00000100429,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-ENSG00000116478,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-ENSG00000171720,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-ENSG00000094631,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-ENSG00000196591,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-ENSG00000108840,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-ENSG00000061273,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-ENSG00000147099,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-ENSG00000163517,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-ENSG00000068024,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-ENSG00000048052,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-ENSG00000100429,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-ENSG00000116478,R-HSA-3214815,HDACs deacetylate histones
-ENSG00000171720,R-HSA-3214815,HDACs deacetylate histones
-ENSG00000094631,R-HSA-3214815,HDACs deacetylate histones
-ENSG00000196591,R-HSA-3214815,HDACs deacetylate histones
-ENSG00000108840,R-HSA-3214815,HDACs deacetylate histones
-ENSG00000061273,R-HSA-3214815,HDACs deacetylate histones
-ENSG00000147099,R-HSA-3214815,HDACs deacetylate histones
-ENSG00000163517,R-HSA-3214815,HDACs deacetylate histones
-ENSG00000068024,R-HSA-3214815,HDACs deacetylate histones
-ENSG00000048052,R-HSA-3214815,HDACs deacetylate histones
-ENSG00000100429,R-HSA-3214815,HDACs deacetylate histones
-ENSG00000116478,R-HSA-350054,Notch-HLH transcription pathway
-ENSG00000171720,R-HSA-350054,Notch-HLH transcription pathway
-ENSG00000094631,R-HSA-350054,Notch-HLH transcription pathway
-ENSG00000196591,R-HSA-350054,Notch-HLH transcription pathway
-ENSG00000108840,R-HSA-350054,Notch-HLH transcription pathway
-ENSG00000061273,R-HSA-350054,Notch-HLH transcription pathway
-ENSG00000147099,R-HSA-350054,Notch-HLH transcription pathway
-ENSG00000163517,R-HSA-350054,Notch-HLH transcription pathway
-ENSG00000068024,R-HSA-350054,Notch-HLH transcription pathway
-ENSG00000048052,R-HSA-350054,Notch-HLH transcription pathway
-ENSG00000100429,R-HSA-350054,Notch-HLH transcription pathway
-ENSG00000116478,R-HSA-3769402,Deactivation of the beta-catenin transactivating complex
-ENSG00000171720,R-HSA-3769402,Deactivation of the beta-catenin transactivating complex
-ENSG00000094631,R-HSA-3769402,Deactivation of the beta-catenin transactivating complex
-ENSG00000196591,R-HSA-3769402,Deactivation of the beta-catenin transactivating complex
-ENSG00000108840,R-HSA-3769402,Deactivation of the beta-catenin transactivating complex
-ENSG00000061273,R-HSA-3769402,Deactivation of the beta-catenin transactivating complex
-ENSG00000147099,R-HSA-3769402,Deactivation of the beta-catenin transactivating complex
-ENSG00000163517,R-HSA-3769402,Deactivation of the beta-catenin transactivating complex
-ENSG00000068024,R-HSA-3769402,Deactivation of the beta-catenin transactivating complex
-ENSG00000048052,R-HSA-3769402,Deactivation of the beta-catenin transactivating complex
-ENSG00000100429,R-HSA-3769402,Deactivation of the beta-catenin transactivating complex
-ENSG00000116478,R-HSA-427389,ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
-ENSG00000171720,R-HSA-427389,ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
-ENSG00000094631,R-HSA-427389,ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
-ENSG00000196591,R-HSA-427389,ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
-ENSG00000108840,R-HSA-427389,ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
-ENSG00000061273,R-HSA-427389,ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
-ENSG00000147099,R-HSA-427389,ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
-ENSG00000163517,R-HSA-427389,ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
-ENSG00000068024,R-HSA-427389,ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
-ENSG00000048052,R-HSA-427389,ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
-ENSG00000100429,R-HSA-427389,ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
-ENSG00000116478,R-HSA-427413,NoRC negatively regulates rRNA expression
-ENSG00000171720,R-HSA-427413,NoRC negatively regulates rRNA expression
-ENSG00000094631,R-HSA-427413,NoRC negatively regulates rRNA expression
-ENSG00000196591,R-HSA-427413,NoRC negatively regulates rRNA expression
-ENSG00000108840,R-HSA-427413,NoRC negatively regulates rRNA expression
-ENSG00000061273,R-HSA-427413,NoRC negatively regulates rRNA expression
-ENSG00000147099,R-HSA-427413,NoRC negatively regulates rRNA expression
-ENSG00000163517,R-HSA-427413,NoRC negatively regulates rRNA expression
-ENSG00000068024,R-HSA-427413,NoRC negatively regulates rRNA expression
-ENSG00000048052,R-HSA-427413,NoRC negatively regulates rRNA expression
-ENSG00000100429,R-HSA-427413,NoRC negatively regulates rRNA expression
-ENSG00000116478,R-HSA-4551638,SUMOylation of chromatin organization proteins
-ENSG00000171720,R-HSA-4551638,SUMOylation of chromatin organization proteins
-ENSG00000094631,R-HSA-4551638,SUMOylation of chromatin organization proteins
-ENSG00000196591,R-HSA-4551638,SUMOylation of chromatin organization proteins
-ENSG00000108840,R-HSA-4551638,SUMOylation of chromatin organization proteins
-ENSG00000061273,R-HSA-4551638,SUMOylation of chromatin organization proteins
-ENSG00000147099,R-HSA-4551638,SUMOylation of chromatin organization proteins
-ENSG00000163517,R-HSA-4551638,SUMOylation of chromatin organization proteins
-ENSG00000068024,R-HSA-4551638,SUMOylation of chromatin organization proteins
-ENSG00000048052,R-HSA-4551638,SUMOylation of chromatin organization proteins
-ENSG00000100429,R-HSA-4551638,SUMOylation of chromatin organization proteins
-ENSG00000116478,R-HSA-4641265,Repression of WNT target genes
-ENSG00000171720,R-HSA-4641265,Repression of WNT target genes
-ENSG00000094631,R-HSA-4641265,Repression of WNT target genes
-ENSG00000196591,R-HSA-4641265,Repression of WNT target genes
-ENSG00000108840,R-HSA-4641265,Repression of WNT target genes
-ENSG00000061273,R-HSA-4641265,Repression of WNT target genes
-ENSG00000147099,R-HSA-4641265,Repression of WNT target genes
-ENSG00000163517,R-HSA-4641265,Repression of WNT target genes
-ENSG00000068024,R-HSA-4641265,Repression of WNT target genes
-ENSG00000048052,R-HSA-4641265,Repression of WNT target genes
-ENSG00000100429,R-HSA-4641265,Repression of WNT target genes
-ENSG00000116478,R-HSA-6804758,Regulation of TP53 Activity through Acetylation
-ENSG00000171720,R-HSA-6804758,Regulation of TP53 Activity through Acetylation
-ENSG00000094631,R-HSA-6804758,Regulation of TP53 Activity through Acetylation
-ENSG00000196591,R-HSA-6804758,Regulation of TP53 Activity through Acetylation
-ENSG00000108840,R-HSA-6804758,Regulation of TP53 Activity through Acetylation
-ENSG00000061273,R-HSA-6804758,Regulation of TP53 Activity through Acetylation
-ENSG00000147099,R-HSA-6804758,Regulation of TP53 Activity through Acetylation
-ENSG00000163517,R-HSA-6804758,Regulation of TP53 Activity through Acetylation
-ENSG00000068024,R-HSA-6804758,Regulation of TP53 Activity through Acetylation
-ENSG00000048052,R-HSA-6804758,Regulation of TP53 Activity through Acetylation
-ENSG00000100429,R-HSA-6804758,Regulation of TP53 Activity through Acetylation
-ENSG00000116478,R-HSA-69205,G1/S-Specific Transcription
-ENSG00000171720,R-HSA-69205,G1/S-Specific Transcription
-ENSG00000094631,R-HSA-69205,G1/S-Specific Transcription
-ENSG00000196591,R-HSA-69205,G1/S-Specific Transcription
-ENSG00000108840,R-HSA-69205,G1/S-Specific Transcription
-ENSG00000061273,R-HSA-69205,G1/S-Specific Transcription
-ENSG00000147099,R-HSA-69205,G1/S-Specific Transcription
-ENSG00000163517,R-HSA-69205,G1/S-Specific Transcription
-ENSG00000068024,R-HSA-69205,G1/S-Specific Transcription
-ENSG00000048052,R-HSA-69205,G1/S-Specific Transcription
-ENSG00000100429,R-HSA-69205,G1/S-Specific Transcription
-ENSG00000116478,R-HSA-73762,RNA Polymerase I Transcription Initiation
-ENSG00000171720,R-HSA-73762,RNA Polymerase I Transcription Initiation
-ENSG00000094631,R-HSA-73762,RNA Polymerase I Transcription Initiation
-ENSG00000196591,R-HSA-73762,RNA Polymerase I Transcription Initiation
-ENSG00000108840,R-HSA-73762,RNA Polymerase I Transcription Initiation
-ENSG00000061273,R-HSA-73762,RNA Polymerase I Transcription Initiation
-ENSG00000147099,R-HSA-73762,RNA Polymerase I Transcription Initiation
-ENSG00000163517,R-HSA-73762,RNA Polymerase I Transcription Initiation
-ENSG00000068024,R-HSA-73762,RNA Polymerase I Transcription Initiation
-ENSG00000048052,R-HSA-73762,RNA Polymerase I Transcription Initiation
-ENSG00000100429,R-HSA-73762,RNA Polymerase I Transcription Initiation
-ENSG00000116478,R-HSA-8936459,RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
-ENSG00000171720,R-HSA-8936459,RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
-ENSG00000094631,R-HSA-8936459,RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
-ENSG00000196591,R-HSA-8936459,RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
-ENSG00000108840,R-HSA-8936459,RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
-ENSG00000061273,R-HSA-8936459,RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
-ENSG00000147099,R-HSA-8936459,RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
-ENSG00000163517,R-HSA-8936459,RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
-ENSG00000068024,R-HSA-8936459,RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
-ENSG00000048052,R-HSA-8936459,RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
-ENSG00000100429,R-HSA-8936459,RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
-ENSG00000116478,R-HSA-8943724,Regulation of PTEN gene transcription
-ENSG00000171720,R-HSA-8943724,Regulation of PTEN gene transcription
-ENSG00000094631,R-HSA-8943724,Regulation of PTEN gene transcription
-ENSG00000196591,R-HSA-8943724,Regulation of PTEN gene transcription
-ENSG00000108840,R-HSA-8943724,Regulation of PTEN gene transcription
-ENSG00000061273,R-HSA-8943724,Regulation of PTEN gene transcription
-ENSG00000147099,R-HSA-8943724,Regulation of PTEN gene transcription
-ENSG00000163517,R-HSA-8943724,Regulation of PTEN gene transcription
-ENSG00000068024,R-HSA-8943724,Regulation of PTEN gene transcription
-ENSG00000048052,R-HSA-8943724,Regulation of PTEN gene transcription
-ENSG00000100429,R-HSA-8943724,Regulation of PTEN gene transcription
-ENSG00000116478,R-HSA-9018519,Estrogen-dependent gene expression
-ENSG00000171720,R-HSA-9018519,Estrogen-dependent gene expression
-ENSG00000094631,R-HSA-9018519,Estrogen-dependent gene expression
-ENSG00000196591,R-HSA-9018519,Estrogen-dependent gene expression
-ENSG00000108840,R-HSA-9018519,Estrogen-dependent gene expression
-ENSG00000061273,R-HSA-9018519,Estrogen-dependent gene expression
-ENSG00000147099,R-HSA-9018519,Estrogen-dependent gene expression
-ENSG00000163517,R-HSA-9018519,Estrogen-dependent gene expression
-ENSG00000068024,R-HSA-9018519,Estrogen-dependent gene expression
-ENSG00000048052,R-HSA-9018519,Estrogen-dependent gene expression
-ENSG00000100429,R-HSA-9018519,Estrogen-dependent gene expression
-ENSG00000116478,R-HSA-9022538,Loss of MECP2 binding ability to 5mC-DNA
-ENSG00000171720,R-HSA-9022538,Loss of MECP2 binding ability to 5mC-DNA
-ENSG00000094631,R-HSA-9022538,Loss of MECP2 binding ability to 5mC-DNA
-ENSG00000196591,R-HSA-9022538,Loss of MECP2 binding ability to 5mC-DNA
-ENSG00000108840,R-HSA-9022538,Loss of MECP2 binding ability to 5mC-DNA
-ENSG00000061273,R-HSA-9022538,Loss of MECP2 binding ability to 5mC-DNA
-ENSG00000147099,R-HSA-9022538,Loss of MECP2 binding ability to 5mC-DNA
-ENSG00000163517,R-HSA-9022538,Loss of MECP2 binding ability to 5mC-DNA
-ENSG00000068024,R-HSA-9022538,Loss of MECP2 binding ability to 5mC-DNA
-ENSG00000048052,R-HSA-9022538,Loss of MECP2 binding ability to 5mC-DNA
-ENSG00000100429,R-HSA-9022538,Loss of MECP2 binding ability to 5mC-DNA
-ENSG00000116478,R-HSA-9022692,Regulation of MECP2 expression and activity
-ENSG00000171720,R-HSA-9022692,Regulation of MECP2 expression and activity
-ENSG00000094631,R-HSA-9022692,Regulation of MECP2 expression and activity
-ENSG00000196591,R-HSA-9022692,Regulation of MECP2 expression and activity
-ENSG00000108840,R-HSA-9022692,Regulation of MECP2 expression and activity
-ENSG00000061273,R-HSA-9022692,Regulation of MECP2 expression and activity
-ENSG00000147099,R-HSA-9022692,Regulation of MECP2 expression and activity
-ENSG00000163517,R-HSA-9022692,Regulation of MECP2 expression and activity
-ENSG00000068024,R-HSA-9022692,Regulation of MECP2 expression and activity
-ENSG00000048052,R-HSA-9022692,Regulation of MECP2 expression and activity
-ENSG00000100429,R-HSA-9022692,Regulation of MECP2 expression and activity
-ENSG00000116478,R-HSA-9022699,MECP2 regulates neuronal receptors and channels
-ENSG00000171720,R-HSA-9022699,MECP2 regulates neuronal receptors and channels
-ENSG00000094631,R-HSA-9022699,MECP2 regulates neuronal receptors and channels
-ENSG00000196591,R-HSA-9022699,MECP2 regulates neuronal receptors and channels
-ENSG00000108840,R-HSA-9022699,MECP2 regulates neuronal receptors and channels
-ENSG00000061273,R-HSA-9022699,MECP2 regulates neuronal receptors and channels
-ENSG00000147099,R-HSA-9022699,MECP2 regulates neuronal receptors and channels
-ENSG00000163517,R-HSA-9022699,MECP2 regulates neuronal receptors and channels
-ENSG00000068024,R-HSA-9022699,MECP2 regulates neuronal receptors and channels
-ENSG00000048052,R-HSA-9022699,MECP2 regulates neuronal receptors and channels
-ENSG00000100429,R-HSA-9022699,MECP2 regulates neuronal receptors and channels
-ENSG00000116478,R-HSA-9022702,MECP2 regulates transcription of neuronal ligands
-ENSG00000171720,R-HSA-9022702,MECP2 regulates transcription of neuronal ligands
-ENSG00000094631,R-HSA-9022702,MECP2 regulates transcription of neuronal ligands
-ENSG00000196591,R-HSA-9022702,MECP2 regulates transcription of neuronal ligands
-ENSG00000108840,R-HSA-9022702,MECP2 regulates transcription of neuronal ligands
-ENSG00000061273,R-HSA-9022702,MECP2 regulates transcription of neuronal ligands
-ENSG00000147099,R-HSA-9022702,MECP2 regulates transcription of neuronal ligands
-ENSG00000163517,R-HSA-9022702,MECP2 regulates transcription of neuronal ligands
-ENSG00000068024,R-HSA-9022702,MECP2 regulates transcription of neuronal ligands
-ENSG00000048052,R-HSA-9022702,MECP2 regulates transcription of neuronal ligands
-ENSG00000100429,R-HSA-9022702,MECP2 regulates transcription of neuronal ligands
-ENSG00000116478,R-HSA-9615017,"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes"
-ENSG00000171720,R-HSA-9615017,"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes"
-ENSG00000094631,R-HSA-9615017,"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes"
-ENSG00000196591,R-HSA-9615017,"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes"
-ENSG00000108840,R-HSA-9615017,"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes"
-ENSG00000061273,R-HSA-9615017,"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes"
-ENSG00000147099,R-HSA-9615017,"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes"
-ENSG00000163517,R-HSA-9615017,"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes"
-ENSG00000068024,R-HSA-9615017,"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes"
-ENSG00000048052,R-HSA-9615017,"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes"
-ENSG00000100429,R-HSA-9615017,"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes"
-ENSG00000116478,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000171720,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000094631,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000196591,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000108840,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000061273,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000147099,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000163517,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000068024,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000048052,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000100429,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000116478,R-HSA-9701898,STAT3 nuclear events downstream of ALK signaling
-ENSG00000171720,R-HSA-9701898,STAT3 nuclear events downstream of ALK signaling
-ENSG00000094631,R-HSA-9701898,STAT3 nuclear events downstream of ALK signaling
-ENSG00000196591,R-HSA-9701898,STAT3 nuclear events downstream of ALK signaling
-ENSG00000108840,R-HSA-9701898,STAT3 nuclear events downstream of ALK signaling
-ENSG00000061273,R-HSA-9701898,STAT3 nuclear events downstream of ALK signaling
-ENSG00000147099,R-HSA-9701898,STAT3 nuclear events downstream of ALK signaling
-ENSG00000163517,R-HSA-9701898,STAT3 nuclear events downstream of ALK signaling
-ENSG00000068024,R-HSA-9701898,STAT3 nuclear events downstream of ALK signaling
-ENSG00000048052,R-HSA-9701898,STAT3 nuclear events downstream of ALK signaling
-ENSG00000100429,R-HSA-9701898,STAT3 nuclear events downstream of ALK signaling
-ENSG00000116478,R-HSA-9725371,Nuclear events stimulated by ALK signaling in cancer
-ENSG00000171720,R-HSA-9725371,Nuclear events stimulated by ALK signaling in cancer
-ENSG00000094631,R-HSA-9725371,Nuclear events stimulated by ALK signaling in cancer
-ENSG00000196591,R-HSA-9725371,Nuclear events stimulated by ALK signaling in cancer
-ENSG00000108840,R-HSA-9725371,Nuclear events stimulated by ALK signaling in cancer
-ENSG00000061273,R-HSA-9725371,Nuclear events stimulated by ALK signaling in cancer
-ENSG00000147099,R-HSA-9725371,Nuclear events stimulated by ALK signaling in cancer
-ENSG00000163517,R-HSA-9725371,Nuclear events stimulated by ALK signaling in cancer
-ENSG00000068024,R-HSA-9725371,Nuclear events stimulated by ALK signaling in cancer
-ENSG00000048052,R-HSA-9725371,Nuclear events stimulated by ALK signaling in cancer
-ENSG00000100429,R-HSA-9725371,Nuclear events stimulated by ALK signaling in cancer
-ENSG00000116478,R-HSA-9764725,Negative Regulation of CDH1 Gene Transcription
-ENSG00000171720,R-HSA-9764725,Negative Regulation of CDH1 Gene Transcription
-ENSG00000094631,R-HSA-9764725,Negative Regulation of CDH1 Gene Transcription
-ENSG00000196591,R-HSA-9764725,Negative Regulation of CDH1 Gene Transcription
-ENSG00000108840,R-HSA-9764725,Negative Regulation of CDH1 Gene Transcription
-ENSG00000061273,R-HSA-9764725,Negative Regulation of CDH1 Gene Transcription
-ENSG00000147099,R-HSA-9764725,Negative Regulation of CDH1 Gene Transcription
-ENSG00000163517,R-HSA-9764725,Negative Regulation of CDH1 Gene Transcription
-ENSG00000068024,R-HSA-9764725,Negative Regulation of CDH1 Gene Transcription
-ENSG00000048052,R-HSA-9764725,Negative Regulation of CDH1 Gene Transcription
-ENSG00000100429,R-HSA-9764725,Negative Regulation of CDH1 Gene Transcription
-ENSG00000116478,R-HSA-9824594,Regulation of MITF-M-dependent genes involved in apoptosis
-ENSG00000171720,R-HSA-9824594,Regulation of MITF-M-dependent genes involved in apoptosis
-ENSG00000094631,R-HSA-9824594,Regulation of MITF-M-dependent genes involved in apoptosis
-ENSG00000196591,R-HSA-9824594,Regulation of MITF-M-dependent genes involved in apoptosis
-ENSG00000108840,R-HSA-9824594,Regulation of MITF-M-dependent genes involved in apoptosis
-ENSG00000061273,R-HSA-9824594,Regulation of MITF-M-dependent genes involved in apoptosis
-ENSG00000147099,R-HSA-9824594,Regulation of MITF-M-dependent genes involved in apoptosis
-ENSG00000163517,R-HSA-9824594,Regulation of MITF-M-dependent genes involved in apoptosis
-ENSG00000068024,R-HSA-9824594,Regulation of MITF-M-dependent genes involved in apoptosis
-ENSG00000048052,R-HSA-9824594,Regulation of MITF-M-dependent genes involved in apoptosis
-ENSG00000100429,R-HSA-9824594,Regulation of MITF-M-dependent genes involved in apoptosis
-ENSG00000116478,R-HSA-9825892,Regulation of MITF-M-dependent genes involved in cell cycle and proliferation
-ENSG00000171720,R-HSA-9825892,Regulation of MITF-M-dependent genes involved in cell cycle and proliferation
-ENSG00000094631,R-HSA-9825892,Regulation of MITF-M-dependent genes involved in cell cycle and proliferation
-ENSG00000196591,R-HSA-9825892,Regulation of MITF-M-dependent genes involved in cell cycle and proliferation
-ENSG00000108840,R-HSA-9825892,Regulation of MITF-M-dependent genes involved in cell cycle and proliferation
-ENSG00000061273,R-HSA-9825892,Regulation of MITF-M-dependent genes involved in cell cycle and proliferation
-ENSG00000147099,R-HSA-9825892,Regulation of MITF-M-dependent genes involved in cell cycle and proliferation
-ENSG00000163517,R-HSA-9825892,Regulation of MITF-M-dependent genes involved in cell cycle and proliferation
-ENSG00000068024,R-HSA-9825892,Regulation of MITF-M-dependent genes involved in cell cycle and proliferation
-ENSG00000048052,R-HSA-9825892,Regulation of MITF-M-dependent genes involved in cell cycle and proliferation
-ENSG00000100429,R-HSA-9825892,Regulation of MITF-M-dependent genes involved in cell cycle and proliferation
-ENSG00000116478,R-HSA-983231,Factors involved in megakaryocyte development and platelet production
-ENSG00000171720,R-HSA-983231,Factors involved in megakaryocyte development and platelet production
-ENSG00000094631,R-HSA-983231,Factors involved in megakaryocyte development and platelet production
-ENSG00000196591,R-HSA-983231,Factors involved in megakaryocyte development and platelet production
-ENSG00000108840,R-HSA-983231,Factors involved in megakaryocyte development and platelet production
-ENSG00000061273,R-HSA-983231,Factors involved in megakaryocyte development and platelet production
-ENSG00000147099,R-HSA-983231,Factors involved in megakaryocyte development and platelet production
-ENSG00000163517,R-HSA-983231,Factors involved in megakaryocyte development and platelet production
-ENSG00000068024,R-HSA-983231,Factors involved in megakaryocyte development and platelet production
-ENSG00000048052,R-HSA-983231,Factors involved in megakaryocyte development and platelet production
-ENSG00000100429,R-HSA-983231,Factors involved in megakaryocyte development and platelet production
-ENSG00000116478,R-HSA-9843940,Regulation of endogenous retroelements by KRAB-ZFP proteins
-ENSG00000171720,R-HSA-9843940,Regulation of endogenous retroelements by KRAB-ZFP proteins
-ENSG00000094631,R-HSA-9843940,Regulation of endogenous retroelements by KRAB-ZFP proteins
-ENSG00000196591,R-HSA-9843940,Regulation of endogenous retroelements by KRAB-ZFP proteins
-ENSG00000108840,R-HSA-9843940,Regulation of endogenous retroelements by KRAB-ZFP proteins
-ENSG00000061273,R-HSA-9843940,Regulation of endogenous retroelements by KRAB-ZFP proteins
-ENSG00000147099,R-HSA-9843940,Regulation of endogenous retroelements by KRAB-ZFP proteins
-ENSG00000163517,R-HSA-9843940,Regulation of endogenous retroelements by KRAB-ZFP proteins
-ENSG00000068024,R-HSA-9843940,Regulation of endogenous retroelements by KRAB-ZFP proteins
-ENSG00000048052,R-HSA-9843940,Regulation of endogenous retroelements by KRAB-ZFP proteins
-ENSG00000100429,R-HSA-9843940,Regulation of endogenous retroelements by KRAB-ZFP proteins
-ENSG00000116478,R-HSA-9844594,Transcriptional regulation of brown and beige adipocyte differentiation by EBF2
-ENSG00000171720,R-HSA-9844594,Transcriptional regulation of brown and beige adipocyte differentiation by EBF2
-ENSG00000094631,R-HSA-9844594,Transcriptional regulation of brown and beige adipocyte differentiation by EBF2
-ENSG00000196591,R-HSA-9844594,Transcriptional regulation of brown and beige adipocyte differentiation by EBF2
-ENSG00000108840,R-HSA-9844594,Transcriptional regulation of brown and beige adipocyte differentiation by EBF2
-ENSG00000061273,R-HSA-9844594,Transcriptional regulation of brown and beige adipocyte differentiation by EBF2
-ENSG00000147099,R-HSA-9844594,Transcriptional regulation of brown and beige adipocyte differentiation by EBF2
-ENSG00000163517,R-HSA-9844594,Transcriptional regulation of brown and beige adipocyte differentiation by EBF2
-ENSG00000068024,R-HSA-9844594,Transcriptional regulation of brown and beige adipocyte differentiation by EBF2
-ENSG00000048052,R-HSA-9844594,Transcriptional regulation of brown and beige adipocyte differentiation by EBF2
-ENSG00000100429,R-HSA-9844594,Transcriptional regulation of brown and beige adipocyte differentiation by EBF2
-ENSG00000116478,R-HSA-9845323,Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)
-ENSG00000171720,R-HSA-9845323,Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)
-ENSG00000094631,R-HSA-9845323,Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)
-ENSG00000196591,R-HSA-9845323,Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)
-ENSG00000108840,R-HSA-9845323,Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)
-ENSG00000061273,R-HSA-9845323,Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)
-ENSG00000147099,R-HSA-9845323,Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)
-ENSG00000163517,R-HSA-9845323,Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)
-ENSG00000068024,R-HSA-9845323,Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)
-ENSG00000048052,R-HSA-9845323,Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)
-ENSG00000100429,R-HSA-9845323,Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)
-ENSG00000116478,R-HSA-9856649,Transcriptional and post-translational regulation of MITF-M expression and activity
-ENSG00000171720,R-HSA-9856649,Transcriptional and post-translational regulation of MITF-M expression and activity
-ENSG00000094631,R-HSA-9856649,Transcriptional and post-translational regulation of MITF-M expression and activity
-ENSG00000196591,R-HSA-9856649,Transcriptional and post-translational regulation of MITF-M expression and activity
-ENSG00000108840,R-HSA-9856649,Transcriptional and post-translational regulation of MITF-M expression and activity
-ENSG00000061273,R-HSA-9856649,Transcriptional and post-translational regulation of MITF-M expression and activity
-ENSG00000147099,R-HSA-9856649,Transcriptional and post-translational regulation of MITF-M expression and activity
-ENSG00000163517,R-HSA-9856649,Transcriptional and post-translational regulation of MITF-M expression and activity
-ENSG00000068024,R-HSA-9856649,Transcriptional and post-translational regulation of MITF-M expression and activity
-ENSG00000048052,R-HSA-9856649,Transcriptional and post-translational regulation of MITF-M expression and activity
-ENSG00000100429,R-HSA-9856649,Transcriptional and post-translational regulation of MITF-M expression and activity
-ENSG00000116478,R-HSA-1989781,PPARA activates gene expression
-ENSG00000171720,R-HSA-1989781,PPARA activates gene expression
-ENSG00000094631,R-HSA-1989781,PPARA activates gene expression
-ENSG00000196591,R-HSA-1989781,PPARA activates gene expression
-ENSG00000108840,R-HSA-1989781,PPARA activates gene expression
-ENSG00000061273,R-HSA-1989781,PPARA activates gene expression
-ENSG00000147099,R-HSA-1989781,PPARA activates gene expression
-ENSG00000163517,R-HSA-1989781,PPARA activates gene expression
-ENSG00000068024,R-HSA-1989781,PPARA activates gene expression
-ENSG00000048052,R-HSA-1989781,PPARA activates gene expression
-ENSG00000100429,R-HSA-1989781,PPARA activates gene expression
-ENSG00000116478,R-HSA-2151201,Transcriptional activation of mitochondrial biogenesis
-ENSG00000171720,R-HSA-2151201,Transcriptional activation of mitochondrial biogenesis
-ENSG00000094631,R-HSA-2151201,Transcriptional activation of mitochondrial biogenesis
-ENSG00000196591,R-HSA-2151201,Transcriptional activation of mitochondrial biogenesis
-ENSG00000108840,R-HSA-2151201,Transcriptional activation of mitochondrial biogenesis
-ENSG00000061273,R-HSA-2151201,Transcriptional activation of mitochondrial biogenesis
-ENSG00000147099,R-HSA-2151201,Transcriptional activation of mitochondrial biogenesis
-ENSG00000163517,R-HSA-2151201,Transcriptional activation of mitochondrial biogenesis
-ENSG00000068024,R-HSA-2151201,Transcriptional activation of mitochondrial biogenesis
-ENSG00000048052,R-HSA-2151201,Transcriptional activation of mitochondrial biogenesis
-ENSG00000100429,R-HSA-2151201,Transcriptional activation of mitochondrial biogenesis
-ENSG00000116478,R-HSA-381340,Transcriptional regulation of white adipocyte differentiation
-ENSG00000171720,R-HSA-381340,Transcriptional regulation of white adipocyte differentiation
-ENSG00000094631,R-HSA-381340,Transcriptional regulation of white adipocyte differentiation
-ENSG00000196591,R-HSA-381340,Transcriptional regulation of white adipocyte differentiation
-ENSG00000108840,R-HSA-381340,Transcriptional regulation of white adipocyte differentiation
-ENSG00000061273,R-HSA-381340,Transcriptional regulation of white adipocyte differentiation
-ENSG00000147099,R-HSA-381340,Transcriptional regulation of white adipocyte differentiation
-ENSG00000163517,R-HSA-381340,Transcriptional regulation of white adipocyte differentiation
-ENSG00000068024,R-HSA-381340,Transcriptional regulation of white adipocyte differentiation
-ENSG00000048052,R-HSA-381340,Transcriptional regulation of white adipocyte differentiation
-ENSG00000100429,R-HSA-381340,Transcriptional regulation of white adipocyte differentiation
-ENSG00000116478,R-HSA-390471,Association of TriC/CCT with target proteins during biosynthesis
-ENSG00000171720,R-HSA-390471,Association of TriC/CCT with target proteins during biosynthesis
-ENSG00000094631,R-HSA-390471,Association of TriC/CCT with target proteins during biosynthesis
-ENSG00000196591,R-HSA-390471,Association of TriC/CCT with target proteins during biosynthesis
-ENSG00000108840,R-HSA-390471,Association of TriC/CCT with target proteins during biosynthesis
-ENSG00000061273,R-HSA-390471,Association of TriC/CCT with target proteins during biosynthesis
-ENSG00000147099,R-HSA-390471,Association of TriC/CCT with target proteins during biosynthesis
-ENSG00000163517,R-HSA-390471,Association of TriC/CCT with target proteins during biosynthesis
-ENSG00000068024,R-HSA-390471,Association of TriC/CCT with target proteins during biosynthesis
-ENSG00000048052,R-HSA-390471,Association of TriC/CCT with target proteins during biosynthesis
-ENSG00000100429,R-HSA-390471,Association of TriC/CCT with target proteins during biosynthesis
-ENSG00000116478,R-HSA-400206,Regulation of lipid metabolism by PPARalpha
-ENSG00000171720,R-HSA-400206,Regulation of lipid metabolism by PPARalpha
-ENSG00000094631,R-HSA-400206,Regulation of lipid metabolism by PPARalpha
-ENSG00000196591,R-HSA-400206,Regulation of lipid metabolism by PPARalpha
-ENSG00000108840,R-HSA-400206,Regulation of lipid metabolism by PPARalpha
-ENSG00000061273,R-HSA-400206,Regulation of lipid metabolism by PPARalpha
-ENSG00000147099,R-HSA-400206,Regulation of lipid metabolism by PPARalpha
-ENSG00000163517,R-HSA-400206,Regulation of lipid metabolism by PPARalpha
-ENSG00000068024,R-HSA-400206,Regulation of lipid metabolism by PPARalpha
-ENSG00000048052,R-HSA-400206,Regulation of lipid metabolism by PPARalpha
-ENSG00000100429,R-HSA-400206,Regulation of lipid metabolism by PPARalpha
-ENSG00000116478,R-HSA-5617472,Activation of anterior HOX genes in hindbrain development during early embryogenesis
-ENSG00000171720,R-HSA-5617472,Activation of anterior HOX genes in hindbrain development during early embryogenesis
-ENSG00000094631,R-HSA-5617472,Activation of anterior HOX genes in hindbrain development during early embryogenesis
-ENSG00000196591,R-HSA-5617472,Activation of anterior HOX genes in hindbrain development during early embryogenesis
-ENSG00000108840,R-HSA-5617472,Activation of anterior HOX genes in hindbrain development during early embryogenesis
-ENSG00000061273,R-HSA-5617472,Activation of anterior HOX genes in hindbrain development during early embryogenesis
-ENSG00000147099,R-HSA-5617472,Activation of anterior HOX genes in hindbrain development during early embryogenesis
-ENSG00000163517,R-HSA-5617472,Activation of anterior HOX genes in hindbrain development during early embryogenesis
-ENSG00000068024,R-HSA-5617472,Activation of anterior HOX genes in hindbrain development during early embryogenesis
-ENSG00000048052,R-HSA-5617472,Activation of anterior HOX genes in hindbrain development during early embryogenesis
-ENSG00000100429,R-HSA-5617472,Activation of anterior HOX genes in hindbrain development during early embryogenesis
-ENSG00000116478,R-HSA-8940973,RUNX2 regulates osteoblast differentiation
-ENSG00000171720,R-HSA-8940973,RUNX2 regulates osteoblast differentiation
-ENSG00000094631,R-HSA-8940973,RUNX2 regulates osteoblast differentiation
-ENSG00000196591,R-HSA-8940973,RUNX2 regulates osteoblast differentiation
-ENSG00000108840,R-HSA-8940973,RUNX2 regulates osteoblast differentiation
-ENSG00000061273,R-HSA-8940973,RUNX2 regulates osteoblast differentiation
-ENSG00000147099,R-HSA-8940973,RUNX2 regulates osteoblast differentiation
-ENSG00000163517,R-HSA-8940973,RUNX2 regulates osteoblast differentiation
-ENSG00000068024,R-HSA-8940973,RUNX2 regulates osteoblast differentiation
-ENSG00000048052,R-HSA-8940973,RUNX2 regulates osteoblast differentiation
-ENSG00000100429,R-HSA-8940973,RUNX2 regulates osteoblast differentiation
-ENSG00000116478,R-HSA-9022537,Loss of MECP2 binding ability to the NCoR/SMRT complex
-ENSG00000171720,R-HSA-9022537,Loss of MECP2 binding ability to the NCoR/SMRT complex
-ENSG00000094631,R-HSA-9022537,Loss of MECP2 binding ability to the NCoR/SMRT complex
-ENSG00000196591,R-HSA-9022537,Loss of MECP2 binding ability to the NCoR/SMRT complex
-ENSG00000108840,R-HSA-9022537,Loss of MECP2 binding ability to the NCoR/SMRT complex
-ENSG00000061273,R-HSA-9022537,Loss of MECP2 binding ability to the NCoR/SMRT complex
-ENSG00000147099,R-HSA-9022537,Loss of MECP2 binding ability to the NCoR/SMRT complex
-ENSG00000163517,R-HSA-9022537,Loss of MECP2 binding ability to the NCoR/SMRT complex
-ENSG00000068024,R-HSA-9022537,Loss of MECP2 binding ability to the NCoR/SMRT complex
-ENSG00000048052,R-HSA-9022537,Loss of MECP2 binding ability to the NCoR/SMRT complex
-ENSG00000100429,R-HSA-9022537,Loss of MECP2 binding ability to the NCoR/SMRT complex
-ENSG00000116478,R-HSA-9029569,NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux
-ENSG00000171720,R-HSA-9029569,NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux
-ENSG00000094631,R-HSA-9029569,NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux
-ENSG00000196591,R-HSA-9029569,NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux
-ENSG00000108840,R-HSA-9029569,NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux
-ENSG00000061273,R-HSA-9029569,NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux
-ENSG00000147099,R-HSA-9029569,NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux
-ENSG00000163517,R-HSA-9029569,NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux
-ENSG00000068024,R-HSA-9029569,NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux
-ENSG00000048052,R-HSA-9029569,NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux
-ENSG00000100429,R-HSA-9029569,NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux
-ENSG00000116478,R-HSA-9609690,HCMV Early Events
-ENSG00000171720,R-HSA-9609690,HCMV Early Events
-ENSG00000094631,R-HSA-9609690,HCMV Early Events
-ENSG00000196591,R-HSA-9609690,HCMV Early Events
-ENSG00000108840,R-HSA-9609690,HCMV Early Events
-ENSG00000061273,R-HSA-9609690,HCMV Early Events
-ENSG00000147099,R-HSA-9609690,HCMV Early Events
-ENSG00000163517,R-HSA-9609690,HCMV Early Events
-ENSG00000068024,R-HSA-9609690,HCMV Early Events
-ENSG00000048052,R-HSA-9609690,HCMV Early Events
-ENSG00000100429,R-HSA-9609690,HCMV Early Events
-ENSG00000116478,R-HSA-9707564,Cytoprotection by HMOX1
-ENSG00000171720,R-HSA-9707564,Cytoprotection by HMOX1
-ENSG00000094631,R-HSA-9707564,Cytoprotection by HMOX1
-ENSG00000196591,R-HSA-9707564,Cytoprotection by HMOX1
-ENSG00000108840,R-HSA-9707564,Cytoprotection by HMOX1
-ENSG00000061273,R-HSA-9707564,Cytoprotection by HMOX1
-ENSG00000147099,R-HSA-9707564,Cytoprotection by HMOX1
-ENSG00000163517,R-HSA-9707564,Cytoprotection by HMOX1
-ENSG00000068024,R-HSA-9707564,Cytoprotection by HMOX1
-ENSG00000048052,R-HSA-9707564,Cytoprotection by HMOX1
-ENSG00000100429,R-HSA-9707564,Cytoprotection by HMOX1
-ENSG00000116478,R-HSA-9707616,Heme signaling
-ENSG00000171720,R-HSA-9707616,Heme signaling
-ENSG00000094631,R-HSA-9707616,Heme signaling
-ENSG00000196591,R-HSA-9707616,Heme signaling
-ENSG00000108840,R-HSA-9707616,Heme signaling
-ENSG00000061273,R-HSA-9707616,Heme signaling
-ENSG00000147099,R-HSA-9707616,Heme signaling
-ENSG00000163517,R-HSA-9707616,Heme signaling
-ENSG00000068024,R-HSA-9707616,Heme signaling
-ENSG00000048052,R-HSA-9707616,Heme signaling
-ENSG00000100429,R-HSA-9707616,Heme signaling
-ENSG00000116478,R-HSA-9841922,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis
-ENSG00000171720,R-HSA-9841922,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis
-ENSG00000094631,R-HSA-9841922,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis
-ENSG00000196591,R-HSA-9841922,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis
-ENSG00000108840,R-HSA-9841922,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis
-ENSG00000061273,R-HSA-9841922,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis
-ENSG00000147099,R-HSA-9841922,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis
-ENSG00000163517,R-HSA-9841922,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis
-ENSG00000068024,R-HSA-9841922,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis
-ENSG00000048052,R-HSA-9841922,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis
-ENSG00000100429,R-HSA-9841922,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis
-ENSG00000116478,R-HSA-9931509,"Expression of BMAL (ARNTL), CLOCK, and NPAS2"
-ENSG00000171720,R-HSA-9931509,"Expression of BMAL (ARNTL), CLOCK, and NPAS2"
-ENSG00000094631,R-HSA-9931509,"Expression of BMAL (ARNTL), CLOCK, and NPAS2"
-ENSG00000196591,R-HSA-9931509,"Expression of BMAL (ARNTL), CLOCK, and NPAS2"
-ENSG00000108840,R-HSA-9931509,"Expression of BMAL (ARNTL), CLOCK, and NPAS2"
-ENSG00000061273,R-HSA-9931509,"Expression of BMAL (ARNTL), CLOCK, and NPAS2"
-ENSG00000147099,R-HSA-9931509,"Expression of BMAL (ARNTL), CLOCK, and NPAS2"
-ENSG00000163517,R-HSA-9931509,"Expression of BMAL (ARNTL), CLOCK, and NPAS2"
-ENSG00000068024,R-HSA-9931509,"Expression of BMAL (ARNTL), CLOCK, and NPAS2"
-ENSG00000048052,R-HSA-9931509,"Expression of BMAL (ARNTL), CLOCK, and NPAS2"
-ENSG00000100429,R-HSA-9931509,"Expression of BMAL (ARNTL), CLOCK, and NPAS2"
-ENSG00000116478,R-HSA-9933387,"RORA,B,C and NR1D1 (REV-ERBA) regulate gene expression"
-ENSG00000171720,R-HSA-9933387,"RORA,B,C and NR1D1 (REV-ERBA) regulate gene expression"
-ENSG00000094631,R-HSA-9933387,"RORA,B,C and NR1D1 (REV-ERBA) regulate gene expression"
-ENSG00000196591,R-HSA-9933387,"RORA,B,C and NR1D1 (REV-ERBA) regulate gene expression"
-ENSG00000108840,R-HSA-9933387,"RORA,B,C and NR1D1 (REV-ERBA) regulate gene expression"
-ENSG00000061273,R-HSA-9933387,"RORA,B,C and NR1D1 (REV-ERBA) regulate gene expression"
-ENSG00000147099,R-HSA-9933387,"RORA,B,C and NR1D1 (REV-ERBA) regulate gene expression"
-ENSG00000163517,R-HSA-9933387,"RORA,B,C and NR1D1 (REV-ERBA) regulate gene expression"
-ENSG00000068024,R-HSA-9933387,"RORA,B,C and NR1D1 (REV-ERBA) regulate gene expression"
-ENSG00000048052,R-HSA-9933387,"RORA,B,C and NR1D1 (REV-ERBA) regulate gene expression"
-ENSG00000100429,R-HSA-9933387,"RORA,B,C and NR1D1 (REV-ERBA) regulate gene expression"
-ENSG00000116478,R-HSA-3371511,HSF1 activation
-ENSG00000171720,R-HSA-3371511,HSF1 activation
-ENSG00000094631,R-HSA-3371511,HSF1 activation
-ENSG00000196591,R-HSA-3371511,HSF1 activation
-ENSG00000108840,R-HSA-3371511,HSF1 activation
-ENSG00000061273,R-HSA-3371511,HSF1 activation
-ENSG00000147099,R-HSA-3371511,HSF1 activation
-ENSG00000163517,R-HSA-3371511,HSF1 activation
-ENSG00000068024,R-HSA-3371511,HSF1 activation
-ENSG00000048052,R-HSA-3371511,HSF1 activation
-ENSG00000100429,R-HSA-3371511,HSF1 activation
-ENSG00000116478,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000171720,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000094631,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000196591,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000108840,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000061273,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000147099,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000163517,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000068024,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000048052,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000100429,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000116478,R-HSA-8878166,Transcriptional regulation by RUNX2
-ENSG00000171720,R-HSA-8878166,Transcriptional regulation by RUNX2
-ENSG00000094631,R-HSA-8878166,Transcriptional regulation by RUNX2
-ENSG00000196591,R-HSA-8878166,Transcriptional regulation by RUNX2
-ENSG00000108840,R-HSA-8878166,Transcriptional regulation by RUNX2
-ENSG00000061273,R-HSA-8878166,Transcriptional regulation by RUNX2
-ENSG00000147099,R-HSA-8878166,Transcriptional regulation by RUNX2
-ENSG00000163517,R-HSA-8878166,Transcriptional regulation by RUNX2
-ENSG00000068024,R-HSA-8878166,Transcriptional regulation by RUNX2
-ENSG00000048052,R-HSA-8878166,Transcriptional regulation by RUNX2
-ENSG00000100429,R-HSA-8878166,Transcriptional regulation by RUNX2
-ENSG00000116478,R-HSA-9613829,Chaperone Mediated Autophagy
-ENSG00000171720,R-HSA-9613829,Chaperone Mediated Autophagy
-ENSG00000094631,R-HSA-9613829,Chaperone Mediated Autophagy
-ENSG00000196591,R-HSA-9613829,Chaperone Mediated Autophagy
-ENSG00000108840,R-HSA-9613829,Chaperone Mediated Autophagy
-ENSG00000061273,R-HSA-9613829,Chaperone Mediated Autophagy
-ENSG00000147099,R-HSA-9613829,Chaperone Mediated Autophagy
-ENSG00000163517,R-HSA-9613829,Chaperone Mediated Autophagy
-ENSG00000068024,R-HSA-9613829,Chaperone Mediated Autophagy
-ENSG00000048052,R-HSA-9613829,Chaperone Mediated Autophagy
-ENSG00000100429,R-HSA-9613829,Chaperone Mediated Autophagy
-ENSG00000116478,R-HSA-9615710,Late endosomal microautophagy
-ENSG00000171720,R-HSA-9615710,Late endosomal microautophagy
-ENSG00000094631,R-HSA-9615710,Late endosomal microautophagy
-ENSG00000196591,R-HSA-9615710,Late endosomal microautophagy
-ENSG00000108840,R-HSA-9615710,Late endosomal microautophagy
-ENSG00000061273,R-HSA-9615710,Late endosomal microautophagy
-ENSG00000147099,R-HSA-9615710,Late endosomal microautophagy
-ENSG00000163517,R-HSA-9615710,Late endosomal microautophagy
-ENSG00000068024,R-HSA-9615710,Late endosomal microautophagy
-ENSG00000048052,R-HSA-9615710,Late endosomal microautophagy
-ENSG00000100429,R-HSA-9615710,Late endosomal microautophagy
-ENSG00000116478,R-HSA-9646399,Aggrephagy
-ENSG00000171720,R-HSA-9646399,Aggrephagy
-ENSG00000094631,R-HSA-9646399,Aggrephagy
-ENSG00000196591,R-HSA-9646399,Aggrephagy
-ENSG00000108840,R-HSA-9646399,Aggrephagy
-ENSG00000061273,R-HSA-9646399,Aggrephagy
-ENSG00000147099,R-HSA-9646399,Aggrephagy
-ENSG00000163517,R-HSA-9646399,Aggrephagy
-ENSG00000068024,R-HSA-9646399,Aggrephagy
-ENSG00000048052,R-HSA-9646399,Aggrephagy
-ENSG00000100429,R-HSA-9646399,Aggrephagy
-ENSG00000116478,R-HSA-9619665,EGR2 and SOX10-mediated initiation of Schwann cell myelination
-ENSG00000171720,R-HSA-9619665,EGR2 and SOX10-mediated initiation of Schwann cell myelination
-ENSG00000094631,R-HSA-9619665,EGR2 and SOX10-mediated initiation of Schwann cell myelination
-ENSG00000196591,R-HSA-9619665,EGR2 and SOX10-mediated initiation of Schwann cell myelination
-ENSG00000108840,R-HSA-9619665,EGR2 and SOX10-mediated initiation of Schwann cell myelination
-ENSG00000061273,R-HSA-9619665,EGR2 and SOX10-mediated initiation of Schwann cell myelination
-ENSG00000147099,R-HSA-9619665,EGR2 and SOX10-mediated initiation of Schwann cell myelination
-ENSG00000163517,R-HSA-9619665,EGR2 and SOX10-mediated initiation of Schwann cell myelination
-ENSG00000068024,R-HSA-9619665,EGR2 and SOX10-mediated initiation of Schwann cell myelination
-ENSG00000048052,R-HSA-9619665,EGR2 and SOX10-mediated initiation of Schwann cell myelination
-ENSG00000100429,R-HSA-9619665,EGR2 and SOX10-mediated initiation of Schwann cell myelination
-ENSG00000116478,R-HSA-3108214,SUMOylation of DNA damage response and repair proteins
-ENSG00000171720,R-HSA-3108214,SUMOylation of DNA damage response and repair proteins
-ENSG00000094631,R-HSA-3108214,SUMOylation of DNA damage response and repair proteins
-ENSG00000196591,R-HSA-3108214,SUMOylation of DNA damage response and repair proteins
-ENSG00000108840,R-HSA-3108214,SUMOylation of DNA damage response and repair proteins
-ENSG00000061273,R-HSA-3108214,SUMOylation of DNA damage response and repair proteins
-ENSG00000147099,R-HSA-3108214,SUMOylation of DNA damage response and repair proteins
-ENSG00000163517,R-HSA-3108214,SUMOylation of DNA damage response and repair proteins
-ENSG00000068024,R-HSA-3108214,SUMOylation of DNA damage response and repair proteins
-ENSG00000048052,R-HSA-3108214,SUMOylation of DNA damage response and repair proteins
-ENSG00000100429,R-HSA-3108214,SUMOylation of DNA damage response and repair proteins
-ENSG00000116478,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000171720,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000094631,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000196591,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000108840,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000061273,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000147099,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000163517,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000068024,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000048052,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000100429,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000116478,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000171720,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000094631,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000196591,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000108840,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000061273,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000147099,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000163517,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000068024,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000048052,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000100429,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000116478,R-HSA-4090294,SUMOylation of intracellular receptors
-ENSG00000171720,R-HSA-4090294,SUMOylation of intracellular receptors
-ENSG00000094631,R-HSA-4090294,SUMOylation of intracellular receptors
-ENSG00000196591,R-HSA-4090294,SUMOylation of intracellular receptors
-ENSG00000108840,R-HSA-4090294,SUMOylation of intracellular receptors
-ENSG00000061273,R-HSA-4090294,SUMOylation of intracellular receptors
-ENSG00000147099,R-HSA-4090294,SUMOylation of intracellular receptors
-ENSG00000163517,R-HSA-4090294,SUMOylation of intracellular receptors
-ENSG00000068024,R-HSA-4090294,SUMOylation of intracellular receptors
-ENSG00000048052,R-HSA-4090294,SUMOylation of intracellular receptors
-ENSG00000100429,R-HSA-4090294,SUMOylation of intracellular receptors
-ENSG00000116478,R-HSA-8941284,RUNX2 regulates chondrocyte maturation
-ENSG00000171720,R-HSA-8941284,RUNX2 regulates chondrocyte maturation
-ENSG00000094631,R-HSA-8941284,RUNX2 regulates chondrocyte maturation
-ENSG00000196591,R-HSA-8941284,RUNX2 regulates chondrocyte maturation
-ENSG00000108840,R-HSA-8941284,RUNX2 regulates chondrocyte maturation
-ENSG00000061273,R-HSA-8941284,RUNX2 regulates chondrocyte maturation
-ENSG00000147099,R-HSA-8941284,RUNX2 regulates chondrocyte maturation
-ENSG00000163517,R-HSA-8941284,RUNX2 regulates chondrocyte maturation
-ENSG00000068024,R-HSA-8941284,RUNX2 regulates chondrocyte maturation
-ENSG00000048052,R-HSA-8941284,RUNX2 regulates chondrocyte maturation
-ENSG00000100429,R-HSA-8941284,RUNX2 regulates chondrocyte maturation
-ENSG00000116478,R-HSA-8951936,RUNX3 regulates p14-ARF
-ENSG00000171720,R-HSA-8951936,RUNX3 regulates p14-ARF
-ENSG00000094631,R-HSA-8951936,RUNX3 regulates p14-ARF
-ENSG00000196591,R-HSA-8951936,RUNX3 regulates p14-ARF
-ENSG00000108840,R-HSA-8951936,RUNX3 regulates p14-ARF
-ENSG00000061273,R-HSA-8951936,RUNX3 regulates p14-ARF
-ENSG00000147099,R-HSA-8951936,RUNX3 regulates p14-ARF
-ENSG00000163517,R-HSA-8951936,RUNX3 regulates p14-ARF
-ENSG00000068024,R-HSA-8951936,RUNX3 regulates p14-ARF
-ENSG00000048052,R-HSA-8951936,RUNX3 regulates p14-ARF
-ENSG00000100429,R-HSA-8951936,RUNX3 regulates p14-ARF
 ENSG00000022355,R-HSA-1236394,Signaling by ERBB4
 ENSG00000145864,R-HSA-1236394,Signaling by ERBB4
 ENSG00000113327,R-HSA-1236394,Signaling by ERBB4
@@ -875,14 +112,14 @@ ENSG00000258947,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma memb
 ENSG00000167552,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
 ENSG00000104833,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
 ENSG00000261456,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
-ENSG00000235067,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
-ENSG00000232575,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
-ENSG00000196230,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
-ENSG00000229684,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
-ENSG00000183311,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
 ENSG00000227739,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
-ENSG00000232421,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
+ENSG00000229684,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
 ENSG00000224156,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
+ENSG00000232421,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
+ENSG00000196230,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
+ENSG00000235067,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
+ENSG00000183311,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
+ENSG00000232575,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
 ENSG00000123416,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
 ENSG00000167553,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
 ENSG00000152086,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane
@@ -897,14 +134,14 @@ ENSG00000258947,R-HSA-190840,Microtubule-dependent trafficking of connexons from
 ENSG00000167552,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
 ENSG00000104833,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
 ENSG00000261456,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
-ENSG00000235067,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
-ENSG00000232575,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
-ENSG00000196230,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
-ENSG00000229684,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
-ENSG00000183311,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
 ENSG00000227739,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
-ENSG00000232421,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
+ENSG00000229684,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
 ENSG00000224156,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
+ENSG00000232421,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
+ENSG00000196230,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
+ENSG00000235067,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
+ENSG00000183311,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
+ENSG00000232575,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
 ENSG00000123416,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
 ENSG00000167553,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
 ENSG00000152086,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
@@ -919,14 +156,14 @@ ENSG00000258947,R-HSA-190861,Gap junction assembly
 ENSG00000167552,R-HSA-190861,Gap junction assembly
 ENSG00000104833,R-HSA-190861,Gap junction assembly
 ENSG00000261456,R-HSA-190861,Gap junction assembly
-ENSG00000235067,R-HSA-190861,Gap junction assembly
-ENSG00000232575,R-HSA-190861,Gap junction assembly
-ENSG00000196230,R-HSA-190861,Gap junction assembly
-ENSG00000229684,R-HSA-190861,Gap junction assembly
-ENSG00000183311,R-HSA-190861,Gap junction assembly
 ENSG00000227739,R-HSA-190861,Gap junction assembly
-ENSG00000232421,R-HSA-190861,Gap junction assembly
+ENSG00000229684,R-HSA-190861,Gap junction assembly
 ENSG00000224156,R-HSA-190861,Gap junction assembly
+ENSG00000232421,R-HSA-190861,Gap junction assembly
+ENSG00000196230,R-HSA-190861,Gap junction assembly
+ENSG00000235067,R-HSA-190861,Gap junction assembly
+ENSG00000183311,R-HSA-190861,Gap junction assembly
+ENSG00000232575,R-HSA-190861,Gap junction assembly
 ENSG00000123416,R-HSA-190861,Gap junction assembly
 ENSG00000167553,R-HSA-190861,Gap junction assembly
 ENSG00000152086,R-HSA-190861,Gap junction assembly
@@ -941,14 +178,14 @@ ENSG00000258947,R-HSA-2132295,MHC class II antigen presentation
 ENSG00000167552,R-HSA-2132295,MHC class II antigen presentation
 ENSG00000104833,R-HSA-2132295,MHC class II antigen presentation
 ENSG00000261456,R-HSA-2132295,MHC class II antigen presentation
-ENSG00000235067,R-HSA-2132295,MHC class II antigen presentation
-ENSG00000232575,R-HSA-2132295,MHC class II antigen presentation
-ENSG00000196230,R-HSA-2132295,MHC class II antigen presentation
-ENSG00000229684,R-HSA-2132295,MHC class II antigen presentation
-ENSG00000183311,R-HSA-2132295,MHC class II antigen presentation
 ENSG00000227739,R-HSA-2132295,MHC class II antigen presentation
-ENSG00000232421,R-HSA-2132295,MHC class II antigen presentation
+ENSG00000229684,R-HSA-2132295,MHC class II antigen presentation
 ENSG00000224156,R-HSA-2132295,MHC class II antigen presentation
+ENSG00000232421,R-HSA-2132295,MHC class II antigen presentation
+ENSG00000196230,R-HSA-2132295,MHC class II antigen presentation
+ENSG00000235067,R-HSA-2132295,MHC class II antigen presentation
+ENSG00000183311,R-HSA-2132295,MHC class II antigen presentation
+ENSG00000232575,R-HSA-2132295,MHC class II antigen presentation
 ENSG00000123416,R-HSA-2132295,MHC class II antigen presentation
 ENSG00000167553,R-HSA-2132295,MHC class II antigen presentation
 ENSG00000152086,R-HSA-2132295,MHC class II antigen presentation
@@ -963,14 +200,14 @@ ENSG00000258947,R-HSA-2467813,Separation of Sister Chromatids
 ENSG00000167552,R-HSA-2467813,Separation of Sister Chromatids
 ENSG00000104833,R-HSA-2467813,Separation of Sister Chromatids
 ENSG00000261456,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000235067,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000232575,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000196230,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000229684,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000183311,R-HSA-2467813,Separation of Sister Chromatids
 ENSG00000227739,R-HSA-2467813,Separation of Sister Chromatids
-ENSG00000232421,R-HSA-2467813,Separation of Sister Chromatids
+ENSG00000229684,R-HSA-2467813,Separation of Sister Chromatids
 ENSG00000224156,R-HSA-2467813,Separation of Sister Chromatids
+ENSG00000232421,R-HSA-2467813,Separation of Sister Chromatids
+ENSG00000196230,R-HSA-2467813,Separation of Sister Chromatids
+ENSG00000235067,R-HSA-2467813,Separation of Sister Chromatids
+ENSG00000183311,R-HSA-2467813,Separation of Sister Chromatids
+ENSG00000232575,R-HSA-2467813,Separation of Sister Chromatids
 ENSG00000123416,R-HSA-2467813,Separation of Sister Chromatids
 ENSG00000167553,R-HSA-2467813,Separation of Sister Chromatids
 ENSG00000152086,R-HSA-2467813,Separation of Sister Chromatids
@@ -985,14 +222,14 @@ ENSG00000258947,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
 ENSG00000167552,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
 ENSG00000104833,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
 ENSG00000261456,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000235067,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000232575,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000196230,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000229684,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000183311,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
 ENSG00000227739,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-ENSG00000232421,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
+ENSG00000229684,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
 ENSG00000224156,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
+ENSG00000232421,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
+ENSG00000196230,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
+ENSG00000235067,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
+ENSG00000183311,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
+ENSG00000232575,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
 ENSG00000123416,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
 ENSG00000167553,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
 ENSG00000152086,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
@@ -1007,14 +244,14 @@ ENSG00000258947,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
 ENSG00000167552,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
 ENSG00000104833,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
 ENSG00000261456,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
-ENSG00000235067,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
-ENSG00000232575,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
-ENSG00000196230,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
-ENSG00000229684,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
-ENSG00000183311,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
 ENSG00000227739,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
-ENSG00000232421,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
+ENSG00000229684,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
 ENSG00000224156,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
+ENSG00000232421,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
+ENSG00000196230,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
+ENSG00000235067,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
+ENSG00000183311,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
+ENSG00000232575,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
 ENSG00000123416,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
 ENSG00000167553,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
 ENSG00000152086,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition
@@ -1029,14 +266,14 @@ ENSG00000258947,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptor
 ENSG00000167552,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
 ENSG00000104833,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
 ENSG00000261456,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
-ENSG00000235067,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
-ENSG00000232575,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
-ENSG00000196230,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
-ENSG00000229684,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
-ENSG00000183311,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
 ENSG00000227739,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
-ENSG00000232421,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
+ENSG00000229684,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
 ENSG00000224156,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
+ENSG00000232421,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
+ENSG00000196230,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
+ENSG00000235067,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
+ENSG00000183311,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
+ENSG00000232575,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
 ENSG00000123416,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
 ENSG00000167553,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
 ENSG00000152086,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
@@ -1051,14 +288,14 @@ ENSG00000258947,R-HSA-380259,Loss of Nlp from mitotic centrosomes
 ENSG00000167552,R-HSA-380259,Loss of Nlp from mitotic centrosomes
 ENSG00000104833,R-HSA-380259,Loss of Nlp from mitotic centrosomes
 ENSG00000261456,R-HSA-380259,Loss of Nlp from mitotic centrosomes
-ENSG00000235067,R-HSA-380259,Loss of Nlp from mitotic centrosomes
-ENSG00000232575,R-HSA-380259,Loss of Nlp from mitotic centrosomes
-ENSG00000196230,R-HSA-380259,Loss of Nlp from mitotic centrosomes
-ENSG00000229684,R-HSA-380259,Loss of Nlp from mitotic centrosomes
-ENSG00000183311,R-HSA-380259,Loss of Nlp from mitotic centrosomes
 ENSG00000227739,R-HSA-380259,Loss of Nlp from mitotic centrosomes
-ENSG00000232421,R-HSA-380259,Loss of Nlp from mitotic centrosomes
+ENSG00000229684,R-HSA-380259,Loss of Nlp from mitotic centrosomes
 ENSG00000224156,R-HSA-380259,Loss of Nlp from mitotic centrosomes
+ENSG00000232421,R-HSA-380259,Loss of Nlp from mitotic centrosomes
+ENSG00000196230,R-HSA-380259,Loss of Nlp from mitotic centrosomes
+ENSG00000235067,R-HSA-380259,Loss of Nlp from mitotic centrosomes
+ENSG00000183311,R-HSA-380259,Loss of Nlp from mitotic centrosomes
+ENSG00000232575,R-HSA-380259,Loss of Nlp from mitotic centrosomes
 ENSG00000123416,R-HSA-380259,Loss of Nlp from mitotic centrosomes
 ENSG00000167553,R-HSA-380259,Loss of Nlp from mitotic centrosomes
 ENSG00000152086,R-HSA-380259,Loss of Nlp from mitotic centrosomes
@@ -1073,14 +310,14 @@ ENSG00000258947,R-HSA-380270,Recruitment of mitotic centrosome proteins and comp
 ENSG00000167552,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
 ENSG00000104833,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
 ENSG00000261456,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
-ENSG00000235067,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
-ENSG00000232575,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
-ENSG00000196230,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
-ENSG00000229684,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
-ENSG00000183311,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
 ENSG00000227739,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
-ENSG00000232421,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
+ENSG00000229684,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
 ENSG00000224156,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
+ENSG00000232421,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
+ENSG00000196230,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
+ENSG00000235067,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
+ENSG00000183311,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
+ENSG00000232575,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
 ENSG00000123416,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
 ENSG00000167553,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
 ENSG00000152086,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes
@@ -1095,14 +332,14 @@ ENSG00000258947,R-HSA-380284,Loss of proteins required for interphase microtubul
 ENSG00000167552,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
 ENSG00000104833,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
 ENSG00000261456,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
-ENSG00000235067,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
-ENSG00000232575,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
-ENSG00000196230,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
-ENSG00000229684,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
-ENSG00000183311,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
 ENSG00000227739,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
-ENSG00000232421,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
+ENSG00000229684,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
 ENSG00000224156,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
+ENSG00000232421,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
+ENSG00000196230,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
+ENSG00000235067,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
+ENSG00000183311,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
+ENSG00000232575,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
 ENSG00000123416,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
 ENSG00000167553,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
 ENSG00000152086,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome
@@ -1117,14 +354,14 @@ ENSG00000258947,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
 ENSG00000167552,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
 ENSG00000104833,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
 ENSG00000261456,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
-ENSG00000235067,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
-ENSG00000232575,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
-ENSG00000196230,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
-ENSG00000229684,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
-ENSG00000183311,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
 ENSG00000227739,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
-ENSG00000232421,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
+ENSG00000229684,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
 ENSG00000224156,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
+ENSG00000232421,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
+ENSG00000196230,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
+ENSG00000235067,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
+ENSG00000183311,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
+ENSG00000232575,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
 ENSG00000123416,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
 ENSG00000167553,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
 ENSG00000152086,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes
@@ -1139,14 +376,14 @@ ENSG00000258947,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/Tr
 ENSG00000167552,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
 ENSG00000104833,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
 ENSG00000261456,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
-ENSG00000235067,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
-ENSG00000232575,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
-ENSG00000196230,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
-ENSG00000229684,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
-ENSG00000183311,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
 ENSG00000227739,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
-ENSG00000232421,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
+ENSG00000229684,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
 ENSG00000224156,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
+ENSG00000232421,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
+ENSG00000196230,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
+ENSG00000235067,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
+ENSG00000183311,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
+ENSG00000232575,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
 ENSG00000123416,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
 ENSG00000167553,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
 ENSG00000152086,R-HSA-389957,Prefoldin mediated transfer of substrate  to CCT/TriC
@@ -1161,14 +398,14 @@ ENSG00000258947,R-HSA-389960,Formation of tubulin folding intermediates by CCT/T
 ENSG00000167552,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
 ENSG00000104833,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
 ENSG00000261456,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
-ENSG00000235067,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
-ENSG00000232575,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
-ENSG00000196230,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
-ENSG00000229684,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
-ENSG00000183311,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
 ENSG00000227739,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
-ENSG00000232421,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
+ENSG00000229684,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
 ENSG00000224156,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
+ENSG00000232421,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
+ENSG00000196230,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
+ENSG00000235067,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
+ENSG00000183311,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
+ENSG00000232575,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
 ENSG00000123416,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
 ENSG00000167553,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
 ENSG00000152086,R-HSA-389960,Formation of tubulin folding intermediates by CCT/TriC
@@ -1183,14 +420,14 @@ ENSG00000258947,R-HSA-389977,Post-chaperonin tubulin folding pathway
 ENSG00000167552,R-HSA-389977,Post-chaperonin tubulin folding pathway
 ENSG00000104833,R-HSA-389977,Post-chaperonin tubulin folding pathway
 ENSG00000261456,R-HSA-389977,Post-chaperonin tubulin folding pathway
-ENSG00000235067,R-HSA-389977,Post-chaperonin tubulin folding pathway
-ENSG00000232575,R-HSA-389977,Post-chaperonin tubulin folding pathway
-ENSG00000196230,R-HSA-389977,Post-chaperonin tubulin folding pathway
-ENSG00000229684,R-HSA-389977,Post-chaperonin tubulin folding pathway
-ENSG00000183311,R-HSA-389977,Post-chaperonin tubulin folding pathway
 ENSG00000227739,R-HSA-389977,Post-chaperonin tubulin folding pathway
-ENSG00000232421,R-HSA-389977,Post-chaperonin tubulin folding pathway
+ENSG00000229684,R-HSA-389977,Post-chaperonin tubulin folding pathway
 ENSG00000224156,R-HSA-389977,Post-chaperonin tubulin folding pathway
+ENSG00000232421,R-HSA-389977,Post-chaperonin tubulin folding pathway
+ENSG00000196230,R-HSA-389977,Post-chaperonin tubulin folding pathway
+ENSG00000235067,R-HSA-389977,Post-chaperonin tubulin folding pathway
+ENSG00000183311,R-HSA-389977,Post-chaperonin tubulin folding pathway
+ENSG00000232575,R-HSA-389977,Post-chaperonin tubulin folding pathway
 ENSG00000123416,R-HSA-389977,Post-chaperonin tubulin folding pathway
 ENSG00000167553,R-HSA-389977,Post-chaperonin tubulin folding pathway
 ENSG00000152086,R-HSA-389977,Post-chaperonin tubulin folding pathway
@@ -1205,14 +442,14 @@ ENSG00000258947,R-HSA-437239,Recycling pathway of L1
 ENSG00000167552,R-HSA-437239,Recycling pathway of L1
 ENSG00000104833,R-HSA-437239,Recycling pathway of L1
 ENSG00000261456,R-HSA-437239,Recycling pathway of L1
-ENSG00000235067,R-HSA-437239,Recycling pathway of L1
-ENSG00000232575,R-HSA-437239,Recycling pathway of L1
-ENSG00000196230,R-HSA-437239,Recycling pathway of L1
-ENSG00000229684,R-HSA-437239,Recycling pathway of L1
-ENSG00000183311,R-HSA-437239,Recycling pathway of L1
 ENSG00000227739,R-HSA-437239,Recycling pathway of L1
-ENSG00000232421,R-HSA-437239,Recycling pathway of L1
+ENSG00000229684,R-HSA-437239,Recycling pathway of L1
 ENSG00000224156,R-HSA-437239,Recycling pathway of L1
+ENSG00000232421,R-HSA-437239,Recycling pathway of L1
+ENSG00000196230,R-HSA-437239,Recycling pathway of L1
+ENSG00000235067,R-HSA-437239,Recycling pathway of L1
+ENSG00000183311,R-HSA-437239,Recycling pathway of L1
+ENSG00000232575,R-HSA-437239,Recycling pathway of L1
 ENSG00000123416,R-HSA-437239,Recycling pathway of L1
 ENSG00000167553,R-HSA-437239,Recycling pathway of L1
 ENSG00000152086,R-HSA-437239,Recycling pathway of L1
@@ -1227,14 +464,14 @@ ENSG00000258947,R-HSA-5610787,Hedgehog 'off' state
 ENSG00000167552,R-HSA-5610787,Hedgehog 'off' state
 ENSG00000104833,R-HSA-5610787,Hedgehog 'off' state
 ENSG00000261456,R-HSA-5610787,Hedgehog 'off' state
-ENSG00000235067,R-HSA-5610787,Hedgehog 'off' state
-ENSG00000232575,R-HSA-5610787,Hedgehog 'off' state
-ENSG00000196230,R-HSA-5610787,Hedgehog 'off' state
-ENSG00000229684,R-HSA-5610787,Hedgehog 'off' state
-ENSG00000183311,R-HSA-5610787,Hedgehog 'off' state
 ENSG00000227739,R-HSA-5610787,Hedgehog 'off' state
-ENSG00000232421,R-HSA-5610787,Hedgehog 'off' state
+ENSG00000229684,R-HSA-5610787,Hedgehog 'off' state
 ENSG00000224156,R-HSA-5610787,Hedgehog 'off' state
+ENSG00000232421,R-HSA-5610787,Hedgehog 'off' state
+ENSG00000196230,R-HSA-5610787,Hedgehog 'off' state
+ENSG00000235067,R-HSA-5610787,Hedgehog 'off' state
+ENSG00000183311,R-HSA-5610787,Hedgehog 'off' state
+ENSG00000232575,R-HSA-5610787,Hedgehog 'off' state
 ENSG00000123416,R-HSA-5610787,Hedgehog 'off' state
 ENSG00000167553,R-HSA-5610787,Hedgehog 'off' state
 ENSG00000152086,R-HSA-5610787,Hedgehog 'off' state
@@ -1249,14 +486,14 @@ ENSG00000258947,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
 ENSG00000167552,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
 ENSG00000104833,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
 ENSG00000261456,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
-ENSG00000235067,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
-ENSG00000232575,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
-ENSG00000196230,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
-ENSG00000229684,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
-ENSG00000183311,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
 ENSG00000227739,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
-ENSG00000232421,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
+ENSG00000229684,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
 ENSG00000224156,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
+ENSG00000232421,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
+ENSG00000196230,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
+ENSG00000235067,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
+ENSG00000183311,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
+ENSG00000232575,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
 ENSG00000123416,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
 ENSG00000167553,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
 ENSG00000152086,R-HSA-5620912,Anchoring of the basal body to the plasma membrane
@@ -1271,14 +508,14 @@ ENSG00000258947,R-HSA-5620920,Cargo trafficking to the periciliary membrane
 ENSG00000167552,R-HSA-5620920,Cargo trafficking to the periciliary membrane
 ENSG00000104833,R-HSA-5620920,Cargo trafficking to the periciliary membrane
 ENSG00000261456,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000235067,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000232575,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000196230,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000229684,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000183311,R-HSA-5620920,Cargo trafficking to the periciliary membrane
 ENSG00000227739,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-ENSG00000232421,R-HSA-5620920,Cargo trafficking to the periciliary membrane
+ENSG00000229684,R-HSA-5620920,Cargo trafficking to the periciliary membrane
 ENSG00000224156,R-HSA-5620920,Cargo trafficking to the periciliary membrane
+ENSG00000232421,R-HSA-5620920,Cargo trafficking to the periciliary membrane
+ENSG00000196230,R-HSA-5620920,Cargo trafficking to the periciliary membrane
+ENSG00000235067,R-HSA-5620920,Cargo trafficking to the periciliary membrane
+ENSG00000183311,R-HSA-5620920,Cargo trafficking to the periciliary membrane
+ENSG00000232575,R-HSA-5620920,Cargo trafficking to the periciliary membrane
 ENSG00000123416,R-HSA-5620920,Cargo trafficking to the periciliary membrane
 ENSG00000167553,R-HSA-5620920,Cargo trafficking to the periciliary membrane
 ENSG00000152086,R-HSA-5620920,Cargo trafficking to the periciliary membrane
@@ -1293,14 +530,14 @@ ENSG00000258947,R-HSA-5620924,Intraflagellar transport
 ENSG00000167552,R-HSA-5620924,Intraflagellar transport
 ENSG00000104833,R-HSA-5620924,Intraflagellar transport
 ENSG00000261456,R-HSA-5620924,Intraflagellar transport
-ENSG00000235067,R-HSA-5620924,Intraflagellar transport
-ENSG00000232575,R-HSA-5620924,Intraflagellar transport
-ENSG00000196230,R-HSA-5620924,Intraflagellar transport
-ENSG00000229684,R-HSA-5620924,Intraflagellar transport
-ENSG00000183311,R-HSA-5620924,Intraflagellar transport
 ENSG00000227739,R-HSA-5620924,Intraflagellar transport
-ENSG00000232421,R-HSA-5620924,Intraflagellar transport
+ENSG00000229684,R-HSA-5620924,Intraflagellar transport
 ENSG00000224156,R-HSA-5620924,Intraflagellar transport
+ENSG00000232421,R-HSA-5620924,Intraflagellar transport
+ENSG00000196230,R-HSA-5620924,Intraflagellar transport
+ENSG00000235067,R-HSA-5620924,Intraflagellar transport
+ENSG00000183311,R-HSA-5620924,Intraflagellar transport
+ENSG00000232575,R-HSA-5620924,Intraflagellar transport
 ENSG00000123416,R-HSA-5620924,Intraflagellar transport
 ENSG00000167553,R-HSA-5620924,Intraflagellar transport
 ENSG00000152086,R-HSA-5620924,Intraflagellar transport
@@ -1315,14 +552,14 @@ ENSG00000258947,R-HSA-5626467,RHO GTPases activate IQGAPs
 ENSG00000167552,R-HSA-5626467,RHO GTPases activate IQGAPs
 ENSG00000104833,R-HSA-5626467,RHO GTPases activate IQGAPs
 ENSG00000261456,R-HSA-5626467,RHO GTPases activate IQGAPs
-ENSG00000235067,R-HSA-5626467,RHO GTPases activate IQGAPs
-ENSG00000232575,R-HSA-5626467,RHO GTPases activate IQGAPs
-ENSG00000196230,R-HSA-5626467,RHO GTPases activate IQGAPs
-ENSG00000229684,R-HSA-5626467,RHO GTPases activate IQGAPs
-ENSG00000183311,R-HSA-5626467,RHO GTPases activate IQGAPs
 ENSG00000227739,R-HSA-5626467,RHO GTPases activate IQGAPs
-ENSG00000232421,R-HSA-5626467,RHO GTPases activate IQGAPs
+ENSG00000229684,R-HSA-5626467,RHO GTPases activate IQGAPs
 ENSG00000224156,R-HSA-5626467,RHO GTPases activate IQGAPs
+ENSG00000232421,R-HSA-5626467,RHO GTPases activate IQGAPs
+ENSG00000196230,R-HSA-5626467,RHO GTPases activate IQGAPs
+ENSG00000235067,R-HSA-5626467,RHO GTPases activate IQGAPs
+ENSG00000183311,R-HSA-5626467,RHO GTPases activate IQGAPs
+ENSG00000232575,R-HSA-5626467,RHO GTPases activate IQGAPs
 ENSG00000123416,R-HSA-5626467,RHO GTPases activate IQGAPs
 ENSG00000167553,R-HSA-5626467,RHO GTPases activate IQGAPs
 ENSG00000152086,R-HSA-5626467,RHO GTPases activate IQGAPs
@@ -1337,14 +574,14 @@ ENSG00000258947,R-HSA-5663220,RHO GTPases Activate Formins
 ENSG00000167552,R-HSA-5663220,RHO GTPases Activate Formins
 ENSG00000104833,R-HSA-5663220,RHO GTPases Activate Formins
 ENSG00000261456,R-HSA-5663220,RHO GTPases Activate Formins
-ENSG00000235067,R-HSA-5663220,RHO GTPases Activate Formins
-ENSG00000232575,R-HSA-5663220,RHO GTPases Activate Formins
-ENSG00000196230,R-HSA-5663220,RHO GTPases Activate Formins
-ENSG00000229684,R-HSA-5663220,RHO GTPases Activate Formins
-ENSG00000183311,R-HSA-5663220,RHO GTPases Activate Formins
 ENSG00000227739,R-HSA-5663220,RHO GTPases Activate Formins
-ENSG00000232421,R-HSA-5663220,RHO GTPases Activate Formins
+ENSG00000229684,R-HSA-5663220,RHO GTPases Activate Formins
 ENSG00000224156,R-HSA-5663220,RHO GTPases Activate Formins
+ENSG00000232421,R-HSA-5663220,RHO GTPases Activate Formins
+ENSG00000196230,R-HSA-5663220,RHO GTPases Activate Formins
+ENSG00000235067,R-HSA-5663220,RHO GTPases Activate Formins
+ENSG00000183311,R-HSA-5663220,RHO GTPases Activate Formins
+ENSG00000232575,R-HSA-5663220,RHO GTPases Activate Formins
 ENSG00000123416,R-HSA-5663220,RHO GTPases Activate Formins
 ENSG00000167553,R-HSA-5663220,RHO GTPases Activate Formins
 ENSG00000152086,R-HSA-5663220,RHO GTPases Activate Formins
@@ -1359,14 +596,14 @@ ENSG00000258947,R-HSA-6798695,Neutrophil degranulation
 ENSG00000167552,R-HSA-6798695,Neutrophil degranulation
 ENSG00000104833,R-HSA-6798695,Neutrophil degranulation
 ENSG00000261456,R-HSA-6798695,Neutrophil degranulation
-ENSG00000235067,R-HSA-6798695,Neutrophil degranulation
-ENSG00000232575,R-HSA-6798695,Neutrophil degranulation
-ENSG00000196230,R-HSA-6798695,Neutrophil degranulation
-ENSG00000229684,R-HSA-6798695,Neutrophil degranulation
-ENSG00000183311,R-HSA-6798695,Neutrophil degranulation
 ENSG00000227739,R-HSA-6798695,Neutrophil degranulation
-ENSG00000232421,R-HSA-6798695,Neutrophil degranulation
+ENSG00000229684,R-HSA-6798695,Neutrophil degranulation
 ENSG00000224156,R-HSA-6798695,Neutrophil degranulation
+ENSG00000232421,R-HSA-6798695,Neutrophil degranulation
+ENSG00000196230,R-HSA-6798695,Neutrophil degranulation
+ENSG00000235067,R-HSA-6798695,Neutrophil degranulation
+ENSG00000183311,R-HSA-6798695,Neutrophil degranulation
+ENSG00000232575,R-HSA-6798695,Neutrophil degranulation
 ENSG00000123416,R-HSA-6798695,Neutrophil degranulation
 ENSG00000167553,R-HSA-6798695,Neutrophil degranulation
 ENSG00000152086,R-HSA-6798695,Neutrophil degranulation
@@ -1381,14 +618,14 @@ ENSG00000258947,R-HSA-6807878,COPI-mediated anterograde transport
 ENSG00000167552,R-HSA-6807878,COPI-mediated anterograde transport
 ENSG00000104833,R-HSA-6807878,COPI-mediated anterograde transport
 ENSG00000261456,R-HSA-6807878,COPI-mediated anterograde transport
-ENSG00000235067,R-HSA-6807878,COPI-mediated anterograde transport
-ENSG00000232575,R-HSA-6807878,COPI-mediated anterograde transport
-ENSG00000196230,R-HSA-6807878,COPI-mediated anterograde transport
-ENSG00000229684,R-HSA-6807878,COPI-mediated anterograde transport
-ENSG00000183311,R-HSA-6807878,COPI-mediated anterograde transport
 ENSG00000227739,R-HSA-6807878,COPI-mediated anterograde transport
-ENSG00000232421,R-HSA-6807878,COPI-mediated anterograde transport
+ENSG00000229684,R-HSA-6807878,COPI-mediated anterograde transport
 ENSG00000224156,R-HSA-6807878,COPI-mediated anterograde transport
+ENSG00000232421,R-HSA-6807878,COPI-mediated anterograde transport
+ENSG00000196230,R-HSA-6807878,COPI-mediated anterograde transport
+ENSG00000235067,R-HSA-6807878,COPI-mediated anterograde transport
+ENSG00000183311,R-HSA-6807878,COPI-mediated anterograde transport
+ENSG00000232575,R-HSA-6807878,COPI-mediated anterograde transport
 ENSG00000123416,R-HSA-6807878,COPI-mediated anterograde transport
 ENSG00000167553,R-HSA-6807878,COPI-mediated anterograde transport
 ENSG00000152086,R-HSA-6807878,COPI-mediated anterograde transport
@@ -1403,14 +640,14 @@ ENSG00000258947,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
 ENSG00000167552,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
 ENSG00000104833,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
 ENSG00000261456,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
-ENSG00000235067,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
-ENSG00000232575,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
-ENSG00000196230,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
-ENSG00000229684,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
-ENSG00000183311,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
 ENSG00000227739,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
-ENSG00000232421,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
+ENSG00000229684,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
 ENSG00000224156,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
+ENSG00000232421,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
+ENSG00000196230,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
+ENSG00000235067,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
+ENSG00000183311,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
+ENSG00000232575,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
 ENSG00000123416,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
 ENSG00000167553,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
 ENSG00000152086,R-HSA-6811434,COPI-dependent Golgi-to-ER retrograde traffic
@@ -1425,14 +662,14 @@ ENSG00000258947,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
 ENSG00000167552,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
 ENSG00000104833,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
 ENSG00000261456,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
-ENSG00000235067,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
-ENSG00000232575,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
-ENSG00000196230,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
-ENSG00000229684,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
-ENSG00000183311,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
 ENSG00000227739,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
-ENSG00000232421,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
+ENSG00000229684,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
 ENSG00000224156,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
+ENSG00000232421,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
+ENSG00000196230,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
+ENSG00000235067,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
+ENSG00000183311,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
+ENSG00000232575,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
 ENSG00000123416,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
 ENSG00000167553,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
 ENSG00000152086,R-HSA-6811436,COPI-independent Golgi-to-ER retrograde traffic
@@ -1447,14 +684,14 @@ ENSG00000258947,R-HSA-68877,Mitotic Prometaphase
 ENSG00000167552,R-HSA-68877,Mitotic Prometaphase
 ENSG00000104833,R-HSA-68877,Mitotic Prometaphase
 ENSG00000261456,R-HSA-68877,Mitotic Prometaphase
-ENSG00000235067,R-HSA-68877,Mitotic Prometaphase
-ENSG00000232575,R-HSA-68877,Mitotic Prometaphase
-ENSG00000196230,R-HSA-68877,Mitotic Prometaphase
-ENSG00000229684,R-HSA-68877,Mitotic Prometaphase
-ENSG00000183311,R-HSA-68877,Mitotic Prometaphase
 ENSG00000227739,R-HSA-68877,Mitotic Prometaphase
-ENSG00000232421,R-HSA-68877,Mitotic Prometaphase
+ENSG00000229684,R-HSA-68877,Mitotic Prometaphase
 ENSG00000224156,R-HSA-68877,Mitotic Prometaphase
+ENSG00000232421,R-HSA-68877,Mitotic Prometaphase
+ENSG00000196230,R-HSA-68877,Mitotic Prometaphase
+ENSG00000235067,R-HSA-68877,Mitotic Prometaphase
+ENSG00000183311,R-HSA-68877,Mitotic Prometaphase
+ENSG00000232575,R-HSA-68877,Mitotic Prometaphase
 ENSG00000123416,R-HSA-68877,Mitotic Prometaphase
 ENSG00000167553,R-HSA-68877,Mitotic Prometaphase
 ENSG00000152086,R-HSA-68877,Mitotic Prometaphase
@@ -1469,14 +706,14 @@ ENSG00000258947,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 che
 ENSG00000167552,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
 ENSG00000104833,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
 ENSG00000261456,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
-ENSG00000235067,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
-ENSG00000232575,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
-ENSG00000196230,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
-ENSG00000229684,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
-ENSG00000183311,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
 ENSG00000227739,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
-ENSG00000232421,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
+ENSG00000229684,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
 ENSG00000224156,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
+ENSG00000232421,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
+ENSG00000196230,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
+ENSG00000235067,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
+ENSG00000183311,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
+ENSG00000232575,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
 ENSG00000123416,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
 ENSG00000167553,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
 ENSG00000152086,R-HSA-8852276,The role of GTSE1 in G2/M progression after G2 checkpoint
@@ -1491,14 +728,14 @@ ENSG00000258947,R-HSA-8854518,AURKA Activation by TPX2
 ENSG00000167552,R-HSA-8854518,AURKA Activation by TPX2
 ENSG00000104833,R-HSA-8854518,AURKA Activation by TPX2
 ENSG00000261456,R-HSA-8854518,AURKA Activation by TPX2
-ENSG00000235067,R-HSA-8854518,AURKA Activation by TPX2
-ENSG00000232575,R-HSA-8854518,AURKA Activation by TPX2
-ENSG00000196230,R-HSA-8854518,AURKA Activation by TPX2
-ENSG00000229684,R-HSA-8854518,AURKA Activation by TPX2
-ENSG00000183311,R-HSA-8854518,AURKA Activation by TPX2
 ENSG00000227739,R-HSA-8854518,AURKA Activation by TPX2
-ENSG00000232421,R-HSA-8854518,AURKA Activation by TPX2
+ENSG00000229684,R-HSA-8854518,AURKA Activation by TPX2
 ENSG00000224156,R-HSA-8854518,AURKA Activation by TPX2
+ENSG00000232421,R-HSA-8854518,AURKA Activation by TPX2
+ENSG00000196230,R-HSA-8854518,AURKA Activation by TPX2
+ENSG00000235067,R-HSA-8854518,AURKA Activation by TPX2
+ENSG00000183311,R-HSA-8854518,AURKA Activation by TPX2
+ENSG00000232575,R-HSA-8854518,AURKA Activation by TPX2
 ENSG00000123416,R-HSA-8854518,AURKA Activation by TPX2
 ENSG00000167553,R-HSA-8854518,AURKA Activation by TPX2
 ENSG00000152086,R-HSA-8854518,AURKA Activation by TPX2
@@ -1513,14 +750,14 @@ ENSG00000258947,R-HSA-8955332,Carboxyterminal post-translational modifications o
 ENSG00000167552,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
 ENSG00000104833,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
 ENSG00000261456,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
-ENSG00000235067,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
-ENSG00000232575,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
-ENSG00000196230,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
-ENSG00000229684,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
-ENSG00000183311,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
 ENSG00000227739,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
-ENSG00000232421,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
+ENSG00000229684,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
 ENSG00000224156,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
+ENSG00000232421,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
+ENSG00000196230,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
+ENSG00000235067,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
+ENSG00000183311,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
+ENSG00000232575,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
 ENSG00000123416,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
 ENSG00000167553,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
 ENSG00000152086,R-HSA-8955332,Carboxyterminal post-translational modifications of tubulin
@@ -1535,14 +772,14 @@ ENSG00000258947,R-HSA-9609690,HCMV Early Events
 ENSG00000167552,R-HSA-9609690,HCMV Early Events
 ENSG00000104833,R-HSA-9609690,HCMV Early Events
 ENSG00000261456,R-HSA-9609690,HCMV Early Events
-ENSG00000235067,R-HSA-9609690,HCMV Early Events
-ENSG00000232575,R-HSA-9609690,HCMV Early Events
-ENSG00000196230,R-HSA-9609690,HCMV Early Events
-ENSG00000229684,R-HSA-9609690,HCMV Early Events
-ENSG00000183311,R-HSA-9609690,HCMV Early Events
 ENSG00000227739,R-HSA-9609690,HCMV Early Events
-ENSG00000232421,R-HSA-9609690,HCMV Early Events
+ENSG00000229684,R-HSA-9609690,HCMV Early Events
 ENSG00000224156,R-HSA-9609690,HCMV Early Events
+ENSG00000232421,R-HSA-9609690,HCMV Early Events
+ENSG00000196230,R-HSA-9609690,HCMV Early Events
+ENSG00000235067,R-HSA-9609690,HCMV Early Events
+ENSG00000183311,R-HSA-9609690,HCMV Early Events
+ENSG00000232575,R-HSA-9609690,HCMV Early Events
 ENSG00000123416,R-HSA-9609690,HCMV Early Events
 ENSG00000167553,R-HSA-9609690,HCMV Early Events
 ENSG00000152086,R-HSA-9609690,HCMV Early Events
@@ -1557,14 +794,14 @@ ENSG00000258947,R-HSA-9609736,Assembly and cell surface presentation of NMDA rec
 ENSG00000167552,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
 ENSG00000104833,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
 ENSG00000261456,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
-ENSG00000235067,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
-ENSG00000232575,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
-ENSG00000196230,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
-ENSG00000229684,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
-ENSG00000183311,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
 ENSG00000227739,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
-ENSG00000232421,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
+ENSG00000229684,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
 ENSG00000224156,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
+ENSG00000232421,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
+ENSG00000196230,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
+ENSG00000235067,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
+ENSG00000183311,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
+ENSG00000232575,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
 ENSG00000123416,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
 ENSG00000167553,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
 ENSG00000152086,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors
@@ -1579,14 +816,14 @@ ENSG00000258947,R-HSA-9619483,Activation of AMPK downstream of NMDARs
 ENSG00000167552,R-HSA-9619483,Activation of AMPK downstream of NMDARs
 ENSG00000104833,R-HSA-9619483,Activation of AMPK downstream of NMDARs
 ENSG00000261456,R-HSA-9619483,Activation of AMPK downstream of NMDARs
-ENSG00000235067,R-HSA-9619483,Activation of AMPK downstream of NMDARs
-ENSG00000232575,R-HSA-9619483,Activation of AMPK downstream of NMDARs
-ENSG00000196230,R-HSA-9619483,Activation of AMPK downstream of NMDARs
-ENSG00000229684,R-HSA-9619483,Activation of AMPK downstream of NMDARs
-ENSG00000183311,R-HSA-9619483,Activation of AMPK downstream of NMDARs
 ENSG00000227739,R-HSA-9619483,Activation of AMPK downstream of NMDARs
-ENSG00000232421,R-HSA-9619483,Activation of AMPK downstream of NMDARs
+ENSG00000229684,R-HSA-9619483,Activation of AMPK downstream of NMDARs
 ENSG00000224156,R-HSA-9619483,Activation of AMPK downstream of NMDARs
+ENSG00000232421,R-HSA-9619483,Activation of AMPK downstream of NMDARs
+ENSG00000196230,R-HSA-9619483,Activation of AMPK downstream of NMDARs
+ENSG00000235067,R-HSA-9619483,Activation of AMPK downstream of NMDARs
+ENSG00000183311,R-HSA-9619483,Activation of AMPK downstream of NMDARs
+ENSG00000232575,R-HSA-9619483,Activation of AMPK downstream of NMDARs
 ENSG00000123416,R-HSA-9619483,Activation of AMPK downstream of NMDARs
 ENSG00000167553,R-HSA-9619483,Activation of AMPK downstream of NMDARs
 ENSG00000152086,R-HSA-9619483,Activation of AMPK downstream of NMDARs
@@ -1601,14 +838,14 @@ ENSG00000258947,R-HSA-9646399,Aggrephagy
 ENSG00000167552,R-HSA-9646399,Aggrephagy
 ENSG00000104833,R-HSA-9646399,Aggrephagy
 ENSG00000261456,R-HSA-9646399,Aggrephagy
-ENSG00000235067,R-HSA-9646399,Aggrephagy
-ENSG00000232575,R-HSA-9646399,Aggrephagy
-ENSG00000196230,R-HSA-9646399,Aggrephagy
-ENSG00000229684,R-HSA-9646399,Aggrephagy
-ENSG00000183311,R-HSA-9646399,Aggrephagy
 ENSG00000227739,R-HSA-9646399,Aggrephagy
-ENSG00000232421,R-HSA-9646399,Aggrephagy
+ENSG00000229684,R-HSA-9646399,Aggrephagy
 ENSG00000224156,R-HSA-9646399,Aggrephagy
+ENSG00000232421,R-HSA-9646399,Aggrephagy
+ENSG00000196230,R-HSA-9646399,Aggrephagy
+ENSG00000235067,R-HSA-9646399,Aggrephagy
+ENSG00000183311,R-HSA-9646399,Aggrephagy
+ENSG00000232575,R-HSA-9646399,Aggrephagy
 ENSG00000123416,R-HSA-9646399,Aggrephagy
 ENSG00000167553,R-HSA-9646399,Aggrephagy
 ENSG00000152086,R-HSA-9646399,Aggrephagy
@@ -1623,14 +860,14 @@ ENSG00000258947,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
 ENSG00000167552,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
 ENSG00000104833,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
 ENSG00000261456,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
-ENSG00000235067,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
-ENSG00000232575,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
-ENSG00000196230,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
-ENSG00000229684,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
-ENSG00000183311,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
 ENSG00000227739,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
-ENSG00000232421,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
+ENSG00000229684,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
 ENSG00000224156,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
+ENSG00000232421,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
+ENSG00000196230,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
+ENSG00000235067,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
+ENSG00000183311,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
+ENSG00000232575,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
 ENSG00000123416,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
 ENSG00000167553,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
 ENSG00000152086,R-HSA-9648025,EML4 and NUDC in mitotic spindle formation
@@ -1645,14 +882,14 @@ ENSG00000258947,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
 ENSG00000167552,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
 ENSG00000104833,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
 ENSG00000261456,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
-ENSG00000235067,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
-ENSG00000232575,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
-ENSG00000196230,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
-ENSG00000229684,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
-ENSG00000183311,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
 ENSG00000227739,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
-ENSG00000232421,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
+ENSG00000229684,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
 ENSG00000224156,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
+ENSG00000232421,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
+ENSG00000196230,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
+ENSG00000235067,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
+ENSG00000183311,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
+ENSG00000232575,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
 ENSG00000123416,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
 ENSG00000167553,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
 ENSG00000152086,R-HSA-9668328,Sealing of the nuclear envelope (NE) by ESCRT-III
@@ -1667,14 +904,14 @@ ENSG00000258947,R-HSA-983189,Kinesins
 ENSG00000167552,R-HSA-983189,Kinesins
 ENSG00000104833,R-HSA-983189,Kinesins
 ENSG00000261456,R-HSA-983189,Kinesins
-ENSG00000235067,R-HSA-983189,Kinesins
-ENSG00000232575,R-HSA-983189,Kinesins
-ENSG00000196230,R-HSA-983189,Kinesins
-ENSG00000229684,R-HSA-983189,Kinesins
-ENSG00000183311,R-HSA-983189,Kinesins
 ENSG00000227739,R-HSA-983189,Kinesins
-ENSG00000232421,R-HSA-983189,Kinesins
+ENSG00000229684,R-HSA-983189,Kinesins
 ENSG00000224156,R-HSA-983189,Kinesins
+ENSG00000232421,R-HSA-983189,Kinesins
+ENSG00000196230,R-HSA-983189,Kinesins
+ENSG00000235067,R-HSA-983189,Kinesins
+ENSG00000183311,R-HSA-983189,Kinesins
+ENSG00000232575,R-HSA-983189,Kinesins
 ENSG00000123416,R-HSA-983189,Kinesins
 ENSG00000167553,R-HSA-983189,Kinesins
 ENSG00000152086,R-HSA-983189,Kinesins
@@ -1689,14 +926,14 @@ ENSG00000258947,R-HSA-9833482,PKR-mediated signaling
 ENSG00000167552,R-HSA-9833482,PKR-mediated signaling
 ENSG00000104833,R-HSA-9833482,PKR-mediated signaling
 ENSG00000261456,R-HSA-9833482,PKR-mediated signaling
-ENSG00000235067,R-HSA-9833482,PKR-mediated signaling
-ENSG00000232575,R-HSA-9833482,PKR-mediated signaling
-ENSG00000196230,R-HSA-9833482,PKR-mediated signaling
-ENSG00000229684,R-HSA-9833482,PKR-mediated signaling
-ENSG00000183311,R-HSA-9833482,PKR-mediated signaling
 ENSG00000227739,R-HSA-9833482,PKR-mediated signaling
-ENSG00000232421,R-HSA-9833482,PKR-mediated signaling
+ENSG00000229684,R-HSA-9833482,PKR-mediated signaling
 ENSG00000224156,R-HSA-9833482,PKR-mediated signaling
+ENSG00000232421,R-HSA-9833482,PKR-mediated signaling
+ENSG00000196230,R-HSA-9833482,PKR-mediated signaling
+ENSG00000235067,R-HSA-9833482,PKR-mediated signaling
+ENSG00000183311,R-HSA-9833482,PKR-mediated signaling
+ENSG00000232575,R-HSA-9833482,PKR-mediated signaling
 ENSG00000123416,R-HSA-9833482,PKR-mediated signaling
 ENSG00000167553,R-HSA-9833482,PKR-mediated signaling
 ENSG00000152086,R-HSA-9833482,PKR-mediated signaling
@@ -1711,14 +948,14 @@ ENSG00000258947,R-HSA-114608,Platelet degranulation
 ENSG00000167552,R-HSA-114608,Platelet degranulation 
 ENSG00000104833,R-HSA-114608,Platelet degranulation 
 ENSG00000261456,R-HSA-114608,Platelet degranulation 
-ENSG00000235067,R-HSA-114608,Platelet degranulation 
-ENSG00000232575,R-HSA-114608,Platelet degranulation 
-ENSG00000196230,R-HSA-114608,Platelet degranulation 
-ENSG00000229684,R-HSA-114608,Platelet degranulation 
-ENSG00000183311,R-HSA-114608,Platelet degranulation 
 ENSG00000227739,R-HSA-114608,Platelet degranulation 
-ENSG00000232421,R-HSA-114608,Platelet degranulation 
+ENSG00000229684,R-HSA-114608,Platelet degranulation 
 ENSG00000224156,R-HSA-114608,Platelet degranulation 
+ENSG00000232421,R-HSA-114608,Platelet degranulation 
+ENSG00000196230,R-HSA-114608,Platelet degranulation 
+ENSG00000235067,R-HSA-114608,Platelet degranulation 
+ENSG00000183311,R-HSA-114608,Platelet degranulation 
+ENSG00000232575,R-HSA-114608,Platelet degranulation 
 ENSG00000123416,R-HSA-114608,Platelet degranulation 
 ENSG00000167553,R-HSA-114608,Platelet degranulation 
 ENSG00000152086,R-HSA-114608,Platelet degranulation 
@@ -1733,14 +970,14 @@ ENSG00000258947,R-HSA-9679191,Potential therapeutics for SARS
 ENSG00000167552,R-HSA-9679191,Potential therapeutics for SARS
 ENSG00000104833,R-HSA-9679191,Potential therapeutics for SARS
 ENSG00000261456,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000235067,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000232575,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000196230,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000229684,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000183311,R-HSA-9679191,Potential therapeutics for SARS
 ENSG00000227739,R-HSA-9679191,Potential therapeutics for SARS
-ENSG00000232421,R-HSA-9679191,Potential therapeutics for SARS
+ENSG00000229684,R-HSA-9679191,Potential therapeutics for SARS
 ENSG00000224156,R-HSA-9679191,Potential therapeutics for SARS
+ENSG00000232421,R-HSA-9679191,Potential therapeutics for SARS
+ENSG00000196230,R-HSA-9679191,Potential therapeutics for SARS
+ENSG00000235067,R-HSA-9679191,Potential therapeutics for SARS
+ENSG00000183311,R-HSA-9679191,Potential therapeutics for SARS
+ENSG00000232575,R-HSA-9679191,Potential therapeutics for SARS
 ENSG00000123416,R-HSA-9679191,Potential therapeutics for SARS
 ENSG00000167553,R-HSA-9679191,Potential therapeutics for SARS
 ENSG00000152086,R-HSA-9679191,Potential therapeutics for SARS
@@ -1755,55 +992,50 @@ ENSG00000258947,R-HSA-9013407,RHOH GTPase cycle
 ENSG00000167552,R-HSA-9013407,RHOH GTPase cycle
 ENSG00000104833,R-HSA-9013407,RHOH GTPase cycle
 ENSG00000261456,R-HSA-9013407,RHOH GTPase cycle
-ENSG00000235067,R-HSA-9013407,RHOH GTPase cycle
-ENSG00000232575,R-HSA-9013407,RHOH GTPase cycle
-ENSG00000196230,R-HSA-9013407,RHOH GTPase cycle
-ENSG00000229684,R-HSA-9013407,RHOH GTPase cycle
-ENSG00000183311,R-HSA-9013407,RHOH GTPase cycle
 ENSG00000227739,R-HSA-9013407,RHOH GTPase cycle
-ENSG00000232421,R-HSA-9013407,RHOH GTPase cycle
+ENSG00000229684,R-HSA-9013407,RHOH GTPase cycle
 ENSG00000224156,R-HSA-9013407,RHOH GTPase cycle
+ENSG00000232421,R-HSA-9013407,RHOH GTPase cycle
+ENSG00000196230,R-HSA-9013407,RHOH GTPase cycle
+ENSG00000235067,R-HSA-9013407,RHOH GTPase cycle
+ENSG00000183311,R-HSA-9013407,RHOH GTPase cycle
+ENSG00000232575,R-HSA-9013407,RHOH GTPase cycle
 ENSG00000123416,R-HSA-9013407,RHOH GTPase cycle
 ENSG00000167553,R-HSA-9013407,RHOH GTPase cycle
 ENSG00000152086,R-HSA-9013407,RHOH GTPase cycle
 ENSG00000137267,R-HSA-9013407,RHOH GTPase cycle
 ENSG00000137285,R-HSA-9013407,RHOH GTPase cycle
 ENSG00000176014,R-HSA-9013407,RHOH GTPase cycle
-ENSG00000285479,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion"
 ENSG00000151067,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion"
+ENSG00000285479,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion"
 ENSG00000081248,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion"
 ENSG00000157388,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion"
 ENSG00000102001,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion"
-ENSG00000285479,R-HSA-419037,NCAM1 interactions
 ENSG00000151067,R-HSA-419037,NCAM1 interactions
+ENSG00000285479,R-HSA-419037,NCAM1 interactions
 ENSG00000081248,R-HSA-419037,NCAM1 interactions
 ENSG00000157388,R-HSA-419037,NCAM1 interactions
 ENSG00000102001,R-HSA-419037,NCAM1 interactions
-ENSG00000285479,R-HSA-422356,Regulation of insulin secretion
 ENSG00000151067,R-HSA-422356,Regulation of insulin secretion
+ENSG00000285479,R-HSA-422356,Regulation of insulin secretion
 ENSG00000081248,R-HSA-422356,Regulation of insulin secretion
 ENSG00000157388,R-HSA-422356,Regulation of insulin secretion
 ENSG00000102001,R-HSA-422356,Regulation of insulin secretion
-ENSG00000285479,R-HSA-5576892,Phase 0 - rapid depolarisation
 ENSG00000151067,R-HSA-5576892,Phase 0 - rapid depolarisation
+ENSG00000285479,R-HSA-5576892,Phase 0 - rapid depolarisation
 ENSG00000081248,R-HSA-5576892,Phase 0 - rapid depolarisation
 ENSG00000157388,R-HSA-5576892,Phase 0 - rapid depolarisation
 ENSG00000102001,R-HSA-5576892,Phase 0 - rapid depolarisation
-ENSG00000285479,R-HSA-5576893,Phase 2 - plateau phase
 ENSG00000151067,R-HSA-5576893,Phase 2 - plateau phase
+ENSG00000285479,R-HSA-5576893,Phase 2 - plateau phase
 ENSG00000081248,R-HSA-5576893,Phase 2 - plateau phase
 ENSG00000157388,R-HSA-5576893,Phase 2 - plateau phase
 ENSG00000102001,R-HSA-5576893,Phase 2 - plateau phase
-ENSG00000285479,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
 ENSG00000151067,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
+ENSG00000285479,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
 ENSG00000081248,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
 ENSG00000157388,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
 ENSG00000102001,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
-ENSG00000169252,R-HSA-390696,Adrenoceptors
-ENSG00000169252,R-HSA-418555,G alpha (s) signalling events
-ENSG00000169252,R-HSA-5689880,Ub-specific processing proteases
-ENSG00000169252,R-HSA-8856825,Cargo recognition for clathrin-mediated endocytosis
-ENSG00000169252,R-HSA-8856828,Clathrin-mediated endocytosis
 ENSG00000061918,R-HSA-392154,Nitric oxide stimulates guanylate cyclase
 ENSG00000152402,R-HSA-392154,Nitric oxide stimulates guanylate cyclase
 ENSG00000164116,R-HSA-392154,Nitric oxide stimulates guanylate cyclase
@@ -1826,8 +1058,6 @@ ENSG00000144891,R-HSA-375276,Peptide ligand-binding receptors
 ENSG00000144891,R-HSA-416476,G alpha (q) signalling events
 ENSG00000144891,R-HSA-8856825,Cargo recognition for clathrin-mediated endocytosis
 ENSG00000144891,R-HSA-8856828,Clathrin-mediated endocytosis
-ENSG00000196639,R-HSA-390650,Histamine receptors
-ENSG00000196639,R-HSA-416476,G alpha (q) signalling events
 ENSG00000112038,R-HSA-111885,Opioid Signalling
 ENSG00000112038,R-HSA-202040,G-protein activation
 ENSG00000112038,R-HSA-375276,Peptide ligand-binding receptors
@@ -1849,8 +1079,8 @@ ENSG00000007402,R-HSA-419037,NCAM1 interactions
 ENSG00000141837,R-HSA-419037,NCAM1 interactions
 ENSG00000148408,R-HSA-419037,NCAM1 interactions
 ENSG00000006283,R-HSA-419037,NCAM1 interactions
-ENSG00000284953,R-HSA-419037,NCAM1 interactions
 ENSG00000151062,R-HSA-419037,NCAM1 interactions
+ENSG00000284953,R-HSA-419037,NCAM1 interactions
 ENSG00000100346,R-HSA-419037,NCAM1 interactions
 ENSG00000198216,R-HSA-419037,NCAM1 interactions
 ENSG00000182389,R-HSA-419037,NCAM1 interactions
@@ -1867,8 +1097,8 @@ ENSG00000130433,R-HSA-419037,NCAM1 interactions
 ENSG00000108878,R-HSA-419037,NCAM1 interactions
 ENSG00000196557,R-HSA-445355,Smooth Muscle Contraction
 ENSG00000153956,R-HSA-445355,Smooth Muscle Contraction
-ENSG00000285479,R-HSA-445355,Smooth Muscle Contraction
 ENSG00000151067,R-HSA-445355,Smooth Muscle Contraction
+ENSG00000285479,R-HSA-445355,Smooth Muscle Contraction
 ENSG00000157445,R-HSA-445355,Smooth Muscle Contraction
 ENSG00000081248,R-HSA-445355,Smooth Muscle Contraction
 ENSG00000007402,R-HSA-445355,Smooth Muscle Contraction
@@ -1876,8 +1106,8 @@ ENSG00000157388,R-HSA-445355,Smooth Muscle Contraction
 ENSG00000141837,R-HSA-445355,Smooth Muscle Contraction
 ENSG00000148408,R-HSA-445355,Smooth Muscle Contraction
 ENSG00000006283,R-HSA-445355,Smooth Muscle Contraction
-ENSG00000284953,R-HSA-445355,Smooth Muscle Contraction
 ENSG00000151062,R-HSA-445355,Smooth Muscle Contraction
+ENSG00000284953,R-HSA-445355,Smooth Muscle Contraction
 ENSG00000100346,R-HSA-445355,Smooth Muscle Contraction
 ENSG00000102001,R-HSA-445355,Smooth Muscle Contraction
 ENSG00000198216,R-HSA-445355,Smooth Muscle Contraction
@@ -1895,8 +1125,8 @@ ENSG00000130433,R-HSA-445355,Smooth Muscle Contraction
 ENSG00000108878,R-HSA-445355,Smooth Muscle Contraction
 ENSG00000196557,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
 ENSG00000153956,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
-ENSG00000285479,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
 ENSG00000151067,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
+ENSG00000285479,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
 ENSG00000157445,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
 ENSG00000081248,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
 ENSG00000007402,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
@@ -1904,8 +1134,8 @@ ENSG00000157388,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and 
 ENSG00000141837,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
 ENSG00000148408,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
 ENSG00000006283,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
-ENSG00000284953,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
 ENSG00000151062,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
+ENSG00000284953,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
 ENSG00000100346,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
 ENSG00000102001,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
 ENSG00000198216,R-HSA-9856532,Mechanical load activates signaling by PIEZO1 and integrins in osteocytes
@@ -1928,8 +1158,8 @@ ENSG00000007402,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretio
 ENSG00000141837,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion"
 ENSG00000148408,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion"
 ENSG00000006283,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion"
-ENSG00000284953,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion"
 ENSG00000151062,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion"
+ENSG00000284953,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion"
 ENSG00000100346,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion"
 ENSG00000198216,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion"
 ENSG00000182389,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion"
@@ -1951,8 +1181,8 @@ ENSG00000007402,R-HSA-422356,Regulation of insulin secretion
 ENSG00000141837,R-HSA-422356,Regulation of insulin secretion
 ENSG00000148408,R-HSA-422356,Regulation of insulin secretion
 ENSG00000006283,R-HSA-422356,Regulation of insulin secretion
-ENSG00000284953,R-HSA-422356,Regulation of insulin secretion
 ENSG00000151062,R-HSA-422356,Regulation of insulin secretion
+ENSG00000284953,R-HSA-422356,Regulation of insulin secretion
 ENSG00000100346,R-HSA-422356,Regulation of insulin secretion
 ENSG00000198216,R-HSA-422356,Regulation of insulin secretion
 ENSG00000182389,R-HSA-422356,Regulation of insulin secretion
@@ -1974,8 +1204,8 @@ ENSG00000007402,R-HSA-5576892,Phase 0 - rapid depolarisation
 ENSG00000141837,R-HSA-5576892,Phase 0 - rapid depolarisation
 ENSG00000148408,R-HSA-5576892,Phase 0 - rapid depolarisation
 ENSG00000006283,R-HSA-5576892,Phase 0 - rapid depolarisation
-ENSG00000284953,R-HSA-5576892,Phase 0 - rapid depolarisation
 ENSG00000151062,R-HSA-5576892,Phase 0 - rapid depolarisation
+ENSG00000284953,R-HSA-5576892,Phase 0 - rapid depolarisation
 ENSG00000100346,R-HSA-5576892,Phase 0 - rapid depolarisation
 ENSG00000198216,R-HSA-5576892,Phase 0 - rapid depolarisation
 ENSG00000182389,R-HSA-5576892,Phase 0 - rapid depolarisation
@@ -1997,8 +1227,8 @@ ENSG00000007402,R-HSA-5576893,Phase 2 - plateau phase
 ENSG00000141837,R-HSA-5576893,Phase 2 - plateau phase
 ENSG00000148408,R-HSA-5576893,Phase 2 - plateau phase
 ENSG00000006283,R-HSA-5576893,Phase 2 - plateau phase
-ENSG00000284953,R-HSA-5576893,Phase 2 - plateau phase
 ENSG00000151062,R-HSA-5576893,Phase 2 - plateau phase
+ENSG00000284953,R-HSA-5576893,Phase 2 - plateau phase
 ENSG00000100346,R-HSA-5576893,Phase 2 - plateau phase
 ENSG00000198216,R-HSA-5576893,Phase 2 - plateau phase
 ENSG00000182389,R-HSA-5576893,Phase 2 - plateau phase
@@ -2015,8 +1245,8 @@ ENSG00000130433,R-HSA-5576893,Phase 2 - plateau phase
 ENSG00000108878,R-HSA-5576893,Phase 2 - plateau phase
 ENSG00000196557,R-HSA-112308,Presynaptic depolarization and calcium channel opening
 ENSG00000153956,R-HSA-112308,Presynaptic depolarization and calcium channel opening
-ENSG00000285479,R-HSA-112308,Presynaptic depolarization and calcium channel opening
 ENSG00000151067,R-HSA-112308,Presynaptic depolarization and calcium channel opening
+ENSG00000285479,R-HSA-112308,Presynaptic depolarization and calcium channel opening
 ENSG00000157445,R-HSA-112308,Presynaptic depolarization and calcium channel opening
 ENSG00000081248,R-HSA-112308,Presynaptic depolarization and calcium channel opening
 ENSG00000007402,R-HSA-112308,Presynaptic depolarization and calcium channel opening
@@ -2024,8 +1254,8 @@ ENSG00000157388,R-HSA-112308,Presynaptic depolarization and calcium channel open
 ENSG00000141837,R-HSA-112308,Presynaptic depolarization and calcium channel opening
 ENSG00000148408,R-HSA-112308,Presynaptic depolarization and calcium channel opening
 ENSG00000006283,R-HSA-112308,Presynaptic depolarization and calcium channel opening
-ENSG00000284953,R-HSA-112308,Presynaptic depolarization and calcium channel opening
 ENSG00000151062,R-HSA-112308,Presynaptic depolarization and calcium channel opening
+ENSG00000284953,R-HSA-112308,Presynaptic depolarization and calcium channel opening
 ENSG00000100346,R-HSA-112308,Presynaptic depolarization and calcium channel opening
 ENSG00000102001,R-HSA-112308,Presynaptic depolarization and calcium channel opening
 ENSG00000198216,R-HSA-112308,Presynaptic depolarization and calcium channel opening
@@ -2048,8 +1278,8 @@ ENSG00000007402,R-HSA-9662360,Sensory processing of sound by inner hair cells of
 ENSG00000141837,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
 ENSG00000148408,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
 ENSG00000006283,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
-ENSG00000284953,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
 ENSG00000151062,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
+ENSG00000284953,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
 ENSG00000100346,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
 ENSG00000198216,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
 ENSG00000182389,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
@@ -2066,8 +1296,8 @@ ENSG00000130433,R-HSA-9662360,Sensory processing of sound by inner hair cells of
 ENSG00000108878,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
 ENSG00000196557,R-HSA-399719,Trafficking of AMPA receptors
 ENSG00000153956,R-HSA-399719,Trafficking of AMPA receptors
-ENSG00000285479,R-HSA-399719,Trafficking of AMPA receptors
 ENSG00000151067,R-HSA-399719,Trafficking of AMPA receptors
+ENSG00000285479,R-HSA-399719,Trafficking of AMPA receptors
 ENSG00000157445,R-HSA-399719,Trafficking of AMPA receptors
 ENSG00000081248,R-HSA-399719,Trafficking of AMPA receptors
 ENSG00000007402,R-HSA-399719,Trafficking of AMPA receptors
@@ -2075,8 +1305,8 @@ ENSG00000157388,R-HSA-399719,Trafficking of AMPA receptors
 ENSG00000141837,R-HSA-399719,Trafficking of AMPA receptors
 ENSG00000148408,R-HSA-399719,Trafficking of AMPA receptors
 ENSG00000006283,R-HSA-399719,Trafficking of AMPA receptors
-ENSG00000284953,R-HSA-399719,Trafficking of AMPA receptors
 ENSG00000151062,R-HSA-399719,Trafficking of AMPA receptors
+ENSG00000284953,R-HSA-399719,Trafficking of AMPA receptors
 ENSG00000100346,R-HSA-399719,Trafficking of AMPA receptors
 ENSG00000102001,R-HSA-399719,Trafficking of AMPA receptors
 ENSG00000198216,R-HSA-399719,Trafficking of AMPA receptors
@@ -2094,8 +1324,8 @@ ENSG00000130433,R-HSA-399719,Trafficking of AMPA receptors
 ENSG00000108878,R-HSA-399719,Trafficking of AMPA receptors
 ENSG00000196557,R-HSA-5682910,LGI-ADAM interactions
 ENSG00000153956,R-HSA-5682910,LGI-ADAM interactions
-ENSG00000285479,R-HSA-5682910,LGI-ADAM interactions
 ENSG00000151067,R-HSA-5682910,LGI-ADAM interactions
+ENSG00000285479,R-HSA-5682910,LGI-ADAM interactions
 ENSG00000157445,R-HSA-5682910,LGI-ADAM interactions
 ENSG00000081248,R-HSA-5682910,LGI-ADAM interactions
 ENSG00000007402,R-HSA-5682910,LGI-ADAM interactions
@@ -2103,8 +1333,8 @@ ENSG00000157388,R-HSA-5682910,LGI-ADAM interactions
 ENSG00000141837,R-HSA-5682910,LGI-ADAM interactions
 ENSG00000148408,R-HSA-5682910,LGI-ADAM interactions
 ENSG00000006283,R-HSA-5682910,LGI-ADAM interactions
-ENSG00000284953,R-HSA-5682910,LGI-ADAM interactions
 ENSG00000151062,R-HSA-5682910,LGI-ADAM interactions
+ENSG00000284953,R-HSA-5682910,LGI-ADAM interactions
 ENSG00000100346,R-HSA-5682910,LGI-ADAM interactions
 ENSG00000102001,R-HSA-5682910,LGI-ADAM interactions
 ENSG00000198216,R-HSA-5682910,LGI-ADAM interactions
@@ -2469,11 +1699,6 @@ ENSG00000197561,R-HSA-977606,Regulation of Complement cascade
 ENSG00000277571,R-HSA-977606,Regulation of Complement cascade
 ENSG00000197561,R-HSA-9911233,Expression of NOTCH2NL genes
 ENSG00000277571,R-HSA-9911233,Expression of NOTCH2NL genes
-ENSG00000128271,R-HSA-187024,NGF-independant TRKA activation
-ENSG00000128271,R-HSA-417973,Adenosine P1 receptors
-ENSG00000128271,R-HSA-418555,G alpha (s) signalling events
-ENSG00000128271,R-HSA-5683826,Surfactant metabolism
-ENSG00000101180,R-HSA-390650,Histamine receptors
 ENSG00000057252,R-HSA-8964038,LDL clearance
 ENSG00000169174,R-HSA-381426,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
 ENSG00000169174,R-HSA-8866427,VLDLR internalisation and degradation
@@ -2488,20 +1713,6 @@ ENSG00000049540,R-HSA-2129379,Molecules associated with elastic fibres
 ENSG00000131473,R-HSA-163765,ChREBP activates metabolic gene expression
 ENSG00000131473,R-HSA-6798695,Neutrophil degranulation
 ENSG00000131473,R-HSA-75105,Fatty acyl-CoA biosynthesis
-ENSG00000092054,R-HSA-390522,Striated Muscle Contraction
-ENSG00000197616,R-HSA-390522,Striated Muscle Contraction
-ENSG00000078814,R-HSA-390522,Striated Muscle Contraction
-ENSG00000160808,R-HSA-390522,Striated Muscle Contraction
-ENSG00000111245,R-HSA-390522,Striated Muscle Contraction
-ENSG00000106631,R-HSA-390522,Striated Muscle Contraction
-ENSG00000198336,R-HSA-390522,Striated Muscle Contraction
-ENSG00000092054,R-HSA-445355,Smooth Muscle Contraction
-ENSG00000197616,R-HSA-445355,Smooth Muscle Contraction
-ENSG00000078814,R-HSA-445355,Smooth Muscle Contraction
-ENSG00000160808,R-HSA-445355,Smooth Muscle Contraction
-ENSG00000111245,R-HSA-445355,Smooth Muscle Contraction
-ENSG00000106631,R-HSA-445355,Smooth Muscle Contraction
-ENSG00000198336,R-HSA-445355,Smooth Muscle Contraction
 ENSG00000140675,R-HSA-189200,Cellular hexose transport
 ENSG00000140675,R-HSA-5658208,Defective SLC5A2 causes renal glucosuria (GLYS1)
 ENSG00000121807,R-HSA-1461957,Beta defensins
@@ -2512,32 +1723,11 @@ ENSG00000113161,R-HSA-1989781,PPARA activates gene expression
 ENSG00000113161,R-HSA-2426168,Activation of gene expression by SREBF (SREBP)
 ENSG00000113161,R-HSA-9619665,EGR2 and SOX10-mediated initiation of Schwann cell myelination
 ENSG00000113161,R-HSA-9969896,Lanosterol biosynthesis
-ENSG00000137462,R-HSA-1236974,ER-Phagosome pathway
-ENSG00000137462,R-HSA-1461957,Beta defensins
-ENSG00000137462,R-HSA-166058,MyD88:MAL(TIRAP) cascade initiated on plasma membrane
-ENSG00000137462,R-HSA-168179,Toll Like Receptor TLR1:TLR2 Cascade
-ENSG00000137462,R-HSA-168188,Toll Like Receptor TLR6:TLR2 Cascade
-ENSG00000137462,R-HSA-5602498,MyD88 deficiency (TLR2/4)
-ENSG00000137462,R-HSA-5603041,IRAK4 deficiency (TLR2/4)
-ENSG00000137462,R-HSA-5686938,Regulation of TLR by endogenous ligand
-ENSG00000137462,R-HSA-6798695,Neutrophil degranulation
-ENSG00000137462,R-HSA-9637628,Modulation by Mtb of host immune system
-ENSG00000137462,R-HSA-9705671,SARS-CoV-2 activates/modulates innate and adaptive immune responses
-ENSG00000137462,R-HSA-9833110,RSV-host interactions
 ENSG00000117594,R-HSA-194002,Glucocorticoid biosynthesis
 ENSG00000117594,R-HSA-9757110,Prednisone ADME
 ENSG00000168229,R-HSA-391908,Prostanoid ligand receptors
 ENSG00000168229,R-HSA-418555,G alpha (s) signalling events
 ENSG00000167780,R-HSA-8964038,LDL clearance
-ENSG00000096717,R-HSA-3371453,Regulation of HSF1-mediated heat shock response
-ENSG00000096717,R-HSA-427359,SIRT1 negatively regulates rRNA expression
-ENSG00000096717,R-HSA-9617629,Regulation of FOXO transcriptional activity by acetylation
-ENSG00000096717,R-HSA-9707616,Heme signaling
-ENSG00000096717,R-HSA-9764725,Negative Regulation of CDH1 Gene Transcription
-ENSG00000096717,R-HSA-9841922,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis
-ENSG00000096717,R-HSA-9854907,Regulation of MITF-M dependent genes involved in metabolism
-ENSG00000096717,R-HSA-9856649,Transcriptional and post-translational regulation of MITF-M expression and activity
-ENSG00000096717,R-HSA-9931509,"Expression of BMAL (ARNTL), CLOCK, and NPAS2"
 ENSG00000132965,R-HSA-2142688,Synthesis of 5-eicosatetraenoic acids
 ENSG00000132965,R-HSA-2142691,Synthesis of Leukotrienes (LT) and Eoxins (EX)
 ENSG00000132965,R-HSA-2142700,Biosynthesis of Lipoxins (LX)

@@ -1,0 +1,102 @@
+{
+  "kg_explain_version": "0.6.0",
+  "timestamp": "2026-02-09T09:10:12.570574+00:00",
+  "disease": "atherosclerosis",
+  "condition": "atherosclerosis",
+  "ranker_version": "v5",
+  "pipeline_elapsed_sec": 15548.47,
+  "config_summary": {
+    "mode": "v5",
+    "condition": "atherosclerosis",
+    "data_dir": "data",
+    "output_dir": "output",
+    "cache_dir": "cache",
+    "http_timeout": 60,
+    "http_max_retries": 5,
+    "http_page_size": 200,
+    "http_max_workers": 8,
+    "cache_ttl_hours": 0.0,
+    "trial_statuses": [
+      "TERMINATED",
+      "WITHDRAWN",
+      "SUSPENDED"
+    ],
+    "trial_max_pages": 20,
+    "topk_paths_per_pair": 10,
+    "topk_pairs_per_drug": 50
+  },
+  "cache_stats": {
+    "hits": 904,
+    "misses": 4500,
+    "expired": 0,
+    "puts": 5,
+    "errors": 0,
+    "total_requests": 5404,
+    "hit_rate": 0.1673,
+    "n_cached_files": 1628,
+    "total_size_mb": 34.02,
+    "ttl_seconds": 0
+  },
+  "step_timings": [
+    {
+      "step": "[1/10] CT.gov 失败试验",
+      "elapsed_sec": 0.1,
+      "status": "ok"
+    },
+    {
+      "step": "[2/10] RxNorm 映射",
+      "elapsed_sec": 0.04,
+      "status": "ok"
+    },
+    {
+      "step": "[3/10] 药物规范名称",
+      "elapsed_sec": 0.01,
+      "status": "ok"
+    },
+    {
+      "step": "[4/10] ChEMBL 药物映射",
+      "elapsed_sec": 0.05,
+      "status": "ok"
+    },
+    {
+      "step": "[5/10] Drug→Target",
+      "elapsed_sec": 0.03,
+      "status": "ok"
+    },
+    {
+      "step": "[6/10] Target Xref + Ensembl",
+      "elapsed_sec": 0.16,
+      "status": "ok"
+    },
+    {
+      "step": "[7/10] Target→Pathway",
+      "elapsed_sec": 48.75,
+      "status": "ok"
+    },
+    {
+      "step": "[8/10] Gene→Disease",
+      "elapsed_sec": 0.14,
+      "status": "ok"
+    },
+    {
+      "step": "[9/10] 构建中间边",
+      "elapsed_sec": 4.64,
+      "status": "ok"
+    },
+    {
+      "step": "[10/10] V5 额外数据 (FAERS, Phenotype)",
+      "elapsed_sec": 12543.55,
+      "status": "ok"
+    },
+    {
+      "step": "[Final] v5 排序",
+      "elapsed_sec": 2951.01,
+      "status": "ok"
+    }
+  ],
+  "outputs": {
+    "rank_csv": "output/drug_disease_rank_v5.csv",
+    "evidence_paths": "output/evidence_paths_v5.jsonl",
+    "evidence_pack_dir": "output/evidence_pack_v5"
+  }
+}

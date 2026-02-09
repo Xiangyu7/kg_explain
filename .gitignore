@@ -7,3 +7,10 @@ env/
 cache/
 out/
 .DS_Store
+.coverage
+*.egg-info/
+
+# Large generated outputs (regenerable)
+output/evidence_pack_v5/
+output/evidence_paths_v3.jsonl
+output/evidence_paths_v5.jsonl

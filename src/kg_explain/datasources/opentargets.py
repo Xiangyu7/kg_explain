@@ -8,13 +8,15 @@ OpenTargets 数据源
 API: https://api.platform.opentargets.org/api/v4/graphql
 """
 from __future__ import annotations
+import logging
 from pathlib import Path
 
 import pandas as pd
-from tqdm import tqdm
 
 from ..cache import HTTPCache, cached_post_json
-from ..utils import read_csv
+from ..utils import read_csv, concurrent_map
+
+logger = logging.getLogger(__name__)
 
 # OpenTargets GraphQL端点
 OT_API = "https://api.platform.opentargets.org/api/v4/graphql"
@@ -59,8 +61,8 @@ def fetch_gene_diseases(
     }
     """
 
-    rows = []
-    for g in tqdm(genes, desc="OpenTargets Gene→Disease"):
+    def _fetch_one_gene(g):
+        gene_rows = []
         got = 0
         for i in range(max_pages):
             payload = {
@@ -69,7 +71,8 @@ def fetch_gene_diseases(
             }
             try:
                 js = cached_post_json(cache, endpoint, payload, headers=headers, timeout=60)
-            except Exception:
+            except Exception as e:
+                logger.warning("OpenTargets Gene→Disease 查询失败, gene=%s page=%d: %s", g, i, e)
                 break
 
             tgt = (js.get("data") or {}).get("target") or {}
@@ -79,7 +82,7 @@ def fetch_gene_diseases(
 
             for row in page_rows:
                 dis = row.get("disease") or {}
-                rows.append({
+                gene_rows.append({
                     "targetId": g,
                     "diseaseId": dis.get("id"),
                     "diseaseName": dis.get("name"),
@@ -91,9 +94,20 @@ def fetch_gene_diseases(
 
             if got >= max_diseases_per_gene:
                 break
+        return gene_rows
+
+    results = concurrent_map(
+        _fetch_one_gene, genes,
+        max_workers=cache.max_workers, desc="OpenTargets Gene→Disease",
+    )
+    rows = [row for result in results for row in result]
+
+    out_df = pd.DataFrame(rows).dropna(subset=["targetId", "diseaseId", "score"]).drop_duplicates()
+    logger.info("Gene→Disease 关系: %d 条边, %d 个基因, %d 个疾病",
+                len(out_df), out_df["targetId"].nunique(), out_df["diseaseId"].nunique())
 
     out = data_dir / "edge_target_disease_ot.csv"
-    pd.DataFrame(rows).dropna(subset=["targetId", "diseaseId", "score"]).drop_duplicates().to_csv(out, index=False)
+    out_df.to_csv(out, index=False)
     return out
 
 
@@ -135,32 +149,43 @@ def fetch_disease_phenotypes(
     }
     """
 
-    rows = []
-    for dis_id in tqdm(disease_ids, desc="OpenTargets Disease→Phenotype"):
+    def _fetch_one(dis_id):
         payload = {"query": query, "variables": {"diseaseId": dis_id}}
         try:
             js = cached_post_json(cache, endpoint, payload, headers=headers, timeout=60)
-        except Exception:
-            continue
+        except Exception as e:
+            logger.warning("OpenTargets Disease→Phenotype 查询失败, disease=%s: %s", dis_id, e)
+            return []
 
         disease = (js.get("data") or {}).get("disease") or {}
         phenos = ((disease.get("phenotypes") or {}).get("rows") or [])[:max_phenotypes]
 
+        result_rows = []
         for p in phenos:
             phe = p.get("phenotypeEFO") or {}
             evidence = p.get("evidence") or {}
             score = float(evidence.get("score", 0) or 0)
             if score < min_score:
                 continue
-
-            rows.append({
+            result_rows.append({
                 "diseaseId": dis_id,
                 "diseaseName": disease.get("name", ""),
                 "phenotypeId": phe.get("id", ""),
                 "phenotypeName": phe.get("name", ""),
                 "score": score,
             })
+        return result_rows
+
+    results = concurrent_map(
+        _fetch_one, disease_ids,
+        max_workers=cache.max_workers, desc="OpenTargets Disease→Phenotype",
+    )
+    rows = [row for result in results for row in result]
+
+    out_df = pd.DataFrame(rows).drop_duplicates()
+    logger.info("Disease→Phenotype 关系: %d 条边, %d 个疾病",
+                len(out_df), out_df["diseaseId"].nunique() if not out_df.empty else 0)
 
     out = data_dir / "edge_disease_phenotype.csv"
-    pd.DataFrame(rows).drop_duplicates().to_csv(out, index=False)
+    out_df.to_csv(out, index=False)
     return out

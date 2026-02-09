@@ -7,6 +7,7 @@ ClinicalTrials.gov 数据源
 API文档: https://clinicaltrials.gov/data-api/api
 """
 from __future__ import annotations
+import logging
 from pathlib import Path
 
 import pandas as pd
@@ -14,6 +15,8 @@ from tqdm import tqdm
 
 from ..cache import HTTPCache, cached_get_json
 from ..config import ensure_dir
+
+logger = logging.getLogger(__name__)
 
 # ClinicalTrials.gov API端点
 CTG_API = "https://clinicaltrials.gov/api/v2/studies"
@@ -60,6 +63,43 @@ def _extract_interventions(study: dict) -> list[dict]:
     return dedup
 
 
+def _filter_interventions(
+    interventions: list[dict],
+    include_types: list[str] | None,
+    exclude_types: list[str] | None,
+) -> list[dict]:
+    """
+    按干预类型过滤
+
+    Args:
+        interventions: 干预列表 [{"name": ..., "type": ...}, ...]
+        include_types: 仅保留这些类型 (如 ["DRUG", "BIOLOGICAL"])，None 表示不限
+        exclude_types: 排除这些类型 (如 ["DEVICE", "PROCEDURE"])，None 表示不排除
+
+    Returns:
+        过滤后的干预列表
+    """
+    if not include_types and not exclude_types:
+        return interventions
+
+    inc = {t.upper() for t in include_types} if include_types else None
+    exc = {t.upper() for t in exclude_types} if exclude_types else set()
+
+    filtered = []
+    for it in interventions:
+        itype = (it.get("type") or "").upper()
+        if not itype:
+            # 类型未知的干预保留 (不误杀)
+            filtered.append(it)
+            continue
+        if inc is not None and itype not in inc:
+            continue
+        if itype in exc:
+            continue
+        filtered.append(it)
+    return filtered
+
+
 def fetch_failed_trials(
     condition: str,
     data_dir: Path,
@@ -67,6 +107,8 @@ def fetch_failed_trials(
     statuses: list[str] = None,
     page_size: int = 200,
     max_pages: int = 20,
+    include_types: list[str] | None = None,
+    exclude_types: list[str] | None = None,
 ) -> tuple[Path, Path]:
     """
     从CT.gov获取失败的临床试验
@@ -78,6 +120,8 @@ def fetch_failed_trials(
         statuses: 试验状态 (默认: TERMINATED, WITHDRAWN, SUSPENDED)
         page_size: 每页大小
         max_pages: 最大页数
+        include_types: 仅保留的干预类型 (如 ["DRUG", "BIOLOGICAL"])
+        exclude_types: 排除的干预类型 (如 ["DEVICE", "PROCEDURE"])
 
     Returns:
         (rows_path, summary_path): 试验行数据和药物汇总
@@ -87,6 +131,7 @@ def fetch_failed_trials(
 
     ensure_dir(data_dir)
     rows = []
+    n_filtered = 0
     page_token = None
 
     for _ in tqdm(range(max_pages), desc=f"CT.gov [{condition}]"):
@@ -104,7 +149,10 @@ def fetch_failed_trials(
 
         for st in js.get("studies") or []:
             b = _extract_basic(st)
-            ints = _extract_interventions(st)
+            ints_raw = _extract_interventions(st)
+            ints = _filter_interventions(ints_raw, include_types, exclude_types)
+            n_filtered += len(ints_raw) - len(ints)
+
             if not ints:
                 rows.append({**b, "drug_raw": None, "intervention_type": None})
             else:
@@ -120,6 +168,10 @@ def fetch_failed_trials(
             break
 
     df = pd.DataFrame(rows)
+    n_trials = df["nctId"].nunique() if not df.empty else 0
+    n_drugs = df["drug_raw"].dropna().nunique() if not df.empty else 0
+    logger.info("CT.gov 获取完成: %d 行, %d 个试验, %d 个药物, %d 个干预被过滤",
+                len(df), n_trials, n_drugs, n_filtered)
 
     # 保存行数据
     rows_path = data_dir / "failed_trials_drug_rows.csv"

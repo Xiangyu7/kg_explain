@@ -1,0 +1,166 @@
+drug_raw,canonical_name,rxnorm_rxcui
+Optimal Medical Care,optimal medical care,1085920
+3 x 10^6 cells,3 x 10^6 cells,1087659
+Heme arginate + L-arginine,heme arginate + l-arginine,1091
+L-arginine + heme arginate,heme arginate + l-arginine,1091
+urokinase,urokinase,11055
+Aspirin + Ticagrelor,aspirin + ticagrelor,1116632
+Ticagrelor,aspirin + ticagrelor,1116632
+Ticagrelor 90mg,ticagrelor,1116633
+RV-P1501,rv-p1501,1120700
+Vitamin E,vitamin e,11256
+Warfarin,warfarin,11289
+Vitamin C,vitamin c,1151
+ascorbic acid,vitamin c,1151
+Montelukast Sodium,montelukast sodium,115713
+olmesartan medoxomil,olmesartan medoxomil,118463
+Acetylsalicylic Acid,acetylsalicylic acid,1191
+Aspirin,acetylsalicylic acid,1191
+Bupivacaine liposome,bupivacaine liposome,1191504
+Atenolol,atenolol,1202
+Vytorin (Ezetimibe + Simvastatin),vytorin (ezetimibe + simvastatin),1245438
+Icosapent ethyl,icosapent ethyl,1304974
+Vascepa,vascepa,1304980
+Contrast-Enhanced Ultrasound,contrast-enhanced ultrasound,132208
+Sildenafil,sildenafil,136411
+Lomitapide,lomitapide,1364479
+HGF Plasmid (AMG0001),hgf plasmid (amg0001),1367185
+Ezetimibe + Atorvastatin,ezetimibe + atorvastatin,1422085
+Polypill: Red Heart Pill,polypill: red heart pill,1423672
+Cord blood stem cell injection,cord blood stem cell,1429729
+Stem cell infusion,stem cell,1429853
+autologous CD133+ cells,stem cell,1429853
+Niacin/Laropiprant combination,niacin/laropiprant combination,1494641
+Vorapaxar,vorapaxar,1537034
+Jardiance,jardiance,1545659
+18F-FPPRGD2,18f-fpprgd2,1546273
+Dabigatran,dabigatran,1546356
+Isovue,isovue,155031
+Comparator,comparator,1648887
+Cangrelor,cangrelor,1656052
+Entresto,entresto,1656341
+Alirocumab,alirocumab,1659152
+Alirocumab 150 MG/ML subcutaneous injection,alirocumab,1659156
+Evolocumab,evolocumab,1665684
+Repatha,repatha,1665896
+Midazolam injection,midazolam,1666797
+Fentanyl Injection,fentanyl,1735002
+SP-8356,sp-8356,1799649
+pregabalin,pregabalin,187832
+vonapanitase,vonapanitase,1905671
+N-acetylcysteine,n-acetylcysteine,197
+Nitroglycerin 0.4 mg sublingual,nitroglycerin,198039
+Biktarvy,biktarvy,1999668
+Cilostazol,cilostazol,21107
+Cilostazol 200 mg,cilostazol,21107
+Statin,statin,215681
+Statin therapy,statin,215681
+10 x 10^6 cells,10 x 10^6 cells,216507
+BMS-823778,bms-823778,2169504
+BMS-844421,bms-823778,2169504
+Low dose erythropoietin,low dose erythropoietin,218096
+Saline,saline,218615
+Urinary Kallikrein,urinary kallikrein,220688
+control systolic blood pressure less than 120 mmHg,control systolic blood pressure less than 120 mmhg,221696
+control systolic blood pressure less than 140 mmHg,control systolic blood pressure less than 120 mmhg,221696
+Nexlizet,nexlizet,2283231
+REX-001,rex-001,2388566
+30 x 10^6 cells,30 x 10^6 cells,241417
+Cholecalciferol,cholecalciferol,2418
+Usual medication,usual medication,2467680
+LEQVIO,leqvio,2588265
+Dipyridamole 200mg and Aspirin 25mg bid:,dipyridamole + aspirin,259081
+Dual Antiplatelet (DAPT) Therapy,dual antiplatelet (dapt) therapy,2638355
+Fasudil Hydrochloride,fasudil hydrochloride,26393
+Autologous ASC (for Adipose-derived Stem/Stroma Cell),autologous asc (for adipose-derived stem/stroma cell),2641199
+MEDI6012,medi6012,2644292
+Sevelamer Carbonate (Renvela),sevelamer carbonate (renvela),2657666
+Colchicine,colchicine,2683
+PDA-002,pda-002,2690007
+Hemoglobin glutamer 250 - bovine,hemoglobin glutamer 250 - bovine,2690050
+Serine proteinase-1 (Serp-1),serine proteinase-1 (serp-1),2692509
+Placebo matching with BMS-823778,placebo matching with bms-823778,2718182
+lovaza,lovaza,278346
+adenosine infusion treatment,adenosine infusion treatment,296
+Rosuvastatin,rosuvastatin,301542
+rosuvastatin,rosuvastatin,301542
+Cilostazol 100 mg,cilostazol,315675
+Metformin 1000 mg,metformin,316255
+Simvastatin 40mg,simvastatin,316674
+Aliskiren,aliskiren,325646
+Aspirin 25 mg bid,aspirin,329295
+Dipyridamole 200 mg bid,dipyridamole,329296
+Clopidogrel,clopidogrel,32968
+clopidogrel,clopidogrel,32968
+Atorvastatin 20 mg + Pioglitazone 30 mg,atorvastatin,331478
+Rimonabant,rimonabant,341199
+Ezetimibe,ezetimibe,341248
+Ezetrol (Ezetimibe),ezetimibe,341248
+ezetimibe,ezetimibe,341248
+Ezetimibe 10mg,ezetimibe,350671
+sirolimus,sirolimus,35302
+Ranolazine,ranolazine,35829
+Simvastatin,simvastatin,36567
+Aspirin tablet,aspirin,370614
+Placebo Oral Tablet,placebo oral,375221
+Remodulin (treprostinil sodium) Injection,remodulin (treprostinil sodium),402707
+Remodulin® (treprostinil sodium) Injection,remodulin (treprostinil sodium),402707
+"atorvastatin, aspirin, losartan, amlodipine",atorvastatin + aspirin + losartan + amlodipine,404773
+Extended release niacin,extended release niacin,405213
+extended release niacin,extended release niacin,405213
+Natural source Vitamin E 400IU/day,natural source vitamin e,412065
+tacrolimus,tacrolimus,42316
+Angiotensin 1-7,angiotensin 1-7,46377
+Gemfibrozil,gemfibrozil,4719
+Ezetimibe + Simvastatin,ezetimibe + simvastatin,484211
+Temsirolimus and dexamethasone sodium phosphate,temsirolimus + dexamethasone sodium phosphate,48933
+Nitroglycerin,nitroglycerin,4917
+Heparin,heparin,5224
+6% Hydroxyethylstarch,6% hydroxyethylstarch,5531
+PMR 135 mg,pmr,5640
+Atorvastatin 20mg,atorvastatin,597966
+Pactimibe sulfate,pactimibe sulfate,640083
+Extended Release Nicotinic Acid (Niaspan),extended release nicotinic acid (niaspan),654630
+Temsirolimus,temsirolimus,657797
+veliflapon (DG-031),veliflapon (dg-031),674442
+injection of 68Ga-DOTATATE,injection of 68ga-dotatate,676679
+Metformin,metformin,6809
+mycophenolate mofetil,mycophenolate mofetil,68149
+Metoprolol,metoprolol,6918
+Sugar pill,sugar pill,71470
+Plerixafor,plerixafor,733003
+niacin/laropiprant,niacin/laropiprant,742388
+"Sapropterin Dihydrochloride (BH4, tetrahydrobiopterin)",sapropterin dihydrochloride (bh4 + tetrahydrobiopterin),753341
+Phenprocoumon,phenprocoumon,8150
+TriLipix,trilipix,828374
+Atorvastatin,atorvastatin,83367
+Double Atorvastatin,atorvastatin,83367
+atorvastatin,atorvastatin,83367
+Matching Placebo,matching placebo,8375
+Matching Placebo subcutaneous injection,matching placebo,8375
+Matching placebo,matching placebo,8375
+Placebo,matching placebo,8375
+Placebo (for Rimonabant),matching placebo,8375
+Placebo bolus & placebo infusion,matching placebo,8375
+Placebo capsules - end of PCI,matching placebo,8375
+Placebo capsules - end of infusion,matching placebo,8375
+Placebo group,matching placebo,8375
+Placebos,matching placebo,8375
+placebo,matching placebo,8375
+rosiglitazone/placebo,matching placebo,8375
+Rosiglitazone,rosiglitazone,84108
+Canakinumab (ACZ885),canakinumab (acz885),853491
+0.9% sodium chloride injection solution,0.9% sodium chloride injection solution,856813
+prednisone,prednisone,8640
+High dose erythropoietin,high dose erythropoietin,898542
+Spironolactone,spironolactone,9997
+BIWH 3,biwh 3,
+Cellgram-CLI,cellgram-cli,
+DLBS1033,dlbs1033,
+GFH312,gfh312,
+MESENDO,mesendo,
+MLN1202,mln1202,
+SLV342,slv342,
+Statseal,statseal,
+YQ23,yq23,
+Yamani-15/5 chemical solution,yamani-15/5 chemical solution,

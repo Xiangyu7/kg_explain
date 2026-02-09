@@ -3,13 +3,9 @@ CHEMBL1798,Q9Y271,R-HSA-391906,Leukotriene receptors
 CHEMBL1798,Q9Y271,R-HSA-416476,G alpha (q) signalling events
 CHEMBL1798,Q9Y271,R-HSA-9664535,LTC4-CYSLTR mediated IL4 production
 CHEMBL1798,Q9Y271,R-HSA-9679191,Potential therapeutics for SARS
-CHEMBL1800,P34998,R-HSA-373080,Class B/2 (Secretin family receptors)
-CHEMBL1800,P34998,R-HSA-418555,G alpha (s) signalling events
 CHEMBL1827,O76074,R-HSA-418457,cGMP effects
 CHEMBL1827,O76074,R-HSA-445355,Smooth Muscle Contraction
 CHEMBL1827,O76074,R-HSA-9013422,RHOBTB1 GTPase cycle
-CHEMBL1881,P43116,R-HSA-391908,Prostanoid ligand receptors
-CHEMBL1881,P43116,R-HSA-418555,G alpha (s) signalling events
 CHEMBL1902,P62942,R-HSA-166208,mTORC1-mediated signalling
 CHEMBL1902,P62942,R-HSA-2025928,Calcineurin activates NFAT
 CHEMBL1902,P62942,R-HSA-2173789,TGF-beta receptor signaling activates SMADs
@@ -26,24 +22,6 @@ CHEMBL1909490,P01584,R-HSA-9020702,Interleukin-1 signaling
 CHEMBL1909490,P01584,R-HSA-9660826,Purinergic signaling in leishmaniasis infection
 CHEMBL1909490,P01584,R-HSA-9960519,CASP4-mediated substrate cleavage
 CHEMBL1909490,P01584,R-HSA-9960525,CASP5-mediated substrate cleavage
-CHEMBL1929,P47989,R-HSA-74259,Purine catabolism
-CHEMBL1929,P47989,R-HSA-8851680,Butyrophilin (BTN) family interactions
-CHEMBL1929,P47989,R-HSA-9748787,Azathioprine ADME
-CHEMBL1949,P62937,R-HSA-114608,Platelet degranulation 
-CHEMBL1949,P62937,R-HSA-162585,Uncoating of the HIV Virion
-CHEMBL1949,P62937,R-HSA-162588,Budding and maturation of HIV virion
-CHEMBL1949,P62937,R-HSA-162592,Integration of provirus
-CHEMBL1949,P62937,R-HSA-162594,Early Phase of HIV Life Cycle
-CHEMBL1949,P62937,R-HSA-164516,Minus-strand DNA synthesis
-CHEMBL1949,P62937,R-HSA-164525,Plus-strand DNA synthesis
-CHEMBL1949,P62937,R-HSA-173107,Binding and entry of HIV virion
-CHEMBL1949,P62937,R-HSA-175474,Assembly Of The HIV Virion
-CHEMBL1949,P62937,R-HSA-180689,APOBEC3G mediated resistance to HIV-1 infection
-CHEMBL1949,P62937,R-HSA-2025928,Calcineurin activates NFAT
-CHEMBL1949,P62937,R-HSA-210991,Basigin interactions
-CHEMBL1949,P62937,R-HSA-6798695,Neutrophil degranulation
-CHEMBL1949,P62937,R-HSA-8950505,Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation
-CHEMBL1949,P62937,R-HSA-9692916,SARS-CoV-1 activates/modulates innate immune responses
 CHEMBL1950,P01008,R-HSA-140837,Intrinsic Pathway of Fibrin Clot Formation
 CHEMBL1950,P01008,R-HSA-140875,Common Pathway of Fibrin Clot Formation
 CHEMBL1950,P01008,R-HSA-381426,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
@@ -76,142 +54,6 @@ CHEMBL2034,P04150,R-HSA-9679191,Potential therapeutics for SARS
 CHEMBL2034,P04150,R-HSA-9768777,Regulation of NPAS4 gene transcription
 CHEMBL2072,P35499,R-HSA-445095,Interaction between L1 and Ankyrins
 CHEMBL2072,P35499,R-HSA-5576892,Phase 0 - rapid depolarisation
-CHEMBL2093865,Q13547,R-HSA-1362277,Transcription of E2F targets under negative control by DREAM complex
-CHEMBL2093865,Q13547,R-HSA-1362300,Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1
-CHEMBL2093865,Q13547,R-HSA-1538133,G0 and Early G1
-CHEMBL2093865,Q13547,R-HSA-193670,p75NTR negatively regulates cell cycle via SC1
-CHEMBL2093865,Q13547,R-HSA-201722,Formation of the beta-catenin:TCF transactivating complex
-CHEMBL2093865,Q13547,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-CHEMBL2093865,Q13547,R-HSA-2173795,Downregulation of SMAD2/3:SMAD4 transcriptional activity
-CHEMBL2093865,Q13547,R-HSA-2173796,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
-CHEMBL2093865,Q13547,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-CHEMBL2093865,Q13547,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-CHEMBL2093865,Q13547,R-HSA-3214815,HDACs deacetylate histones
-CHEMBL2093865,Q13547,R-HSA-350054,Notch-HLH transcription pathway
-CHEMBL2093865,Q13547,R-HSA-3769402,Deactivation of the beta-catenin transactivating complex
-CHEMBL2093865,Q13547,R-HSA-427389,ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
-CHEMBL2093865,Q13547,R-HSA-427413,NoRC negatively regulates rRNA expression
-CHEMBL2093865,Q13547,R-HSA-4551638,SUMOylation of chromatin organization proteins
-CHEMBL2093865,Q13547,R-HSA-4641265,Repression of WNT target genes
-CHEMBL2093865,Q13547,R-HSA-6804758,Regulation of TP53 Activity through Acetylation
-CHEMBL2093865,Q13547,R-HSA-69205,G1/S-Specific Transcription
-CHEMBL2093865,Q13547,R-HSA-73762,RNA Polymerase I Transcription Initiation
-CHEMBL2093865,Q13547,R-HSA-8936459,RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
-CHEMBL2093865,Q13547,R-HSA-8943724,Regulation of PTEN gene transcription
-CHEMBL2093865,Q13547,R-HSA-9018519,Estrogen-dependent gene expression
-CHEMBL2093865,Q13547,R-HSA-9022538,Loss of MECP2 binding ability to 5mC-DNA
-CHEMBL2093865,Q13547,R-HSA-9022692,Regulation of MECP2 expression and activity
-CHEMBL2093865,Q13547,R-HSA-9022699,MECP2 regulates neuronal receptors and channels
-CHEMBL2093865,Q13547,R-HSA-9022702,MECP2 regulates transcription of neuronal ligands
-CHEMBL2093865,Q13547,R-HSA-9615017,"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes"
-CHEMBL2093865,Q13547,R-HSA-9679191,Potential therapeutics for SARS
-CHEMBL2093865,Q13547,R-HSA-9701898,STAT3 nuclear events downstream of ALK signaling
-CHEMBL2093865,Q13547,R-HSA-9725371,Nuclear events stimulated by ALK signaling in cancer
-CHEMBL2093865,Q13547,R-HSA-9764725,Negative Regulation of CDH1 Gene Transcription
-CHEMBL2093865,Q13547,R-HSA-9824594,Regulation of MITF-M-dependent genes involved in apoptosis
-CHEMBL2093865,Q13547,R-HSA-9825892,Regulation of MITF-M-dependent genes involved in cell cycle and proliferation
-CHEMBL2093865,Q13547,R-HSA-983231,Factors involved in megakaryocyte development and platelet production
-CHEMBL2093865,Q13547,R-HSA-9843940,Regulation of endogenous retroelements by KRAB-ZFP proteins
-CHEMBL2093865,Q13547,R-HSA-9844594,Transcriptional regulation of brown and beige adipocyte differentiation by EBF2
-CHEMBL2093865,Q13547,R-HSA-9845323,Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)
-CHEMBL2093865,Q13547,R-HSA-9856649,Transcriptional and post-translational regulation of MITF-M expression and activity
-CHEMBL2093865,O15379,R-HSA-193670,p75NTR negatively regulates cell cycle via SC1
-CHEMBL2093865,O15379,R-HSA-1989781,PPARA activates gene expression
-CHEMBL2093865,O15379,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-CHEMBL2093865,O15379,R-HSA-2151201,Transcriptional activation of mitochondrial biogenesis
-CHEMBL2093865,O15379,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-CHEMBL2093865,O15379,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-CHEMBL2093865,O15379,R-HSA-3214815,HDACs deacetylate histones
-CHEMBL2093865,O15379,R-HSA-350054,Notch-HLH transcription pathway
-CHEMBL2093865,O15379,R-HSA-381340,Transcriptional regulation of white adipocyte differentiation
-CHEMBL2093865,O15379,R-HSA-390471,Association of TriC/CCT with target proteins during biosynthesis
-CHEMBL2093865,O15379,R-HSA-400206,Regulation of lipid metabolism by PPARalpha
-CHEMBL2093865,O15379,R-HSA-5617472,Activation of anterior HOX genes in hindbrain development during early embryogenesis
-CHEMBL2093865,O15379,R-HSA-8940973,RUNX2 regulates osteoblast differentiation
-CHEMBL2093865,O15379,R-HSA-8943724,Regulation of PTEN gene transcription
-CHEMBL2093865,O15379,R-HSA-9022537,Loss of MECP2 binding ability to the NCoR/SMRT complex
-CHEMBL2093865,O15379,R-HSA-9022692,Regulation of MECP2 expression and activity
-CHEMBL2093865,O15379,R-HSA-9029569,NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux
-CHEMBL2093865,O15379,R-HSA-9609690,HCMV Early Events
-CHEMBL2093865,O15379,R-HSA-9701898,STAT3 nuclear events downstream of ALK signaling
-CHEMBL2093865,O15379,R-HSA-9707564,Cytoprotection by HMOX1
-CHEMBL2093865,O15379,R-HSA-9707616,Heme signaling
-CHEMBL2093865,O15379,R-HSA-9841922,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis
-CHEMBL2093865,O15379,R-HSA-9931509,"Expression of BMAL (ARNTL), CLOCK, and NPAS2"
-CHEMBL2093865,O15379,R-HSA-9933387,"RORA,B,C and NR1D1 (REV-ERBA) regulate gene expression"
-CHEMBL2093865,Q9UBN7,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-CHEMBL2093865,Q9UBN7,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-CHEMBL2093865,Q9UBN7,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-CHEMBL2093865,Q9UBN7,R-HSA-3371511,HSF1 activation
-CHEMBL2093865,Q9UBN7,R-HSA-350054,Notch-HLH transcription pathway
-CHEMBL2093865,Q9UBN7,R-HSA-5620920,Cargo trafficking to the periciliary membrane
-CHEMBL2093865,Q9UBN7,R-HSA-8878166,Transcriptional regulation by RUNX2
-CHEMBL2093865,Q9UBN7,R-HSA-8940973,RUNX2 regulates osteoblast differentiation
-CHEMBL2093865,Q9UBN7,R-HSA-9613829,Chaperone Mediated Autophagy
-CHEMBL2093865,Q9UBN7,R-HSA-9615710,Late endosomal microautophagy
-CHEMBL2093865,Q9UBN7,R-HSA-9646399,Aggrephagy
-CHEMBL2093865,Q92769,R-HSA-193670,p75NTR negatively regulates cell cycle via SC1
-CHEMBL2093865,Q92769,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-CHEMBL2093865,Q92769,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-CHEMBL2093865,Q92769,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-CHEMBL2093865,Q92769,R-HSA-3214815,HDACs deacetylate histones
-CHEMBL2093865,Q92769,R-HSA-350054,Notch-HLH transcription pathway
-CHEMBL2093865,Q92769,R-HSA-427389,ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression
-CHEMBL2093865,Q92769,R-HSA-427413,NoRC negatively regulates rRNA expression
-CHEMBL2093865,Q92769,R-HSA-4551638,SUMOylation of chromatin organization proteins
-CHEMBL2093865,Q92769,R-HSA-6804758,Regulation of TP53 Activity through Acetylation
-CHEMBL2093865,Q92769,R-HSA-73762,RNA Polymerase I Transcription Initiation
-CHEMBL2093865,Q92769,R-HSA-8943724,Regulation of PTEN gene transcription
-CHEMBL2093865,Q92769,R-HSA-9022692,Regulation of MECP2 expression and activity
-CHEMBL2093865,Q92769,R-HSA-9022699,MECP2 regulates neuronal receptors and channels
-CHEMBL2093865,Q92769,R-HSA-9615017,"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes"
-CHEMBL2093865,Q92769,R-HSA-9619665,EGR2 and SOX10-mediated initiation of Schwann cell myelination
-CHEMBL2093865,Q92769,R-HSA-9679191,Potential therapeutics for SARS
-CHEMBL2093865,Q92769,R-HSA-9701898,STAT3 nuclear events downstream of ALK signaling
-CHEMBL2093865,Q92769,R-HSA-9764725,Negative Regulation of CDH1 Gene Transcription
-CHEMBL2093865,Q92769,R-HSA-983231,Factors involved in megakaryocyte development and platelet production
-CHEMBL2093865,Q92769,R-HSA-9843940,Regulation of endogenous retroelements by KRAB-ZFP proteins
-CHEMBL2093865,Q92769,R-HSA-9844594,Transcriptional regulation of brown and beige adipocyte differentiation by EBF2
-CHEMBL2093865,Q92769,R-HSA-9845323,Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)
-CHEMBL2093865,Q9UQL6,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-CHEMBL2093865,Q9UQL6,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-CHEMBL2093865,Q9UQL6,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-CHEMBL2093865,Q9UQL6,R-HSA-350054,Notch-HLH transcription pathway
-CHEMBL2093865,Q9UQL6,R-HSA-8943724,Regulation of PTEN gene transcription
-CHEMBL2093865,Q8WUI4,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-CHEMBL2093865,Q8WUI4,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-CHEMBL2093865,Q8WUI4,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-CHEMBL2093865,Q8WUI4,R-HSA-3108214,SUMOylation of DNA damage response and repair proteins
-CHEMBL2093865,Q8WUI4,R-HSA-350054,Notch-HLH transcription pathway
-CHEMBL2093865,Q8WUI4,R-HSA-8943724,Regulation of PTEN gene transcription
-CHEMBL2093865,Q9BY41,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-CHEMBL2093865,Q9BY41,R-HSA-2467813,Separation of Sister Chromatids
-CHEMBL2093865,Q9BY41,R-HSA-2500257,Resolution of Sister Chromatid Cohesion
-CHEMBL2093865,Q9BY41,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-CHEMBL2093865,Q9BY41,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-CHEMBL2093865,Q9BY41,R-HSA-3214815,HDACs deacetylate histones
-CHEMBL2093865,Q9BY41,R-HSA-350054,Notch-HLH transcription pathway
-CHEMBL2093865,Q96DB2,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-CHEMBL2093865,Q96DB2,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-CHEMBL2093865,Q96DB2,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-CHEMBL2093865,Q96DB2,R-HSA-350054,Notch-HLH transcription pathway
-CHEMBL2093865,P56524,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-CHEMBL2093865,P56524,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-CHEMBL2093865,P56524,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-CHEMBL2093865,P56524,R-HSA-350054,Notch-HLH transcription pathway
-CHEMBL2093865,P56524,R-HSA-4090294,SUMOylation of intracellular receptors
-CHEMBL2093865,P56524,R-HSA-4551638,SUMOylation of chromatin organization proteins
-CHEMBL2093865,P56524,R-HSA-8941284,RUNX2 regulates chondrocyte maturation
-CHEMBL2093865,P56524,R-HSA-8951936,RUNX3 regulates p14-ARF
-CHEMBL2093865,Q9UKV0,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-CHEMBL2093865,Q9UKV0,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-CHEMBL2093865,Q9UKV0,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-CHEMBL2093865,Q9UKV0,R-HSA-350054,Notch-HLH transcription pathway
-CHEMBL2093865,Q969S8,R-HSA-2122947,NOTCH1 Intracellular Domain Regulates Transcription
-CHEMBL2093865,Q969S8,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants
-CHEMBL2093865,Q969S8,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
-CHEMBL2093865,Q969S8,R-HSA-3214815,HDACs deacetylate histones
-CHEMBL2093865,Q969S8,R-HSA-350054,Notch-HLH transcription pathway
 CHEMBL2093872,P14867,R-HSA-1236394,Signaling by ERBB4
 CHEMBL2093872,P14867,R-HSA-977443,GABA receptor activation
 CHEMBL2093872,P47870,R-HSA-1236394,Signaling by ERBB4
@@ -712,11 +554,6 @@ CHEMBL2095229,Q01668,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin sec
 CHEMBL2095229,Q01668,R-HSA-419037,NCAM1 interactions
 CHEMBL2095229,Q01668,R-HSA-422356,Regulation of insulin secretion
 CHEMBL2095229,Q01668,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea
-CHEMBL210,P07550,R-HSA-390696,Adrenoceptors
-CHEMBL210,P07550,R-HSA-418555,G alpha (s) signalling events
-CHEMBL210,P07550,R-HSA-5689880,Ub-specific processing proteases
-CHEMBL210,P07550,R-HSA-8856825,Cargo recognition for clathrin-mediated endocytosis
-CHEMBL210,P07550,R-HSA-8856828,Clathrin-mediated endocytosis
 CHEMBL2111348,Q02153,R-HSA-392154,Nitric oxide stimulates guanylate cyclase
 CHEMBL2111348,Q02153,R-HSA-445355,Smooth Muscle Contraction
 CHEMBL2111348,O75343,R-HSA-392154,Nitric oxide stimulates guanylate cyclase
@@ -741,8 +578,6 @@ CHEMBL227,P30556,R-HSA-375276,Peptide ligand-binding receptors
 CHEMBL227,P30556,R-HSA-416476,G alpha (q) signalling events
 CHEMBL227,P30556,R-HSA-8856825,Cargo recognition for clathrin-mediated endocytosis
 CHEMBL227,P30556,R-HSA-8856828,Clathrin-mediated endocytosis
-CHEMBL231,P35367,R-HSA-390650,Histamine receptors
-CHEMBL231,P35367,R-HSA-416476,G alpha (q) signalling events
 CHEMBL233,P35372,R-HSA-111885,Opioid Signalling
 CHEMBL233,P35372,R-HSA-202040,G-protein activation
 CHEMBL233,P35372,R-HSA-375276,Peptide ligand-binding receptors
@@ -904,11 +739,6 @@ CHEMBL248,P08246,R-HSA-6798695,Neutrophil degranulation
 CHEMBL248,P08246,R-HSA-6803157,Antimicrobial peptides
 CHEMBL248,P08246,R-HSA-977606,Regulation of Complement cascade
 CHEMBL248,P08246,R-HSA-9911233,Expression of NOTCH2NL genes
-CHEMBL251,P29274,R-HSA-187024,NGF-independant TRKA activation
-CHEMBL251,P29274,R-HSA-417973,Adenosine P1 receptors
-CHEMBL251,P29274,R-HSA-418555,G alpha (s) signalling events
-CHEMBL251,P29274,R-HSA-5683826,Surfactant metabolism
-CHEMBL264,Q9Y5N1,R-HSA-390650,Histamine receptors
 CHEMBL2782,P35610,R-HSA-8964038,LDL clearance
 CHEMBL2929,Q8NBP7,R-HSA-381426,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
 CHEMBL2929,Q8NBP7,R-HSA-8866427,VLDLR internalisation and degradation
@@ -923,11 +753,6 @@ CHEMBL3713712,P15502,R-HSA-2129379,Molecules associated with elastic fibres
 CHEMBL3720,P53396,R-HSA-163765,ChREBP activates metabolic gene expression
 CHEMBL3720,P53396,R-HSA-6798695,Neutrophil degranulation
 CHEMBL3720,P53396,R-HSA-75105,Fatty acyl-CoA biosynthesis
-CHEMBL3831286,P13533,R-HSA-390522,Striated Muscle Contraction
-CHEMBL3831286,P08590,R-HSA-390522,Striated Muscle Contraction
-CHEMBL3831286,P10916,R-HSA-390522,Striated Muscle Contraction
-CHEMBL3831286,Q01449,R-HSA-445355,Smooth Muscle Contraction
-CHEMBL3831286,P12829,R-HSA-390522,Striated Muscle Contraction
 CHEMBL3884,P31639,R-HSA-189200,Cellular hexose transport
 CHEMBL3884,P31639,R-HSA-5658208,Defective SLC5A2 causes renal glucosuria (GLYS1)
 CHEMBL4015,P41597,R-HSA-1461957,Beta defensins
@@ -938,32 +763,11 @@ CHEMBL402,P04035,R-HSA-1989781,PPARA activates gene expression
 CHEMBL402,P04035,R-HSA-2426168,Activation of gene expression by SREBF (SREBP)
 CHEMBL402,P04035,R-HSA-9619665,EGR2 and SOX10-mediated initiation of Schwann cell myelination
 CHEMBL402,P04035,R-HSA-9969896,Lanosterol biosynthesis
-CHEMBL4163,O60603,R-HSA-1236974,ER-Phagosome pathway
-CHEMBL4163,O60603,R-HSA-1461957,Beta defensins
-CHEMBL4163,O60603,R-HSA-166058,MyD88:MAL(TIRAP) cascade initiated on plasma membrane
-CHEMBL4163,O60603,R-HSA-168179,Toll Like Receptor TLR1:TLR2 Cascade
-CHEMBL4163,O60603,R-HSA-168188,Toll Like Receptor TLR6:TLR2 Cascade
-CHEMBL4163,O60603,R-HSA-5602498,MyD88 deficiency (TLR2/4)
-CHEMBL4163,O60603,R-HSA-5603041,IRAK4 deficiency (TLR2/4)
-CHEMBL4163,O60603,R-HSA-5686938,Regulation of TLR by endogenous ligand
-CHEMBL4163,O60603,R-HSA-6798695,Neutrophil degranulation
-CHEMBL4163,O60603,R-HSA-9637628,Modulation by Mtb of host immune system
-CHEMBL4163,O60603,R-HSA-9705671,SARS-CoV-2 activates/modulates innate and adaptive immune responses
-CHEMBL4163,O60603,R-HSA-9833110,RSV-host interactions
 CHEMBL4235,P28845,R-HSA-194002,Glucocorticoid biosynthesis
 CHEMBL4235,P28845,R-HSA-9757110,Prednisone ADME
 CHEMBL4427,Q13258,R-HSA-391908,Prostanoid ligand receptors
 CHEMBL4427,Q13258,R-HSA-418555,G alpha (s) signalling events
 CHEMBL4465,O75908,R-HSA-8964038,LDL clearance
-CHEMBL4506,Q96EB6,R-HSA-3371453,Regulation of HSF1-mediated heat shock response
-CHEMBL4506,Q96EB6,R-HSA-427359,SIRT1 negatively regulates rRNA expression
-CHEMBL4506,Q96EB6,R-HSA-9617629,Regulation of FOXO transcriptional activity by acetylation
-CHEMBL4506,Q96EB6,R-HSA-9707616,Heme signaling
-CHEMBL4506,Q96EB6,R-HSA-9764725,Negative Regulation of CDH1 Gene Transcription
-CHEMBL4506,Q96EB6,R-HSA-9841922,MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis
-CHEMBL4506,Q96EB6,R-HSA-9854907,Regulation of MITF-M dependent genes involved in metabolism
-CHEMBL4506,Q96EB6,R-HSA-9856649,Transcriptional and post-translational regulation of MITF-M expression and activity
-CHEMBL4506,Q96EB6,R-HSA-9931509,"Expression of BMAL (ARNTL), CLOCK, and NPAS2"
 CHEMBL4550,P20292,R-HSA-2142688,Synthesis of 5-eicosatetraenoic acids
 CHEMBL4550,P20292,R-HSA-2142691,Synthesis of Leukotrienes (LT) and Eoxins (EX)
 CHEMBL4550,P20292,R-HSA-2142700,Biosynthesis of Lipoxins (LX)

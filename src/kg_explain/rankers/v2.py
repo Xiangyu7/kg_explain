@@ -44,7 +44,9 @@ def run_v2(cfg: Config) -> dict[str, Path]:
     ot["score_f"] = pd.to_numeric(ot["score"], errors="coerce").fillna(0.0)
 
     # 合并路径
-    dtg = dt.merge(m, on="target_chembl_id", how="inner")
+    # 只保留路径核心列, 避免 drug_raw/mechanism_of_action 等额外列造成假性重复
+    dt_core = dt[["drug_normalized", "target_chembl_id"]].drop_duplicates()
+    dtg = dt_core.merge(m, on="target_chembl_id", how="inner")
     dtgd = dtg.merge(ot, left_on="ensembl_gene_id", right_on="targetId", how="inner")
 
     # 计算靶点度数

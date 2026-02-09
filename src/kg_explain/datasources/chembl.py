@@ -9,13 +9,15 @@ ChEMBL 数据源
 API: https://www.ebi.ac.uk/chembl/api/data
 """
 from __future__ import annotations
+import logging
 from pathlib import Path
 
 import pandas as pd
-from tqdm import tqdm
 
 from ..cache import HTTPCache, cached_get_json
-from ..utils import read_csv, safe_str
+from ..utils import read_csv, safe_str, load_canonical_map, concurrent_map
+
+logger = logging.getLogger(__name__)
 
 # ChEMBL API端点
 CHEMBL_API = "https://www.ebi.ac.uk/chembl/api/data"
@@ -36,6 +38,8 @@ def chembl_map(
     """
     将药物映射到ChEMBL ID
 
+    使用 canonical_name 去重: 共享同一规范名称的药物只搜索一次 ChEMBL
+
     Args:
         data_dir: 数据目录
         cache: HTTP缓存
@@ -45,35 +49,59 @@ def chembl_map(
         输出文件路径
     """
     rx = read_csv(data_dir / "drug_rxnorm_map.csv", dtype=str)
+    canonical = load_canonical_map(data_dir)
 
+    # 按 canonical name 去重, 每组只搜索一次
+    unique_queries: dict[str, str] = {}  # canonical → query_string
+    for _, r in rx.iterrows():
+        raw = safe_str(r.get("drug_raw"))
+        canon = canonical.get(raw.lower(), raw.lower())
+        if canon not in unique_queries:
+            term = safe_str(r.get("rxnorm_term"))
+            unique_queries[canon] = term if term else raw
+
+    def _search_one(item):
+        canon, q = item
+        if not q:
+            return canon, None, None
+        try:
+            hits = _chembl_molecule_search(cache, q, max_hits=max_hits)
+            for h in hits:
+                if h.get("molecule_chembl_id"):
+                    return canon, h.get("molecule_chembl_id"), h.get("pref_name")
+        except Exception as e:
+            logger.warning("ChEMBL 分子搜索失败, query=%s: %s", q, e)
+        return canon, None, None
+
+    results = concurrent_map(
+        _search_one, list(unique_queries.items()),
+        max_workers=cache.max_workers, desc="ChEMBL mapping",
+    )
+    chembl_lookup = {canon: (cid, pname) for canon, cid, pname in results}
+
+    # 展开到所有药物行
     rows = []
-    for _, r in tqdm(rx.iterrows(), total=len(rx), desc="ChEMBL mapping"):
+    for _, r in rx.iterrows():
         raw = safe_str(r.get("drug_raw"))
         term = safe_str(r.get("rxnorm_term"))
-        q = term if term else raw
-        chembl_id = None
-        pref_name = None
-
-        if q:
-            try:
-                hits = _chembl_molecule_search(cache, q, max_hits=max_hits)
-                for h in hits:
-                    if h.get("molecule_chembl_id"):
-                        chembl_id = h.get("molecule_chembl_id")
-                        pref_name = h.get("pref_name")
-                        break
-            except Exception:
-                pass
-
+        canon = canonical.get(raw.lower(), raw.lower())
+        chembl_id, pref_name = chembl_lookup.get(canon, (None, None))
         rows.append({
             "drug_raw": raw,
+            "canonical_name": canon,
             "rxnorm_term": term,
             "chembl_id": chembl_id,
             "chembl_pref_name": pref_name,
         })
 
+    result_df = pd.DataFrame(rows)
+    n_mapped = result_df["chembl_id"].notna().sum()
+    n_dedup = len(rx) - len(unique_queries)
+    logger.info("ChEMBL 映射完成: %d 个药物, %d 个成功映射 (%.1f%%), %d 个去重跳过",
+                len(result_df), n_mapped, 100 * n_mapped / max(len(result_df), 1), n_dedup)
+
     out = data_dir / "drug_chembl_map.csv"
-    pd.DataFrame(rows).to_csv(out, index=False)
+    result_df.to_csv(out, index=False)
     return out
 
 
@@ -96,20 +124,36 @@ def fetch_drug_targets(
     """
     mp = read_csv(data_dir / "drug_chembl_map.csv", dtype=str)
 
+    # 获取唯一 molecule ID, 并发查询 mechanisms
+    unique_mols = sorted({
+        safe_str(r.get("chembl_id"))
+        for _, r in mp.iterrows()
+        if safe_str(r.get("chembl_id"))
+    })
+
+    def _fetch_mech(mol):
+        try:
+            return mol, _chembl_mechanisms(cache, mol)
+        except Exception as e:
+            logger.warning("ChEMBL mechanism 查询失败, molecule=%s: %s", mol, e)
+            return mol, []
+
+    mech_results = concurrent_map(
+        _fetch_mech, unique_mols,
+        max_workers=cache.max_workers, desc="ChEMBL Drug→Target",
+    )
+    mech_lookup = {mol: mechs for mol, mechs in mech_results}
+
+    # 展开到所有药物行
     rows = []
-    for _, r in tqdm(mp.iterrows(), total=len(mp), desc="ChEMBL Drug→Target"):
+    for _, r in mp.iterrows():
         mol = safe_str(r.get("chembl_id"))
         drug_raw = safe_str(r.get("drug_raw"))
         if not mol or not drug_raw:
             continue
 
-        drug_norm = drug_raw.lower()
-        try:
-            mechs = _chembl_mechanisms(cache, mol)
-        except Exception:
-            mechs = []
-
-        for m in mechs:
+        drug_norm = safe_str(r.get("canonical_name")) or drug_raw.lower()
+        for m in mech_lookup.get(mol, []):
             rows.append({
                 "drug_normalized": drug_norm,
                 "drug_raw": drug_raw,
@@ -118,8 +162,12 @@ def fetch_drug_targets(
                 "mechanism_of_action": m.get("mechanism_of_action"),
             })
 
+    out_df = pd.DataFrame(rows).dropna(subset=["drug_normalized", "target_chembl_id"]).drop_duplicates()
+    logger.info("Drug→Target 关系: %d 条边, %d 个药物, %d 个靶点",
+                len(out_df), out_df["drug_normalized"].nunique(), out_df["target_chembl_id"].nunique())
+
     out = data_dir / "edge_drug_target.csv"
-    pd.DataFrame(rows).dropna(subset=["drug_normalized", "target_chembl_id"]).drop_duplicates().to_csv(out, index=False)
+    out_df.to_csv(out, index=False)
     return out
 
 
@@ -147,38 +195,42 @@ def fetch_target_xrefs(
     dt = read_csv(data_dir / "edge_drug_target.csv", dtype=str)
     targets = sorted(set(dt["target_chembl_id"].dropna().astype(str).tolist()))
 
-    node_rows = []
-    xref_rows = []
-
-    for tid in tqdm(targets, desc="ChEMBL Target Xref"):
+    def _fetch_one(tid):
         try:
             t = _chembl_target(cache, tid)
-        except Exception:
-            continue
+        except Exception as e:
+            logger.warning("ChEMBL target 详情获取失败, target=%s: %s", tid, e)
+            return None, []
 
-        node_rows.append({
+        node = {
             "target_chembl_id": tid,
             "target_type": t.get("target_type"),
             "pref_name": t.get("pref_name"),
             "organism": t.get("organism"),
-        })
-
+        }
+        xrefs = []
         for comp in t.get("target_components") or []:
             tcid = comp.get("component_id")
             acc = comp.get("accession")
             if tcid is None:
                 continue
-
-            xrefs = comp.get("target_component_xrefs") or []
-
-            for xr in xrefs:
-                xref_rows.append({
+            for xr in comp.get("target_component_xrefs") or []:
+                xrefs.append({
                     "target_chembl_id": tid,
                     "target_component_id": tcid,
                     "uniprot_accession": acc,
                     "xref_src_db": xr.get("xref_src_db"),
                     "xref_id": xr.get("xref_id"),
                 })
+        return node, xrefs
+
+    results = concurrent_map(
+        _fetch_one, targets,
+        max_workers=cache.max_workers, desc="ChEMBL Target Xref",
+    )
+
+    node_rows = [node for node, _ in results if node is not None]
+    xref_rows = [xr for _, xrefs in results for xr in xrefs]
 
     node_path = data_dir / "node_target.csv"
     xref_path = data_dir / "target_xref.csv"
@@ -193,7 +245,8 @@ def _uniprot_ensembl(cache: HTTPCache, accession: str) -> list[str]:
     url = f"https://rest.uniprot.org/uniprotkb/{accession}.json"
     try:
         data = cached_get_json(cache, url)
-    except Exception:
+    except Exception as e:
+        logger.warning("UniProt→Ensembl 查询失败, accession=%s: %s", accession, e)
         return []
     gene_ids: list[str] = []
     for xr in data.get("uniProtKBCrossReferences") or []:
@@ -240,17 +293,23 @@ def target_to_ensembl(data_dir: Path, cache: HTTPCache | None = None) -> Path:
 
     # ---- Strategy 2: UniProt → Ensembl via UniProt REST API ----
     if not rows and cache is not None and not xref.empty:
-        # Build target→UniProt mapping from xref
         pairs = (
             xref[["target_chembl_id", "uniprot_accession"]]
             .dropna()
             .drop_duplicates()
         )
-        for _, r in tqdm(pairs.iterrows(), total=len(pairs), desc="UniProt→Ensembl"):
-            acc = str(r["uniprot_accession"])
-            tid = str(r["target_chembl_id"])
-            for gid in _uniprot_ensembl(cache, acc):
-                rows.append({"target_chembl_id": tid, "ensembl_gene_id": gid})
+        pair_list = [(str(r["target_chembl_id"]), str(r["uniprot_accession"])) for _, r in pairs.iterrows()]
+
+        def _fetch_ensembl(pair):
+            tid, acc = pair
+            return [{"target_chembl_id": tid, "ensembl_gene_id": gid} for gid in _uniprot_ensembl(cache, acc)]
+
+        results = concurrent_map(
+            _fetch_ensembl, pair_list,
+            max_workers=cache.max_workers, desc="UniProt→Ensembl",
+        )
+        for result_rows in results:
+            rows.extend(result_rows)
 
     if rows:
         out = pd.DataFrame(rows).drop_duplicates()

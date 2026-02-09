@@ -19,4 +19,4 @@ KG Explain - 药物重定位知识图谱可解释路径系统
   - V5: 完整可解释路径 (+ FAERS + Phenotype)
 """
 
-__version__ = "0.5.0"
+__version__ = "0.6.0"

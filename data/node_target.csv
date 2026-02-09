@@ -1,12 +1,8 @@
 target_chembl_id,target_type,pref_name,organism
 CHEMBL1798,SINGLE PROTEIN,Cysteinyl leukotriene receptor 1,Homo sapiens
-CHEMBL1800,SINGLE PROTEIN,Corticotropin-releasing factor receptor 1,Homo sapiens
 CHEMBL1827,SINGLE PROTEIN,"cGMP-specific 3',5'-cyclic phosphodiesterase",Homo sapiens
-CHEMBL1881,SINGLE PROTEIN,Prostaglandin E2 receptor EP2 subtype,Homo sapiens
 CHEMBL1902,SINGLE PROTEIN,Peptidyl-prolyl cis-trans isomerase FKBP1A,Homo sapiens
 CHEMBL1909490,SINGLE PROTEIN,Interleukin-1 beta,Homo sapiens
-CHEMBL1929,SINGLE PROTEIN,Xanthine dehydrogenase/oxidase,Homo sapiens
-CHEMBL1949,SINGLE PROTEIN,Peptidyl-prolyl cis-trans isomerase A,Homo sapiens
 CHEMBL1950,SINGLE PROTEIN,Antithrombin-III,Homo sapiens
 CHEMBL1977,SINGLE PROTEIN,Vitamin D3 receptor,Homo sapiens
 CHEMBL1980,SINGLE PROTEIN,Sodium channel protein type 5 subunit alpha,Homo sapiens
@@ -17,18 +13,15 @@ CHEMBL2001,SINGLE PROTEIN,P2Y purinoceptor 12,Homo sapiens
 CHEMBL2027,SINGLE PROTEIN,NPC1-like intracellular cholesterol transporter 1,Homo sapiens
 CHEMBL2034,SINGLE PROTEIN,Glucocorticoid receptor,Homo sapiens
 CHEMBL2072,SINGLE PROTEIN,Sodium channel protein type 4 subunit alpha,Homo sapiens
-CHEMBL2093865,PROTEIN FAMILY,Histone deacetylase,Homo sapiens
 CHEMBL2093872,PROTEIN COMPLEX GROUP,GABA-A receptor; anion channel,Homo sapiens
 CHEMBL2094253,PROTEIN FAMILY,Cyclooxygenase,Homo sapiens
 CHEMBL2095182,PROTEIN COMPLEX GROUP,Tubulin,Homo sapiens
 CHEMBL2095229,PROTEIN FAMILY,Voltage-gated L-type calcium channel,Homo sapiens
-CHEMBL210,SINGLE PROTEIN,Beta-2 adrenergic receptor,Homo sapiens
 CHEMBL2111348,PROTEIN COMPLEX GROUP,Soluble guanylate cyclase,Homo sapiens
 CHEMBL2111369,PROTEIN FAMILY,Inosine-5'-monophosphate dehydrogenase (IMPDH),Homo sapiens
 CHEMBL213,SINGLE PROTEIN,Beta-1 adrenergic receptor,Homo sapiens
 CHEMBL218,SINGLE PROTEIN,Cannabinoid receptor 1,Homo sapiens
 CHEMBL227,SINGLE PROTEIN,Type-1 angiotensin II receptor,Homo sapiens
-CHEMBL231,SINGLE PROTEIN,Histamine H1 receptor,Homo sapiens
 CHEMBL233,SINGLE PROTEIN,Mu-type opioid receptor,Homo sapiens
 CHEMBL235,SINGLE PROTEIN,Peroxisome proliferator-activated receptor gamma,Homo sapiens
 CHEMBL2363032,PROTEIN COMPLEX GROUP,Voltage-gated calcium channel,Homo sapiens
@@ -37,8 +30,6 @@ CHEMBL2364681,PROTEIN COMPLEX,Microsomal triglyceride transfer protein,Homo sapi
 CHEMBL239,SINGLE PROTEIN,Peroxisome proliferator-activated receptor alpha,Homo sapiens
 CHEMBL241,SINGLE PROTEIN,"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A",Homo sapiens
 CHEMBL248,SINGLE PROTEIN,Neutrophil elastase,Homo sapiens
-CHEMBL251,SINGLE PROTEIN,Adenosine receptor A2a,Homo sapiens
-CHEMBL264,SINGLE PROTEIN,Histamine H3 receptor,Homo sapiens
 CHEMBL2782,SINGLE PROTEIN,Sterol O-acyltransferase 1,Homo sapiens
 CHEMBL2929,SINGLE PROTEIN,Proprotein convertase subtilisin/kexin type 9,Homo sapiens
 CHEMBL3286,SINGLE PROTEIN,Urokinase-type plasminogen activator,Homo sapiens
@@ -46,16 +37,12 @@ CHEMBL3471,SINGLE PROTEIN,Human immunodeficiency virus type 1 integrase,Human im
 CHEMBL3559701,SINGLE PROTEIN,Proto-oncogene Mas,Homo sapiens
 CHEMBL3713712,SINGLE PROTEIN,Elastin,Homo sapiens
 CHEMBL3720,SINGLE PROTEIN,ATP-citrate synthase,Homo sapiens
-CHEMBL3831286,PROTEIN COMPLEX,Cardiac myosin,Homo sapiens
 CHEMBL3884,SINGLE PROTEIN,Sodium/glucose cotransporter 2,Homo sapiens
 CHEMBL4015,SINGLE PROTEIN,C-C chemokine receptor type 2,Homo sapiens
 CHEMBL402,SINGLE PROTEIN,3-hydroxy-3-methylglutaryl-coenzyme A reductase,Homo sapiens
-CHEMBL4163,SINGLE PROTEIN,Toll-like receptor 2,Homo sapiens
 CHEMBL4235,SINGLE PROTEIN,11-beta-hydroxysteroid dehydrogenase 1,Homo sapiens
 CHEMBL4427,SINGLE PROTEIN,Prostaglandin D2 receptor,Homo sapiens
 CHEMBL4465,SINGLE PROTEIN,Sterol O-acyltransferase 2,Homo sapiens
-CHEMBL4506,SINGLE PROTEIN,NAD-dependent protein deacetylase sirtuin-1,Homo sapiens
 CHEMBL4550,SINGLE PROTEIN,Arachidonate 5-lipoxygenase-activating protein,Homo sapiens
 CHEMBL4630662,NUCLEIC-ACID,PCSK9 mRNA,Homo sapiens
 CHEMBL5255,SINGLE PROTEIN,Toll-like receptor 4,Homo sapiens
-CHEMBL5498507,OLIGOSACCHARIDE,Polysaccharide conjugated to Tetanus toxoid,Neisseria meningitidis

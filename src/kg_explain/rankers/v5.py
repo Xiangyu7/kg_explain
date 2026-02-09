@@ -75,9 +75,8 @@ def run_v5(cfg: Config) -> dict[str, Path]:
     safety_penalty_w = float(rank_cfg.get("safety_penalty_weight", 0.3))
     trial_penalty_w = float(rank_cfg.get("trial_failure_penalty", 0.2))
     phenotype_boost_w = float(rank_cfg.get("phenotype_overlap_boost", 0.1))
-    serious_ae_kw = cfg.raw.get("serious_ae_keywords", [
-        "death", "fatal", "life-threatening", "hospitalisation", "disability"
-    ])
+    serious_ae_kw = cfg.serious_ae_keywords
+    min_prr = float(cfg.faers.get("min_prr", 0))
 
     # 加载V3结果
     pair_v3 = read_csv(output_dir / "drug_disease_rank_v3.csv", dtype=str)
@@ -85,25 +84,29 @@ def run_v5(cfg: Config) -> dict[str, Path]:
 
     # 加载FAERS数据 (可选)
     ae_df = None
+    has_prr = False
     ae_path = data_dir / "edge_drug_ae_faers.csv"
     if ae_path.exists():
         ae_df = read_csv(ae_path, dtype=str)
         ae_df["report_count"] = pd.to_numeric(ae_df["report_count"], errors="coerce").fillna(0)
+        if "prr" in ae_df.columns:
+            ae_df["prr"] = pd.to_numeric(ae_df["prr"], errors="coerce").fillna(0.0)
+            has_prr = True
 
     # 加载表型数据 (可选)
     phe_df = None
     phe_path = data_dir / "edge_disease_phenotype.csv"
-    if phe_path.exists():
+    if phe_path.exists() and phe_path.stat().st_size > 1:
         phe_df = read_csv(phe_path, dtype=str)
 
     # 加载试验AE数据 (可选)
     trial_ae_df = None
     trial_path = data_dir / "edge_trial_ae.csv"
-    if trial_path.exists():
+    if trial_path.exists() and trial_path.stat().st_size > 1:
         trial_ae_df = read_csv(trial_path, dtype=str)
 
     def calc_safety_penalty(drug: str) -> tuple[float, list[dict]]:
-        """计算安全惩罚"""
+        """计算安全惩罚 (用 PRR 做信号门槛)"""
         if ae_df is None:
             return 0.0, []
         drug_aes = ae_df[ae_df["drug_normalized"] == drug.lower().strip()]
@@ -115,7 +118,12 @@ def run_v5(cfg: Config) -> dict[str, Path]:
         for _, ae in drug_aes.head(10).iterrows():
             term = ae.get("ae_term", "")
             count = float(ae.get("report_count", 0))
+            prr = float(ae.get("prr", 0)) if has_prr else 0.0
             is_serious = _is_serious_ae(term, serious_ae_kw)
+
+            # PRR 信号门槛: 低于阈值的不视为真实信号，跳过
+            if has_prr and min_prr > 0 and prr < min_prr:
+                continue
 
             ae_penalty = np.log1p(count) / 10.0
             if is_serious:
@@ -125,6 +133,7 @@ def run_v5(cfg: Config) -> dict[str, Path]:
             ae_evidence.append({
                 "ae_term": term,
                 "report_count": int(count),
+                "prr": round(prr, 4),
                 "is_serious": is_serious,
             })
 

@@ -5,13 +5,15 @@ Reactome 数据源
 API: https://reactome.org/ContentService
 """
 from __future__ import annotations
+import logging
 from pathlib import Path
 
 import pandas as pd
-from tqdm import tqdm
 
 from ..cache import HTTPCache, cached_get_json
-from ..utils import read_csv
+from ..utils import read_csv, concurrent_map
+
+logger = logging.getLogger(__name__)
 
 # Reactome API端点
 REACTOME_API = "https://reactome.org/ContentService"
@@ -40,25 +42,32 @@ def fetch_target_pathways(
     """
     xref = read_csv(data_dir / "target_xref.csv", dtype=str)
     up = xref[["target_chembl_id", "uniprot_accession"]].dropna().drop_duplicates()
+    pair_list = [(r["target_chembl_id"], r["uniprot_accession"]) for _, r in up.iterrows()]
 
-    rows = []
-    for _, r in tqdm(up.iterrows(), total=len(up), desc="Reactome Target→Pathway"):
-        tid = r["target_chembl_id"]
-        u = r["uniprot_accession"]
-
+    def _fetch_one(pair):
+        tid, u = pair
         try:
             ps = _reactome_pathways_for_uniprot(cache, u)
-        except Exception:
-            ps = []
+        except Exception as e:
+            logger.warning("Reactome 查询失败, uniprot=%s: %s", u, e)
+            return []
+        return [{
+            "target_chembl_id": tid,
+            "uniprot_accession": u,
+            "reactome_stid": p.get("stId") or p.get("stIdVersion") or p.get("id"),
+            "reactome_name": p.get("displayName") or p.get("name"),
+        } for p in ps]
 
-        for p in ps:
-            rows.append({
-                "target_chembl_id": tid,
-                "uniprot_accession": u,
-                "reactome_stid": p.get("stId") or p.get("stIdVersion") or p.get("id"),
-                "reactome_name": p.get("displayName") or p.get("name"),
-            })
+    results = concurrent_map(
+        _fetch_one, pair_list,
+        max_workers=cache.max_workers, desc="Reactome Target→Pathway",
+    )
+    rows = [row for result in results for row in result]
+
+    out_df = pd.DataFrame(rows).dropna(subset=["target_chembl_id", "reactome_stid"]).drop_duplicates()
+    logger.info("Target→Pathway 关系: %d 条边, %d 个靶点, %d 个通路",
+                len(out_df), out_df["target_chembl_id"].nunique(), out_df["reactome_stid"].nunique())
 
     out = data_dir / "edge_target_pathway_all.csv"
-    pd.DataFrame(rows).dropna(subset=["target_chembl_id", "reactome_stid"]).drop_duplicates().to_csv(out, index=False)
+    out_df.to_csv(out, index=False)
     return out

@@ -1,382 +1,166 @@
-drug_raw,rxnorm_term,chembl_id,chembl_pref_name
-0.9% sodium chloride injection solution,,CHEMBL2108860,SODIUM PSYLLIATE [INJECTION]
-1 or more AndraTec devices (see description for list of devices),,CHEMBL5892451,
-10 x 10^6 cells,,CHEMBL39541,DOLASTATIN-10
-18F-FPPRGD2,,CHEMBL2023193,[18F]FLUORORASAGILINE
-2.25 mm XIENCE V® Everolimus Eluting Coronary Stent System,,CHEMBL1908360,EVEROLIMUS
-3 x 10^6 cells,,CHEMBL253548,6-Deoxymanzamine X
-3-D Volume Ultrasound,,CHEMBL2111117,FLUDALANINE
-30 x 10^6 cells,,CHEMBL253548,6-Deoxymanzamine X
-6% Hydroxyethylstarch,,CHEMBL1298,NORVERAPAMIL
-99mTc-Annexin-V-128 uptake on scintigraphy,,CHEMBL5095265,ANNEXIN A5
-99mTc-rhAnnexin V-128,,CHEMBL2074629,
-99mTc-tilmanocept SPECT/CT scanning,,CHEMBL5315077,TILMANOCEPT
-AAV directed hLDLR gene therapy,,CHEMBL4298181,RESAMIRIGENE BILPARVOVEC
-ABI,,CHEMBL506509,
-ASI Device,,CHEMBL5306993,
-Absorb Bioresorbable Vascular Scaffold,,CHEMBL6068572,AUTOLOGOUS ADIPOSE-DERIVED STROMAL VASCULAR FRACTION
-AbsorbaSeal 6Fr Vascular Closure Device,,CHEMBL6068572,AUTOLOGOUS ADIPOSE-DERIVED STROMAL VASCULAR FRACTION
-Acetylsalicylic Acid,,CHEMBL2429949,ACETYLSALICYLIC-LYSINE
-Active FlowOx™,,CHEMBL4802227,ACTIVE ALKYLATING AGENT CANFOSFAMIDE
-Aggressive BP lowering,,CHEMBL1401324,
-Alirocumab,,CHEMBL2109540,ALIROCUMAB
-Alirocumab 150 MG/ML subcutaneous injection,,CHEMBL2109540,ALIROCUMAB
-Aliskiren,,CHEMBL1639,ALISKIREN
-Angioplasty and Stent Implant,,CHEMBL1628401,
-Angiotensin 1-7,,CHEMBL3545347,TALFIRASTIDE
-Ankle Brachial Index,,CHEMBL3989859,TOCOPHEROL ACETATE
-Ankle Brachial Index Venous physiologic study,,CHEMBL3989859,TOCOPHEROL ACETATE
-Aspirin,,CHEMBL25,ASPIRIN
-Aspirin + Ticagrelor,,CHEMBL398435,TICAGRELOR
-Aspirin 25 mg bid,,CHEMBL25,ASPIRIN
-Aspirin tablet,,CHEMBL25,ASPIRIN
-Assessment of BMD by DXA and HRpQCT,,CHEMBL13829,MIXTURE OF MMC AND TA
-Atenolol,,CHEMBL24,ATENOLOL
-Atorvastatin,,CHEMBL1487,ATORVASTATIN
-Atorvastatin 20 mg + Pioglitazone 30 mg,,CHEMBL5314922,MG-S-2525
-Atorvastatin 20mg,,CHEMBL1487,ATORVASTATIN
-Autologous ASC (for Adipose-derived Stem/Stroma Cell),,CHEMBL6068572,AUTOLOGOUS ADIPOSE-DERIVED STROMAL VASCULAR FRACTION
-Axys EX device,,CHEMBL382277,EX-527
-BIWH 3,,CHEMBL1835901,
-BMS-823778,,CHEMBL4297457,BMS-823778
-BMS-844421,,CHEMBL4303322,
-Best medical therapy,,CHEMBL2108889,"AIR, MEDICAL"
-Biktarvy,,CHEMBL3989867,BICTEGRAVIR SODIUM
-Bilateral NMES legs,,CHEMBL443715,PTERULAMIDE I
-Bone marrow concentration device,,CHEMBL6068575,BONE MORPHOGENETIC PROTEIN 2
-Bupivacaine liposome,,CHEMBL1098,BUPIVACAINE
-Bypass,,CHEMBL4297953,ANTI-INHIBITOR COAGULANT COMPLEX
-CPAP machine,,CHEMBL471431,
-CT of the bones,,CHEMBL3544774,
-Canakinumab (ACZ885),,CHEMBL1201834,CANAKINUMAB
-Cangrelor,,CHEMBL334966,CANGRELOR
-Cardiac Rehabilitation,,CHEMBL4297517,MAVACAMTEN
-Cardiology consultation,,CHEMBL442,ERGOTAMINE
-Carotid Artery Stenting,,CHEMBL451770,DPA-714 F-18
-Carotid Endarterectomy,,CHEMBL451770,DPA-714 F-18
-Carotid Stenotic Scan (CSS),,CHEMBL2109581,RING SCAN 111IN
-Carotid artery endarterectomy (surgical),,CHEMBL2108092,"SUTURE, ABSORBABLE SURGICAL"
-Carotid artery stenting with filter (interventional),,CHEMBL451770,DPA-714 F-18
-Carotid endoarterectomy,,CHEMBL451770,DPA-714 F-18
-Celacade™ system,,CHEMBL2108729,PEGNIVACOGIN SODIUM
-Cellgram-CLI,,CHEMBL225157,RESATORVID
-ChampioNIR® SFA Stent,,CHEMBL2235448,
-Chest Computed Tomography (CT) without contrast,,CHEMBL2108157,VOTUMUMAB
-Cholecalciferol,,CHEMBL1042,CHOLECALCIFEROL
-Cigarette,,,
-Cilostazol,,CHEMBL799,CILOSTAZOL
-Cilostazol 100 mg,,CHEMBL799,CILOSTAZOL
-Cilostazol 200 mg,,CHEMBL799,CILOSTAZOL
-Clopidogrel,,CHEMBL1771,CLOPIDOGREL
-Colchicine,,CHEMBL107,COLCHICINE
-Cold water immersion,,CHEMBL1098659,WATER
-Comparator,,CHEMBL3983509,
-Complete SE Stent,,CHEMBL1201054,SELENOMETHIONINE SE 75
-Computed tomography,,CHEMBL2108157,VOTUMUMAB
-Contrast-Enhanced Ultrasound,,CHEMBL6042476,
-Cord blood stem cell injection,,CHEMBL4594461,AUTOLOGOUS CORD BLOOD
-Coronary computed tomography angiography,,CHEMBL2108157,VOTUMUMAB
-Coronary computed tomography angiography (CCTA),,CHEMBL2108157,VOTUMUMAB
-Coronary computed topography (CT) angiography with FFR-CT,,CHEMBL4297274,CT-2584
-DEB,,CHEMBL1651956,ALISPORIVIR
-DLBS1033,,,
-Dabigatran,,CHEMBL539697,DABIGATRAN ETEXILATE
-Dietary protein shake,,CHEMBL1201652,PROTEIN HYDROLYSATE
-Dipyridamole 200 mg bid,,CHEMBL932,DIPYRIDAMOLE
-Dipyridamole 200mg and Aspirin 25mg bid:,,CHEMBL25,ASPIRIN
-Double Atorvastatin,,CHEMBL1487,ATORVASTATIN
-Drug-eluting Stent,,CHEMBL3933876,
-Drug-eluting stent (TAXUS Liberte Paclitaxel-eluting Coronary Stent System),,CHEMBL3933876,
-Dual Antiplatelet (DAPT) Therapy,,CHEMBL5984914,
-EXIST 6F NiTi Stent System FLEX,,CHEMBL3944503,
-EXIST 6F NiTi Stent System PULL,,CHEMBL3944503,
-Electrocardiogram,,,
-Embolic Protection Device (EPD),,CHEMBL456845,PROTECTED SIPHONODICTYAL C
-Endarterectomy carotid artery,,CHEMBL451770,DPA-714 F-18
-EndoPAT,,,
-Endovascular Treatment of PAD,,CHEMBL3250342,
-Endovascular peripheral intervention,,CHEMBL5315108,CHONDROGENIC INDUCED EQUINE ALLOGENEIC PERIPHERAL BLOOD-DERIVED MESENCHYMAL STEM CELLS
-Endurance Evaluation,,CHEMBL1467,ALLOPURINOL
-Entresto,,CHEMBL5315276,
-Everolimus Eluting BVS,,CHEMBL1908360,EVEROLIMUS
-Evolocumab,,CHEMBL2364655,EVOLOCUMAB
-Excimer Laser Ablation Combined Drug-coated Balloon,,CHEMBL157030,
-Exercise,,CHEMBL1082607,SALMETEROL XINAFOATE
-Exercise Rehabilitation,,CHEMBL1082607,SALMETEROL XINAFOATE
-Exercise Therapy,,CHEMBL4298181,RESAMIRIGENE BILPARVOVEC
-Exercise oxymetry,,CHEMBL1082607,SALMETEROL XINAFOATE
-Exoskeleton Optimization,,CHEMBL388560,DIMPYLATE
-Extended Release Nicotinic Acid (Niaspan),,CHEMBL573,NIACIN
-Extended release niacin,,CHEMBL573,NIACIN
-Extra serum sample (7.5 mL),,CHEMBL2109149,"GONADOTROPIN, SERUM"
-Ezetimibe,,CHEMBL1138,EZETIMIBE
-Ezetimibe + Atorvastatin,,CHEMBL1487,ATORVASTATIN
-Ezetimibe + Simvastatin,,CHEMBL1201391,TENIVASTATIN
-Ezetimibe 10mg,,CHEMBL1138,EZETIMIBE
-Ezetrol (Ezetimibe),,CHEMBL1138,EZETIMIBE
-FLEX Dynamic Scoring Catheter with IN.PACT Admiral DCB,,CHEMBL5879229,
-FRAME,,,
-Fasudil Hydrochloride,,CHEMBL541388,FASUDIL HYDROCHLORIDE
-Fentanyl Injection,,CHEMBL1201159,FENTANYL HYDROCHLORIDE
-Fish Oil (Omega-3 Fatty Acids),,CHEMBL4298065,OMEGA-3 FATTY ACIDS
-Flow Mediated Doppler (FMD),,CHEMBL1899801,PERFLENAPENT
-FlowMet,,,
-FlowMet-R,,CHEMBL89731,
-FlowOx™,,,
-Fractional Flow Reserve (FFR),,CHEMBL1272288,
-GFH312,,,
-GP Education,,CHEMBL4297963,GP-100 ANTIGEN
-GRST Peripheral Catheter System,,CHEMBL5315108,CHONDROGENIC INDUCED EQUINE ALLOGENEIC PERIPHERAL BLOOD-DERIVED MESENCHYMAL STEM CELLS
-Gains Framed Message,,CHEMBL24441,BETAHISTINE
-Gemfibrozil,,CHEMBL457,GEMFIBROZIL
-"Gratitude, exercise, and mindfulness program",,CHEMBL1628401,
-HGF Plasmid (AMG0001),,CHEMBL4594561,"INVAC-1, A DOUBLE STRANDED DNA PLASMID VACCINE CONSTRUCT ENCODING UBIQUITIN-HUMAN TELOMERASE REVERSE TRANSCRIPTASE (HTERT) FUSION PROTEIN"
-Heat Therapy (HT),,CHEMBL4522743,
-HemaTrate™ Blood Filtration system,,CHEMBL2108414,"BLOOD, WHOLE"
-Heme arginate + L-arginine,,CHEMBL4297285,HEME ARGINATE
-Hemoglobin glutamer 250 - bovine,,CHEMBL2108603,HEMOGLOBIN GLUTAMER-250 (BOVINE)
-Heparin,,CHEMBL4650299,HEPARIN
-High Definition Intravascular Ultrasound (HD-IVUS),,CHEMBL378601,
-High dose erythropoietin,,CHEMBL664,
-Holofiber fabric,,,
-Hyperbaric Oxygen treatment (HBO),,CHEMBL1234886,OXYGEN
-IN.PACT,,,
-Icosapent ethyl,,CHEMBL2095209,ICOSAPENT ETHYL
-Implantation of everolimus-eluting stent,,CHEMBL1908360,EVEROLIMUS
-Interwoven stent,,CHEMBL428647,PACLITAXEL
-Intracoronary Spectroscopy and Ultrasonic Evaluation,,CHEMBL1628401,
-Isovue,,CHEMBL1200932,IOPAMIDOL
-Jardiance,,CHEMBL2107830,EMPAGLIFLOZIN
-L-arginine + heme arginate,,CHEMBL4297285,HEME ARGINATE
-LEQVIO,,CHEMBL5095052,INCLISIRAN SODIUM
-Laser-cut stent,,CHEMBL428647,PACLITAXEL
-Lifestyle modification,,CHEMBL4298067,TOMARALIMAB
-Lipid apheresis,,CHEMBL3354642,
-Liposuction,,,
-Lomitapide,,CHEMBL2105662,LOMITAPIDE MESYLATE
-Long lesion stenting,,CHEMBL5314789,VORUMOTIDE
-Loss Framed Message,,CHEMBL1598608,AZASETRON
-Low dose erythropoietin,,CHEMBL2108580,"CARBOXYMETHYLCELLULOSE SODIUM, LOW-SUBSTITUTED"
-Low fat,,CHEMBL2108408,"FAT, HARD"
-Lutonix,,,
-Lutonix Drug Coated Balloon Catheter,,CHEMBL157030,
-MAP maintained at 60 mmHg,,CHEMBL4303347,
-MAP maintained at 80 mmHg,,CHEMBL4303347,
-MEDI6012,,CHEMBL4297868,RECOMBINANT HUMAN LECITHIN:CHOLESTEROL ACYLTRANSFERASE
-MESENDO,,,
-MLN1202,,CHEMBL3707228,PLOZALIZUMAB
-MPS,,CHEMBL3422104,
-MRI,,CHEMBL5314529,MONLUNABANT
-"Magnet Resonance Tomography, Carotid Arteries Sonography, Flow-mediated Dilation, Fat-tolerance Test, Laboratory Testing",,CHEMBL2108408,"FAT, HARD"
-Magnetic Resonance Imaging,,CHEMBL2096651,MANGAFODIPIR TRISODIUM
-Matching Placebo,,CHEMBL5590462,
-Matching Placebo subcutaneous injection,,CHEMBL2108760,RINGER'S INJECTION
-Matching placebo,,CHEMBL5590462,
-Measuring IL-4 levels,,CHEMBL6042642,
-Metformin,,CHEMBL1431,METFORMIN
-Metformin 1000 mg,,CHEMBL1431,METFORMIN
-Metoprolol,,CHEMBL2356097,METOPROLOL SUCCINATE
-Midazolam injection,,CHEMBL655,MIDAZOLAM
-Misago RX,,CHEMBL2064455,RODUCITABINE
-Mixed High Fat Diet,,CHEMBL2108408,"FAT, HARD"
-Monounsaturated fat diet,,CHEMBL2108408,"FAT, HARD"
-Montelukast Sodium,,CHEMBL1200681,MONTELUKAST SODIUM
-MyPADMGT,,,
-MyPADMGT + Nudging,,,
-Myocardial Perfusion imaging with 10 minute waiting period,,CHEMBL3989695,REGADENOSON
-N-acetylcysteine,,CHEMBL600,ACETYLCYSTEINE
-NEVO™ Sirolimus-eluting Coronary Stent System,,CHEMBL263427,
-NIRS/IVUS,,CHEMBL2228665,
-NIRS/IVUS of coronary artery,,CHEMBL1201189,AMMONIA N 13
-Natural source Vitamin E 400IU/day,,CHEMBL1790520,BACITRACIN A 
-Nexlizet,,CHEMBL3545313,BEMPEDOIC ACID
-Niacin/Laropiprant combination,,CHEMBL426559,LAROPIPRANT
-NightHawk,,,
-Nitroglycerin,,CHEMBL730,NITROGLYCERIN
-Nitroglycerin 0.4 mg sublingual,,CHEMBL730,NITROGLYCERIN
-No Intervention-Clinical Assessments only,,CHEMBL464738,FUKANEFUROMARIN C
-No cold water immersion,,CHEMBL1098659,WATER
-Non-invasive endothelial function tests,,CHEMBL574431,SULFOBROMOPHTHALEIN
-Noxsano Bandage (Healthy Volunteers),,CHEMBL2108227,"BANDAGE, GAUZE"
-Noxsano Bandage (Wound Care),,CHEMBL2108227,"BANDAGE, GAUZE"
-ODISsey Tissue Oximeter,,CHEMBL4298121,KALLIKREIN-1
-Optical Coherence Tomography,,CHEMBL5919620,
-Optimal Medical Care,,CHEMBL2108889,"AIR, MEDICAL"
-Oxygenesys(TM) Dissolved Oxygen Dressing,,CHEMBL1234886,OXYGEN
-PB125,,,
-PDA-002,,CHEMBL4303334,
-PET fabric,,CHEMBL233133,
-PET-CT with CuATSM,,CHEMBL233133,
-PICO Single-Use Negative Pressure Dressings,,CHEMBL1643772,CRTH2-negative-control
-PMR 135 mg,,CHEMBL5314922,MG-S-2525
-POBA,,,
-PTA Catheter,,CHEMBL427001,Ruthenium(II)-Arene PTA complex
-Pactimibe sulfate,,CHEMBL478858,PACTIMIBE
-Pantheris Atherectomy System,,CHEMBL2108729,PEGNIVACOGIN SODIUM
-Patient education,,,
-Perclose,,,
-Percutaneous Peripheral Intervention,,CHEMBL5315108,CHONDROGENIC INDUCED EQUINE ALLOGENEIC PERIPHERAL BLOOD-DERIVED MESENCHYMAL STEM CELLS
-Percutaneous Transluminal Angioplasty,,CHEMBL334966,CANGRELOR
-Peripheral vascular flow reserve measurement,,CHEMBL6068572,AUTOLOGOUS ADIPOSE-DERIVED STROMAL VASCULAR FRACTION
-Phenprocoumon,,CHEMBL3589649,
-Placebo,,,
-Placebo (for Rimonabant),,CHEMBL111,RIMONABANT
-Placebo Oral Tablet,,CHEMBL2108778,POLIOVIRUS VACCINE LIVE ORAL
-Placebo bolus & placebo infusion,,CHEMBL3833410,KAOLIN ANHYDROUS
-Placebo capsules - end of PCI,,CHEMBL2103863,ABEXINOSTAT
-Placebo capsules - end of infusion,,CHEMBL3770173,
-Placebo group,,CHEMBL2108795,MENINGOCOCCAL POLYSACCHARIDE VACCINE GROUP C
-Placebo matching with BMS-823778,,CHEMBL4297457,BMS-823778
-Placebo procedure (sham),,CHEMBL5798639,
-Placebos,,,
-Placement of WRAPSODY stent graft,,CHEMBL3770173,
-Plerixafor,,CHEMBL5402188,
-Point of care screening for HPR,,CHEMBL5892451,
-Polypill: Red Heart Pill,,CHEMBL210287,BROMOPYROGALLOL RED
-Polyunsaturated fat diet,,CHEMBL2108408,"FAT, HARD"
-Positron emission tomography,,CHEMBL2107799,FLURPIRIDAZ F 18
-Prehabilitation,,,
-Private Feedback,,CHEMBL430,GEMIFLOXACIN
-ProEndoTecc Vascular Graft,,CHEMBL6068572,AUTOLOGOUS ADIPOSE-DERIVED STROMAL VASCULAR FRACTION
-Problem Solving Therapy and Integrated Care,,CHEMBL1628401,
-Procedure/Surgery: Robotic-PVI,,CHEMBL5798639,
-Prolonged interval between PT testing,,CHEMBL5315036,PT-217
-Pulse Wave Imaging,,CHEMBL5315062,LUTETIUM CHLORIDE LU-177
-"Quantitative coronary angiography, intravascular imaging with percutaneous intervention",,CHEMBL334966,CANGRELOR
-REVITIVE® device,,CHEMBL985,UREA
-REX-001,,CHEMBL4303484,
-RV-P1501,,CHEMBL3753868,
-Ranolazine,,CHEMBL1404,RANOLAZINE
-Remodulin (treprostinil sodium) Injection,,CHEMBL561157,TREPROSTINIL SODIUM
-Remodulin® (treprostinil sodium) Injection,,CHEMBL561157,TREPROSTINIL SODIUM
-Remote ischemic preconditioning,,CHEMBL399910,PINOCEMBRIN
-Renal denervation,,CHEMBL3990467,CHROMIUM EDETATE
-Repatha,,CHEMBL2364655,EVOLOCUMAB
-Revitive IX,,CHEMBL380413,
-Rimonabant,,CHEMBL111,RIMONABANT
-Rosiglitazone,,CHEMBL121,ROSIGLITAZONE
-Rosuvastatin,,CHEMBL1744447,ROSUVASTATIN CALCIUM
-Roxwood Anchoring Catheters,,,
-S.M.A.R.T CONTROL Stent,,CHEMBL1643772,CRTH2-negative-control
-SHAM Transcutaneous electrical nerve stimulation (TENS),,CHEMBL4297796,NERVE GROWTH FACTOR
-SLV342,,,
-SMS messages,,CHEMBL1680,OCTREOTIDE
-SP-8356,,CHEMBL2426707,SP-8356
-SUPERA Interwoven self-expanding nitinol stent,,CHEMBL2109108,"BIOLOGICAL INDICATOR FOR STEAM STERILIZATION, SELF-CONTAINED"
-SWiemens MRI scanner,,CHEMBL5314529,MONLUNABANT
-Saline,,CHEMBL2108783,"POTASSIC SALINE [INJECTION], LACTATED"
-"Sapropterin Dihydrochloride (BH4, tetrahydrobiopterin)",,CHEMBL1201774,SAPROPTERIN
-Saturated fat diet,,CHEMBL2108408,"FAT, HARD"
-Serine proteinase-1 (Serp-1),,CHEMBL4297879,.ALPHA.1-PROTEINASE INHIBITOR HUMAN
-Serranator® Alto,,CHEMBL1295,BUTOCONAZOLE
-Sevelamer Carbonate (Renvela),,CHEMBL5314347,SEVELAMER CARBONATE
-Sham FlowOx™ (Placebo),,CHEMBL309339,SALICYLHYDROXAMIC ACID
-Sham HBO,,CHEMBL3707334,PERBORIC ACID
-Sham Remote Ischemic Preconditioning,,CHEMBL309339,SALICYLHYDROXAMIC ACID
-Shear Wave Elastography,,,
-Short spot stenting,,CHEMBL1604375,FENTHION
-Sildenafil,,CHEMBL1737,SILDENAFIL CITRATE
-Silverhawk Plaque Excision,,,
-Simvastatin,,CHEMBL1201391,TENIVASTATIN
-Simvastatin 40mg,,CHEMBL1201391,TENIVASTATIN
-Six minute walk distance,,CHEMBL59526,
-Smoking Abstinence,,CHEMBL2108210,LAVENDER OIL
-Social Network Feedback,,CHEMBL514270,EMICERFONT
-Sonodynamic therapy,,CHEMBL4298181,RESAMIRIGENE BILPARVOVEC
-Sonodynamic therapy (SDT),,CHEMBL4298181,RESAMIRIGENE BILPARVOVEC
-Sonodynamic therapy(SDT),,CHEMBL4298181,RESAMIRIGENE BILPARVOVEC
-SpectralMD DeepView Wound Imaging System 2.0,,CHEMBL3648126,
-Spironolactone,,CHEMBL1393,SPIRONOLACTONE
-Standard Manual Compression,,CHEMBL261657,THIOSEMICARBAZONE STANDARD
-Standard care,,CHEMBL261657,THIOSEMICARBAZONE STANDARD
-Statin,,CHEMBL286958,
-Statin therapy,,CHEMBL4298181,RESAMIRIGENE BILPARVOVEC
-Statseal,,,
-Statseal with TR Band,,CHEMBL269476,
-Stellarex DCB,,CHEMBL5879229,
-Stem Cell Injection,,CHEMBL2108760,RINGER'S INJECTION
-Stem cell infusion,,CHEMBL4298054,STEM BROMELAIN
-Stenting and micro-infusion of NP,,CHEMBL5095254,NP-10679
-Sterile Gauze Dressings,,CHEMBL2108516,"GAUZE, ABSORBENT"
-Strain Imaging,,CHEMBL5315114,MYCOPLASMA SYNOVIAE STRAIN MS-H
-Stretching exercise group,,CHEMBL2108795,MENINGOCOCCAL POLYSACCHARIDE VACCINE GROUP C
-Sugar pill,,CHEMBL1201647,"SUGAR, INVERT"
-Supervised Exercise Therapy,,CHEMBL4298181,RESAMIRIGENE BILPARVOVEC
-TBI,,CHEMBL5201490,TBI-223
-THS,,CHEMBL4790618,
-TOTUM-070,,CHEMBL4545807,BAY-070
-TR band only,,CHEMBL269476,
-Telephone-based support calls,,CHEMBL324631,PIPERIDINE BASED ANALOGUE OF COCAINE (STRUCTURAL MIX)
-Telerobotic Ultrasound for Carotid Arteries,,CHEMBL521875,
-Temsirolimus,,CHEMBL1201182,TEMSIROLIMUS
-Temsirolimus and dexamethasone sodium phosphate,,CHEMBL2021430,DEXAMETHASONE SODIUM PHOSPHATE
-The Synergy® stent,,CHEMBL3544774,
-The Tack Endovascular System,,CHEMBL3544774,
-Ticagrelor,,CHEMBL398435,TICAGRELOR
-Ticagrelor 90mg,,CHEMBL398435,TICAGRELOR
-Toshiba Aquilion ONE CT,,CHEMBL4297274,CT-2584
-Transcutaneous electrical nerve stimulation (TENS),,CHEMBL4297796,NERVE GROWTH FACTOR
-Treadwell Tredlr,,,
-Treat-to-target strategy,,CHEMBL6068498,NEISSERIA MENINGITIDIS POLYSACCHARIDE CONJUGATED TO TETANUS TOXOID
-Treatment with CSI atherectomy device,,CHEMBL373625,
-TriLipix,,CHEMBL981,FENOFIBRIC ACID
-Triolein 13C,,CHEMBL2110597,TRIOLEIN
-Ultrasound,,CHEMBL1796998,SULFUR HEXAFLUORIDE
-Ultrasound for Carotid Arteries,,CHEMBL521875,
-Urinary Kallikrein,,CHEMBL4298121,KALLIKREIN-1
-Usual medication,,CHEMBL2108889,"AIR, MEDICAL"
-Valvulotomy,,,
-Vascepa,,CHEMBL2095209,ICOSAPENT ETHYL
-Vascular Access Device,,CHEMBL6068572,AUTOLOGOUS ADIPOSE-DERIVED STROMAL VASCULAR FRACTION
-Vascular Rehabilitation,,CHEMBL6068572,AUTOLOGOUS ADIPOSE-DERIVED STROMAL VASCULAR FRACTION
-Virtual Reality,,,
-Vitamin C,,CHEMBL196,ASCORBIC ACID
-Vitamin E,,CHEMBL3989727,VITAMIN E
-Vorapaxar,,CHEMBL493982,VORAPAXAR
-Vytorin (Ezetimibe + Simvastatin),,CHEMBL1201391,TENIVASTATIN
-Walking training group,,CHEMBL2108795,MENINGOCOCCAL POLYSACCHARIDE VACCINE GROUP C
-Warfarin,,CHEMBL1464,WARFARIN
-YQ23,,,
-Yamani-15/5 chemical solution,,CHEMBL5818489,
-Yoga intervention,,CHEMBL334966,CANGRELOR
-Zilver PTX,,CHEMBL538342,
-adenosine infusion treatment,,CHEMBL606298,
-angioplasty,,,
-angioplasty tibial arteries,,CHEMBL563646,EVATANEPAG
-"angioplasty tibial arteries augmented radio frequency denervation popliteal artery by the use""Vessix Renal Denervation System Balloon""",,CHEMBL5999162,
-ascorbic acid,,CHEMBL196,ASCORBIC ACID
-atorvastatin,,CHEMBL1487,ATORVASTATIN
-"atorvastatin, aspirin, losartan, amlodipine",,CHEMBL1200402,AMLODIPINE BESYLATE
-autologous CD133+ cells,,CHEMBL5315099,EX VIVO EXPANDED AUTOLOGOUS HUMAN CORNEAL EPITHELIAL CELLS CONTAINING STEM CELLS
-blood sample,,CHEMBL3965337,
-clopidogrel,,CHEMBL1771,CLOPIDOGREL
-control systolic blood pressure less than 120 mmHg,,CHEMBL1643772,CRTH2-negative-control
-control systolic blood pressure less than 140 mmHg,,CHEMBL1643772,CRTH2-negative-control
-"eicosapentaenoic acid (EPA),",,CHEMBL460026,ICOSAPENT
-everolimus-eluting stents (PROMUS®),,CHEMBL1908360,EVEROLIMUS
-extended release niacin,,CHEMBL573,NIACIN
-ezetimibe,,CHEMBL1138,EZETIMIBE
-high dose flavanoids,,CHEMBL664,
-injection of 68Ga-DOTATATE,,CHEMBL2108490,"INSULIN, NEUTRAL [INJECTION] OF PURIFIED PORCINE"
-lovaza,,CHEMBL1200711,OMEGA-3-ACID ETHYL ESTERS
-low dose flavanoids,,CHEMBL2108580,"CARBOXYMETHYLCELLULOSE SODIUM, LOW-SUBSTITUTED"
-modest blood pressure lowering,,CHEMBL2108414,"BLOOD, WHOLE"
-mycophenolate mofetil,,CHEMBL1456,MYCOPHENOLATE MOFETIL
-niacin/laropiprant,,CHEMBL426559,LAROPIPRANT
-olmesartan medoxomil,,CHEMBL1200692,OLMESARTAN MEDOXOMIL
-percutaneous transluminal angioplasty femoro-popliteal,,CHEMBL334966,CANGRELOR
-placebo,,,
-prednisone,,CHEMBL15720,
-pregabalin,,CHEMBL1059,PREGABALIN
-pseudo-SDT,,CHEMBL30624,
-questionnaire,,,
-rosiglitazone/placebo,,CHEMBL121,ROSIGLITAZONE
-rosuvastatin,,CHEMBL1744447,ROSUVASTATIN CALCIUM
-sirolimus,,CHEMBL263427,
-sirolimus-eluting stents (CYPHER SELECT® PLUS),,CHEMBL263427,
-stent or balloon,,CHEMBL5970128,
-tacrolimus,,CHEMBL3989887,TACROLIMUS
-urokinase,,CHEMBL1201420,UROKINASE
-veliflapon (DG-031),,CHEMBL88712,VELIFLAPON
-vonapanitase,,CHEMBL3545070,VONAPANITASE
-zotarolimus-eluting stent (ENDEAVOR®),,CHEMBL219410,ZOTAROLIMUS
+drug_raw,canonical_name,rxnorm_term,chembl_id,chembl_pref_name
+0.9% sodium chloride injection solution,0.9% sodium chloride injection solution,,CHEMBL2108860,SODIUM PSYLLIATE [INJECTION]
+10 x 10^6 cells,10 x 10^6 cells,,CHEMBL39541,DOLASTATIN-10
+18F-FPPRGD2,18f-fpprgd2,,CHEMBL2023193,[18F]FLUORORASAGILINE
+3 x 10^6 cells,3 x 10^6 cells,,CHEMBL253548,6-Deoxymanzamine X
+30 x 10^6 cells,30 x 10^6 cells,,CHEMBL253548,6-Deoxymanzamine X
+6% Hydroxyethylstarch,6% hydroxyethylstarch,,CHEMBL1298,NORVERAPAMIL
+Acetylsalicylic Acid,acetylsalicylic acid,,CHEMBL2429949,ACETYLSALICYLIC-LYSINE
+Alirocumab,alirocumab,,CHEMBL2109540,ALIROCUMAB
+Alirocumab 150 MG/ML subcutaneous injection,alirocumab,,CHEMBL2109540,ALIROCUMAB
+Aliskiren,aliskiren,,CHEMBL1639,ALISKIREN
+Angiotensin 1-7,angiotensin 1-7,,CHEMBL3545347,TALFIRASTIDE
+Aspirin,acetylsalicylic acid,,CHEMBL2429949,ACETYLSALICYLIC-LYSINE
+Aspirin + Ticagrelor,aspirin + ticagrelor,,CHEMBL398435,TICAGRELOR
+Aspirin 25 mg bid,aspirin,,CHEMBL25,ASPIRIN
+Aspirin tablet,aspirin,,CHEMBL25,ASPIRIN
+Atenolol,atenolol,,CHEMBL24,ATENOLOL
+Atorvastatin,atorvastatin,,CHEMBL1487,ATORVASTATIN
+Atorvastatin 20 mg + Pioglitazone 30 mg,atorvastatin,,CHEMBL1487,ATORVASTATIN
+Atorvastatin 20mg,atorvastatin,,CHEMBL1487,ATORVASTATIN
+Autologous ASC (for Adipose-derived Stem/Stroma Cell),autologous asc (for adipose-derived stem/stroma cell),,CHEMBL6068572,AUTOLOGOUS ADIPOSE-DERIVED STROMAL VASCULAR FRACTION
+BIWH 3,biwh 3,,CHEMBL1835901,
+BMS-823778,bms-823778,,CHEMBL4297457,BMS-823778
+BMS-844421,bms-823778,,CHEMBL4297457,BMS-823778
+Biktarvy,biktarvy,,CHEMBL3989867,BICTEGRAVIR SODIUM
+Bupivacaine liposome,bupivacaine liposome,,CHEMBL1098,BUPIVACAINE
+Canakinumab (ACZ885),canakinumab (acz885),,CHEMBL1201834,CANAKINUMAB
+Cangrelor,cangrelor,,CHEMBL334966,CANGRELOR
+Cellgram-CLI,cellgram-cli,,CHEMBL225157,RESATORVID
+Cholecalciferol,cholecalciferol,,CHEMBL1042,CHOLECALCIFEROL
+Cilostazol,cilostazol,,CHEMBL799,CILOSTAZOL
+Cilostazol 100 mg,cilostazol,,CHEMBL799,CILOSTAZOL
+Cilostazol 200 mg,cilostazol,,CHEMBL799,CILOSTAZOL
+Clopidogrel,clopidogrel,,CHEMBL1771,CLOPIDOGREL
+Colchicine,colchicine,,CHEMBL107,COLCHICINE
+Comparator,comparator,,CHEMBL3983509,
+Contrast-Enhanced Ultrasound,contrast-enhanced ultrasound,,CHEMBL6042476,
+Cord blood stem cell injection,cord blood stem cell,,CHEMBL4594461,AUTOLOGOUS CORD BLOOD
+DLBS1033,dlbs1033,,,
+Dabigatran,dabigatran,,CHEMBL539697,DABIGATRAN ETEXILATE
+Dipyridamole 200 mg bid,dipyridamole,,CHEMBL932,DIPYRIDAMOLE
+Dipyridamole 200mg and Aspirin 25mg bid:,dipyridamole + aspirin,,CHEMBL25,ASPIRIN
+Double Atorvastatin,atorvastatin,,CHEMBL1487,ATORVASTATIN
+Dual Antiplatelet (DAPT) Therapy,dual antiplatelet (dapt) therapy,,CHEMBL5984914,
+Entresto,entresto,,CHEMBL5315276,
+Evolocumab,evolocumab,,CHEMBL2364655,EVOLOCUMAB
+Extended Release Nicotinic Acid (Niaspan),extended release nicotinic acid (niaspan),,CHEMBL573,NIACIN
+Extended release niacin,extended release niacin,,CHEMBL573,NIACIN
+Ezetimibe,ezetimibe,,CHEMBL1138,EZETIMIBE
+Ezetimibe + Atorvastatin,ezetimibe + atorvastatin,,CHEMBL1487,ATORVASTATIN
+Ezetimibe + Simvastatin,ezetimibe + simvastatin,,CHEMBL1201391,TENIVASTATIN
+Ezetimibe 10mg,ezetimibe,,CHEMBL1138,EZETIMIBE
+Ezetrol (Ezetimibe),ezetimibe,,CHEMBL1138,EZETIMIBE
+Fasudil Hydrochloride,fasudil hydrochloride,,CHEMBL541388,FASUDIL HYDROCHLORIDE
+Fentanyl Injection,fentanyl,,CHEMBL1201159,FENTANYL HYDROCHLORIDE
+GFH312,gfh312,,,
+Gemfibrozil,gemfibrozil,,CHEMBL457,GEMFIBROZIL
+HGF Plasmid (AMG0001),hgf plasmid (amg0001),,CHEMBL4594561,"INVAC-1, A DOUBLE STRANDED DNA PLASMID VACCINE CONSTRUCT ENCODING UBIQUITIN-HUMAN TELOMERASE REVERSE TRANSCRIPTASE (HTERT) FUSION PROTEIN"
+Heme arginate + L-arginine,heme arginate + l-arginine,,CHEMBL4297285,HEME ARGINATE
+Hemoglobin glutamer 250 - bovine,hemoglobin glutamer 250 - bovine,,CHEMBL2108603,HEMOGLOBIN GLUTAMER-250 (BOVINE)
+Heparin,heparin,,CHEMBL4650299,HEPARIN
+High dose erythropoietin,high dose erythropoietin,,CHEMBL664,
+Icosapent ethyl,icosapent ethyl,,CHEMBL2095209,ICOSAPENT ETHYL
+Isovue,isovue,,CHEMBL1200932,IOPAMIDOL
+Jardiance,jardiance,,CHEMBL2107830,EMPAGLIFLOZIN
+L-arginine + heme arginate,heme arginate + l-arginine,,CHEMBL4297285,HEME ARGINATE
+LEQVIO,leqvio,,CHEMBL5095052,INCLISIRAN SODIUM
+Lomitapide,lomitapide,,CHEMBL2105662,LOMITAPIDE MESYLATE
+Low dose erythropoietin,low dose erythropoietin,,CHEMBL2108580,"CARBOXYMETHYLCELLULOSE SODIUM, LOW-SUBSTITUTED"
+MEDI6012,medi6012,,CHEMBL4297868,RECOMBINANT HUMAN LECITHIN:CHOLESTEROL ACYLTRANSFERASE
+MESENDO,mesendo,,,
+MLN1202,mln1202,,CHEMBL3707228,PLOZALIZUMAB
+Matching Placebo,matching placebo,,CHEMBL5590462,
+Matching Placebo subcutaneous injection,matching placebo,,CHEMBL5590462,
+Matching placebo,matching placebo,,CHEMBL5590462,
+Metformin,metformin,,CHEMBL1431,METFORMIN
+Metformin 1000 mg,metformin,,CHEMBL1431,METFORMIN
+Metoprolol,metoprolol,,CHEMBL2356097,METOPROLOL SUCCINATE
+Midazolam injection,midazolam,,CHEMBL655,MIDAZOLAM
+Montelukast Sodium,montelukast sodium,,CHEMBL1200681,MONTELUKAST SODIUM
+N-acetylcysteine,n-acetylcysteine,,CHEMBL600,ACETYLCYSTEINE
+Natural source Vitamin E 400IU/day,natural source vitamin e,,CHEMBL1790520,BACITRACIN A 
+Nexlizet,nexlizet,,CHEMBL3545313,BEMPEDOIC ACID
+Niacin/Laropiprant combination,niacin/laropiprant combination,,CHEMBL426559,LAROPIPRANT
+Nitroglycerin,nitroglycerin,,CHEMBL730,NITROGLYCERIN
+Nitroglycerin 0.4 mg sublingual,nitroglycerin,,CHEMBL730,NITROGLYCERIN
+Optimal Medical Care,optimal medical care,,CHEMBL2108889,"AIR, MEDICAL"
+PDA-002,pda-002,,CHEMBL4303334,
+PMR 135 mg,pmr,,CHEMBL5314922,MG-S-2525
+Pactimibe sulfate,pactimibe sulfate,,CHEMBL478858,PACTIMIBE
+Phenprocoumon,phenprocoumon,,CHEMBL3589649,
+Placebo,matching placebo,,CHEMBL5590462,
+Placebo (for Rimonabant),matching placebo,,CHEMBL5590462,
+Placebo Oral Tablet,placebo oral,,CHEMBL2108778,POLIOVIRUS VACCINE LIVE ORAL
+Placebo bolus & placebo infusion,matching placebo,,CHEMBL5590462,
+Placebo capsules - end of PCI,matching placebo,,CHEMBL5590462,
+Placebo capsules - end of infusion,matching placebo,,CHEMBL5590462,
+Placebo group,matching placebo,,CHEMBL5590462,
+Placebo matching with BMS-823778,placebo matching with bms-823778,,CHEMBL4297457,BMS-823778
+Placebos,matching placebo,,CHEMBL5590462,
+Plerixafor,plerixafor,,CHEMBL5402188,
+Polypill: Red Heart Pill,polypill: red heart pill,,CHEMBL210287,BROMOPYROGALLOL RED
+REX-001,rex-001,,CHEMBL4303484,
+RV-P1501,rv-p1501,,CHEMBL3753868,
+Ranolazine,ranolazine,,CHEMBL1404,RANOLAZINE
+Remodulin (treprostinil sodium) Injection,remodulin (treprostinil sodium),,CHEMBL561157,TREPROSTINIL SODIUM
+Remodulin® (treprostinil sodium) Injection,remodulin (treprostinil sodium),,CHEMBL561157,TREPROSTINIL SODIUM
+Repatha,repatha,,CHEMBL2364655,EVOLOCUMAB
+Rimonabant,rimonabant,,CHEMBL111,RIMONABANT
+Rosiglitazone,rosiglitazone,,CHEMBL121,ROSIGLITAZONE
+Rosuvastatin,rosuvastatin,,CHEMBL1744447,ROSUVASTATIN CALCIUM
+SLV342,slv342,,,
+SP-8356,sp-8356,,CHEMBL2426707,SP-8356
+Saline,saline,,CHEMBL2108783,"POTASSIC SALINE [INJECTION], LACTATED"
+"Sapropterin Dihydrochloride (BH4, tetrahydrobiopterin)",sapropterin dihydrochloride (bh4 + tetrahydrobiopterin),,CHEMBL1201774,SAPROPTERIN
+Serine proteinase-1 (Serp-1),serine proteinase-1 (serp-1),,CHEMBL4297879,.ALPHA.1-PROTEINASE INHIBITOR HUMAN
+Sevelamer Carbonate (Renvela),sevelamer carbonate (renvela),,CHEMBL5314347,SEVELAMER CARBONATE
+Sildenafil,sildenafil,,CHEMBL1737,SILDENAFIL CITRATE
+Simvastatin,simvastatin,,CHEMBL1201391,TENIVASTATIN
+Simvastatin 40mg,simvastatin,,CHEMBL1201391,TENIVASTATIN
+Spironolactone,spironolactone,,CHEMBL1393,SPIRONOLACTONE
+Statin,statin,,CHEMBL286958,
+Statin therapy,statin,,CHEMBL286958,
+Statseal,statseal,,,
+Stem cell infusion,stem cell,,CHEMBL4298054,STEM BROMELAIN
+Sugar pill,sugar pill,,CHEMBL1201647,"SUGAR, INVERT"
+Temsirolimus,temsirolimus,,CHEMBL1201182,TEMSIROLIMUS
+Temsirolimus and dexamethasone sodium phosphate,temsirolimus + dexamethasone sodium phosphate,,CHEMBL2021430,DEXAMETHASONE SODIUM PHOSPHATE
+Ticagrelor,aspirin + ticagrelor,,CHEMBL398435,TICAGRELOR
+Ticagrelor 90mg,ticagrelor,,CHEMBL398435,TICAGRELOR
+TriLipix,trilipix,,CHEMBL981,FENOFIBRIC ACID
+Urinary Kallikrein,urinary kallikrein,,CHEMBL4298121,KALLIKREIN-1
+Usual medication,usual medication,,CHEMBL2108889,"AIR, MEDICAL"
+Vascepa,vascepa,,CHEMBL2095209,ICOSAPENT ETHYL
+Vitamin C,vitamin c,,CHEMBL196,ASCORBIC ACID
+Vitamin E,vitamin e,,CHEMBL3989727,VITAMIN E
+Vorapaxar,vorapaxar,,CHEMBL493982,VORAPAXAR
+Vytorin (Ezetimibe + Simvastatin),vytorin (ezetimibe + simvastatin),,CHEMBL1201391,TENIVASTATIN
+Warfarin,warfarin,,CHEMBL1464,WARFARIN
+YQ23,yq23,,,
+Yamani-15/5 chemical solution,yamani-15/5 chemical solution,,CHEMBL5818489,
+adenosine infusion treatment,adenosine infusion treatment,,CHEMBL606298,
+ascorbic acid,vitamin c,,CHEMBL196,ASCORBIC ACID
+atorvastatin,atorvastatin,,CHEMBL1487,ATORVASTATIN
+"atorvastatin, aspirin, losartan, amlodipine",atorvastatin + aspirin + losartan + amlodipine,,CHEMBL1200402,AMLODIPINE BESYLATE
+autologous CD133+ cells,stem cell,,CHEMBL4298054,STEM BROMELAIN
+clopidogrel,clopidogrel,,CHEMBL1771,CLOPIDOGREL
+control systolic blood pressure less than 120 mmHg,control systolic blood pressure less than 120 mmhg,,CHEMBL1643772,CRTH2-negative-control
+control systolic blood pressure less than 140 mmHg,control systolic blood pressure less than 120 mmhg,,CHEMBL1643772,CRTH2-negative-control
+extended release niacin,extended release niacin,,CHEMBL573,NIACIN
+ezetimibe,ezetimibe,,CHEMBL1138,EZETIMIBE
+injection of 68Ga-DOTATATE,injection of 68ga-dotatate,,CHEMBL2108490,"INSULIN, NEUTRAL [INJECTION] OF PURIFIED PORCINE"
+lovaza,lovaza,,CHEMBL1200711,OMEGA-3-ACID ETHYL ESTERS
+mycophenolate mofetil,mycophenolate mofetil,,CHEMBL1456,MYCOPHENOLATE MOFETIL
+niacin/laropiprant,niacin/laropiprant,,CHEMBL426559,LAROPIPRANT
+olmesartan medoxomil,olmesartan medoxomil,,CHEMBL1200692,OLMESARTAN MEDOXOMIL
+placebo,matching placebo,,CHEMBL5590462,
+prednisone,prednisone,,CHEMBL15720,
+pregabalin,pregabalin,,CHEMBL1059,PREGABALIN
+rosiglitazone/placebo,matching placebo,,CHEMBL5590462,
+rosuvastatin,rosuvastatin,,CHEMBL1744447,ROSUVASTATIN CALCIUM
+sirolimus,sirolimus,,CHEMBL263427,
+tacrolimus,tacrolimus,,CHEMBL3989887,TACROLIMUS
+urokinase,urokinase,,CHEMBL1201420,UROKINASE
+veliflapon (DG-031),veliflapon (dg-031),,CHEMBL88712,VELIFLAPON
+vonapanitase,vonapanitase,,CHEMBL3545070,VONAPANITASE
